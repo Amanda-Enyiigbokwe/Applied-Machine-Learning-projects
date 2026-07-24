@@ -1,0 +1,456 @@
+Order_ID,Purchase_Date,Customer_Age,Customer_Segment,Region,Product_Category,Product_Price,Discount_Percent,Promotion_Type,Purchase_Channel,Payment_Method,Shipping_Method,Delivery_Time_Days,Items_In_Order,Previous_Orders,Prior_Return_Count,Product_Rating,Size_Fit_Issue_Level,Product_Page_Views,Customer_Support_Contact,Return_Window_Days,Returned
+ORD-10116,14/02/2026,43,New Customer,British Columbia,Beauty,388.21,0,No Promotion,Mobile App,Credit Card,Express,3,6,2,0,4.1,Low,11,No,14,Yes
+ORD-10179,31/05/2026,30,New Customer,British Columbia,Home & Kitchen,65.04,,No Promotion,Mobile App,Credit Card,Standard,7,2,2,0,4.1,High,1,No,60,No
+ORD-10088,14/02/2026,41,New Customer,Atlantic Canada,Home & Kitchen,112.13,0,No Promotion,Website,Buy Now Pay Later,Express,2,5,1,0,3.6,Low,6,No,30,No
+ORD-10411,13/03/2026,38,Returning Customer,British Columbia,Home & Kitchen,143.35,25,Percentage Discount,Marketplace,PayPal,Express,2,3,9,0,5,Low,4,Yes,60,No
+ORD-10005,09/05/2026,40,Returning Customer,Atlantic Canada,Home & Kitchen,22.62,0,No Promotion,Mobile App,Buy Now Pay Later,Standard,3,3,4,0,3.3,High,6,Yes,45,Yes
+ORD-10175,22/05/2026,58,New Customer,Ontario,Home & Kitchen,168.76,15,Percentage Discount,Mobile App,Debit Card,Express,2,3,0,1,3.2,High,3,No,60,Yes
+ORD-10368,17/02/2026,36,VIP Customer,Ontario,Beauty,293.14,5,Bundle Offer,Marketplace,Credit Card,Standard,6,3,12,4,3.9,Low,6,No,45,No
+ORD-10268,22/05/2026,38,Discount Shopper,Alberta,Home & Kitchen,360.86,20,Bundle Offer,Website,Debit Card,Standard,6,2,15,2,3.8,Medium,7,No,30,No
+ORD-10379,22/01/2026,31,New Customer,Quebec,Apparel,68.98,0,No Promotion,Mobile App,Credit Card,Express,2,4,1,0,3.1,Low,7,No,30,Yes
+ORD-10421,11/04/2026,26,Returning Customer,British Columbia,Apparel,27.76,10,Free Shipping,Mobile App,Debit Card,Standard,4,1,10,1,3.7,Low,1,No,45,No
+ORD-10110,05/05/2026,41,New Customer,,Home & Kitchen,367.3,5,Bundle Offer,Social Commerce,Debit Card,Standard,6,3,1,0,3.4,Low,5,No,30,Yes
+ORD-10303,06/02/2026,35,VIP Customer,Ontario,Apparel,138.28,5,Bundle Offer,Website,PayPal,Express,1,2,20,1,4.4,Medium,6,No,30,Yes
+ORD-10077,17/05/2026,25,Discount Shopper,Quebec,Apparel,126.38,30,Percentage Discount,Website,Credit Card,Standard,7,5,14,0,4.7,Medium,4,Yes,45,Yes
+ORD-10151,14/01/2026,32,Returning Customer,Prairies,Home & Kitchen,326.55,0,No Promotion,Marketplace,Credit Card,Standard,6,2,0,0,3.3,Low,2,No,30,No
+ORD-10447,12/03/2026,22,Returning Customer,British Columbia,Apparel,59.11,10,Bundle Offer,Mobile App,Credit Card,Standard,7,1,19,0,3.2,Low,3,No,45,Yes
+ORD-10250,17/01/2026,50,Returning Customer,British Columbia,Footwear,188.02,10,Percentage Discount,Marketplace,Debit Card,Express,3,1,4,2,3.4,High,5,No,45,No
+ORD-10359,09/02/2026,33,Returning Customer,British Columbia,Apparel,218.51,0,No Promotion,Website,Credit Card,Express,1,3,5,1,3.9,High,1,No,30,Yes
+ORD-10434,07/05/2026,41,Discount Shopper,Ontario,Home & Kitchen,194.3,5,Free Shipping,Website,Credit Card,Express,2,1,2,3,3.7,Low,5,No,60,No
+ORD-10406,01/02/2026,31,Returning Customer,Ontario,Footwear,342.59,40,Percentage Discount,Mobile App,Debit Card,Express,2,1,0,2,3.6,Low,6,Yes,30,Yes
+ORD-10309,17/05/2026,40,Discount Shopper,Atlantic Canada,Electronics,437.78,30,Percentage Discount,Marketplace,Debit Card,Standard,6,1,8,3,4.2,Medium,3,No,45,Yes
+ORD-10377,12/01/2026,42,Discount Shopper,Quebec,Home & Kitchen,294.32,15,Percentage Discount,Website,PayPal,Standard,3,1,12,3,3.9,Medium,5,No,14,No
+ORD-10219,16/04/2026,28,New Customer,Atlantic Canada,Accessories,112.82,5,Free Shipping,Mobile App,Debit Card,Standard,4,1,1,1,4.7,Medium,1,No,14,Yes
+ORD-10438,04/01/2026,28,Returning Customer,Alberta,Home & Kitchen,417.03,0,No Promotion,Mobile App,Debit Card,Standard,4,1,12,0,3.7,Low,7,No,45,No
+ORD-10420,22/04/2026,34,New Customer,Atlantic Canada,Accessories,130.66,15,Percentage Discount,Website,Credit Card,Standard,3,3,2,0,3.2,Low,3,No,45,No
+ORD-10311,03/01/2026,35,New Customer,Prairies,Beauty,324.51,30,Percentage Discount,Website,PayPal,Standard,5,1,2,0,4.3,Low,2,No,60,No
+ORD-10084,11/05/2026,48,VIP Customer,Atlantic Canada,Footwear,50.91,5,Free Shipping,Marketplace,Buy Now Pay Later,Express,2,2,37,3,4.8,High,1,No,45,Yes
+ORD-10398,13/05/2026,25,Returning Customer,Alberta,Apparel,217.44,10,Bundle Offer,Website,Buy Now Pay Later,Same-Day,1,2,0,0,4.9,High,4,No,14,Yes
+ORD-10286,26/05/2026,18,Returning Customer,Prairies,Electronics,,10,Percentage Discount,Website,Credit Card,Standard,7,1,17,2,3.2,Low,9,No,14,No
+ORD-10063,18/01/2026,25,New Customer,Alberta,Home & Kitchen,159.83,0,No Promotion,Mobile App,Credit Card,Standard,6,2,2,0,4.6,Low,5,No,60,No
+ORD-10159,07/03/2026,25,Discount Shopper,Prairies,Apparel,147.5,0,No Promotion,Marketplace,PayPal,Standard,4,3,0,3,3.9,Medium,1,No,14,No
+ORD-10316,25/01/2026,64,VIP Customer,Atlantic Canada,Accessories,143.51,10,Free Shipping,Mobile App,Credit Card,Express,1,1,36,3,4.9,Low,6,No,60,No
+ORD-10273,30/01/2026,45,Returning Customer,Atlantic Canada,Electronics,265.09,15,Bundle Offer,Marketplace,PayPal,Express,2,4,9,0,4.7,Medium,3,No,45,No
+ORD-10422,06/02/2026,33,Returning Customer,Ontario,Apparel,227.12,10,Percentage Discount,Mobile App,Credit Card,Express,2,1,12,1,3.9,High,1,No,14,Yes
+ORD-10419,13/04/2026,53,New Customer,British Columbia,Apparel,221.37,0,No Promotion,Mobile App,Credit Card,Express,1,2,0,0,3.6,Low,7,No,30,No
+ORD-10223,08/03/2026,41,Returning Customer,,Beauty,388.96,5,Free Shipping,Marketplace,Credit Card,Express,1,2,17,2,3.6,Low,1,No,45,No
+ORD-10314,27/02/2026,47,Returning Customer,British Columbia,Apparel,119.05,15,Bundle Offer,Mobile App,Credit Card,Express,2,2,7,3,4.3,Medium,2,Yes,60,No
+ORD-10410,18/02/2026,29,Returning Customer,Alberta,Beauty,108.78,20,Percentage Discount,Mobile App,Buy Now Pay Later,Standard,3,3,16,0,3.4,High,5,No,14,No
+ORD-10089,04/03/2026,19,Returning Customer,Prairies,Beauty,182.12,15,Bundle Offer,Mobile App,Credit Card,Same-Day,0,2,6,1,3.3,Medium,1,No,60,Yes
+ORD-10006,17/05/2026,49,Returning Customer,Atlantic Canada,Footwear,234.83,5,Bundle Offer,Website,Debit Card,Express,2,2,16,0,4,Low,3,No,14,No
+ORD-10414,12/02/2026,32,Returning Customer,Prairies,Apparel,64.34,0,No Promotion,Mobile App,PayPal,Standard,4,3,1,0,3.5,High,7,No,60,No
+ORD-10262,09/05/2026,39,Returning Customer,Ontario,Home & Kitchen,332.51,30,Percentage Discount,Marketplace,PayPal,Standard,3,1,11,0,4.9,High,1,No,30,Yes
+ORD-10423,18/03/2026,24,Discount Shopper,Quebec,Home & Kitchen,20.59,5,Free Shipping,Website,Credit Card,Express,1,3,24,2,4.2,Low,8,No,30,No
+ORD-10187,25/03/2026,21,Returning Customer,Ontario,Apparel,76.59,15,Percentage Discount,Website,Credit Card,Same-Day,0,1,14,2,3.7,Medium,8,No,60,No
+ORD-10092,16/01/2026,44,Returning Customer,Alberta,Accessories,92.6,40,Percentage Discount,Mobile App,Debit Card,Standard,4,1,8,0,,Low,9,Yes,45,No
+ORD-10369,21/02/2026,32,VIP Customer,Alberta,Electronics,466.8,0,No Promotion,Marketplace,Credit Card,Same-Day,0,1,34,1,3.6,Low,6,No,30,Yes
+ORD-10142,17/03/2026,27,Discount Shopper,Quebec,Footwear,309.53,0,No Promotion,Marketplace,PayPal,Standard,5,2,20,1,4,High,2,No,30,Yes
+ORD-10184,27/03/2026,18,Discount Shopper,Alberta,Apparel,153.18,0,No Promotion,Website,Credit Card,Express,3,2,5,3,5,Medium,7,No,30,No
+ORD-10156,15/02/2026,60,Returning Customer,Atlantic Canada,Electronics,310.16,0,No Promotion,Website,PayPal,Express,2,3,14,0,3.4,Low,1,No,45,No
+ORD-10301,03/04/2026,39,New Customer,British Columbia,Accessories,95.87,0,Free Shipping,Website,Credit Card,Standard,5,2,0,0,2.2,Medium,2,No,30,No
+ORD-10079,16/04/2026,30,Discount Shopper,British Columbia,Electronics,140.85,5,Free Shipping,Marketplace,Credit Card,Same-Day,1,3,7,1,4,Low,9,No,30,Yes
+ORD-10130,27/01/2026,50,New Customer,Ontario,Home & Kitchen,186.7,0,No Promotion,Website,PayPal,Standard,7,1,1,1,4,Low,10,No,30,No
+ORD-10441,07/01/2026,46,New Customer,British Columbia,Electronics,408.39,0,No Promotion,Mobile App,Debit Card,Standard,6,1,0,0,5,Low,5,Yes,45,No
+ORD-10290,17/02/2026,32,Returning Customer,Atlantic Canada,Home & Kitchen,283.95,15,Percentage Discount,Mobile App,Credit Card,Express,2,3,7,1,3.8,Medium,1,No,60,No
+ORD-10062,08/05/2026,46,Returning Customer,Atlantic Canada,Accessories,92.32,40,Percentage Discount,Marketplace,Credit Card,Express,2,2,10,0,4.5,Low,2,No,14,No
+ORD-10239,28/03/2026,36,New Customer,Ontario,Apparel,39.65,10,Free Shipping,Mobile App,PayPal,Standard,3,2,0,0,2.3,High,5,Yes,45,Yes
+ORD-10200,25/03/2026,33,Returning Customer,Atlantic Canada,Apparel,140.9,0,Free Shipping,Marketplace,Debit Card,Same-Day,1,1,5,1,4.1,Medium,3,Yes,45,No
+ORD-10172,16/04/2026,24,Returning Customer,Quebec,Beauty,33.75,30,Percentage Discount,Website,PayPal,Standard,5,1,14,4,4.2,Low,9,No,14,Yes
+ORD-10101,25/05/2026,45,VIP Customer,Quebec,Footwear,169.55,5,Free Shipping,Mobile App,Credit Card,Standard,5,6,15,1,4.4,Medium,6,No,14,No
+ORD-10090,03/05/2026,25,Returning Customer,Atlantic Canada,Electronics,286.72,40,Percentage Discount,Website,PayPal,Standard,4,2,10,1,3.5,Low,11,No,45,No
+ORD-10240,25/01/2026,60,VIP Customer,Prairies,Apparel,176.14,0,Free Shipping,Website,Debit Card,Standard,7,5,28,1,4,Low,9,No,14,No
+ORD-10269,16/04/2026,28,Returning Customer,Alberta,Beauty,289.95,20,Percentage Discount,Mobile App,Credit Card,Express,2,1,4,1,4,Medium,2,No,14,No
+ORD-10254,13/04/2026,40,Returning Customer,Quebec,Accessories,33.41,15,Bundle Offer,Website,Buy Now Pay Later,Standard,5,3,4,4,3.8,Low,1,No,14,No
+ORD-10440,02/03/2026,41,Returning Customer,Ontario,Apparel,127.4,0,No Promotion,Website,PayPal,Express,1,2,4,2,5,High,5,No,45,Yes
+ORD-10335,24/03/2026,41,New Customer,Prairies,Apparel,205.52,10,Free Shipping,Website,PayPal,Standard,7,1,0,0,4.6,Medium,3,No,30,Yes
+ORD-10345,05/05/2026,24,New Customer,Ontario,Apparel,60.61,10,Percentage Discount,Website,Debit Card,Standard,3,3,1,1,4.3,Low,5,No,45,No
+ORD-10341,31/05/2026,40,VIP Customer,Alberta,Apparel,91.31,40,Percentage Discount,Website,Debit Card,Standard,6,2,28,2,4.1,High,7,No,60,No
+ORD-10123,22/01/2026,41,VIP Customer,British Columbia,Apparel,116.06,0,No Promotion,Social Commerce,Credit Card,Standard,3,3,24,2,4.9,Low,1,Yes,14,No
+ORD-10176,10/04/2026,39,Returning Customer,British Columbia,Footwear,73.5,0,No Promotion,Mobile App,Debit Card,Standard,4,4,2,1,4.3,High,6,No,60,Yes
+ORD-10129,27/03/2026,34,New Customer,Atlantic Canada,Apparel,213.58,10,Bundle Offer,Mobile App,Credit Card,Express,2,3,1,0,2.9,High,1,No,30,No
+ORD-10071,08/01/2026,34,New Customer,British Columbia,Footwear,55.56,0,No Promotion,Mobile App,Debit Card,Standard,3,3,0,0,5,Low,3,No,14,No
+ORD-10334,03/03/2026,38,New Customer,Alberta,Footwear,289.37,0,No Promotion,Mobile App,Credit Card,Standard,6,1,0,0,3,Medium,7,No,14,Yes
+ORD-10296,03/04/2026,40,New Customer,British Columbia,Electronics,770.16,40,Percentage Discount,Website,PayPal,Standard,3,4,2,1,3.1,Medium,6,No,14,No
+ORD-10095,22/03/2026,18,Returning Customer,Ontario,Home & Kitchen,245.47,0,Free Shipping,Mobile App,Debit Card,Express,2,4,12,2,3.8,Low,4,No,14,No
+ORD-10253,19/05/2026,31,Returning Customer,Quebec,Accessories,45.69,0,No Promotion,Website,PayPal,Standard,4,1,0,0,4.3,Low,7,No,30,No
+ORD-10001,09/02/2026,22,New Customer,Prairies,Beauty,30.78,0,Free Shipping,Website,PayPal,Standard,7,1,2,1,3.5,Medium,10,No,45,No
+ORD-10328,19/03/2026,54,Returning Customer,Ontario,Footwear,150.76,40,Percentage Discount,Website,Buy Now Pay Later,Express,3,3,20,2,3.6,Low,2,No,60,No
+ORD-10199,26/02/2026,38,Discount Shopper,Prairies,Home & Kitchen,168.78,10,Free Shipping,Marketplace,Credit Card,Standard,3,5,15,3,5,Low,1,No,45,No
+ORD-10283,08/05/2026,50,Returning Customer,Quebec,Apparel,142.74,5,Free Shipping,Mobile App,Buy Now Pay Later,Same-Day,1,1,2,1,3.8,Low,1,No,45,No
+ORD-10144,05/01/2026,32,New Customer,Atlantic Canada,Electronics,667.95,0,Free Shipping,Mobile App,PayPal,Standard,3,1,1,1,3.8,Medium,1,No,30,No
+ORD-10305,18/02/2026,37,Returning Customer,British Columbia,Apparel,207.13,15,Bundle Offer,Mobile App,Debit Card,Standard,7,3,14,0,4.3,Medium,8,No,14,No
+ORD-10383,10/02/2026,45,Returning Customer,British Columbia,Apparel,109.58,0,Free Shipping,Marketplace,Debit Card,Express,3,4,1,1,4.1,Medium,3,No,60,No
+ORD-10364,29/01/2026,38,New Customer,Atlantic Canada,Apparel,,30,Percentage Discount,Marketplace,PayPal,Standard,5,3,0,0,3,Medium,8,No,30,Yes
+ORD-10068,10/02/2026,23,Returning Customer,Alberta,Home & Kitchen,419.45,0,No Promotion,Mobile App,Credit Card,Standard,3,1,2,1,4.2,Low,4,No,45,No
+ORD-10436,12/01/2026,39,VIP Customer,Quebec,Apparel,220.23,0,Free Shipping,Website,Credit Card,Standard,3,2,30,1,3.8,Medium,9,Yes,14,No
+ORD-10348,09/01/2026,36,Discount Shopper,Ontario,Accessories,82.68,40,Percentage Discount,Marketplace,Buy Now Pay Later,Standard,5,2,0,4,4.3,Medium,9,Yes,30,No
+ORD-10098,12/02/2026,33,Returning Customer,British Columbia,Apparel,185.16,0,No Promotion,Mobile App,Debit Card,Standard,7,4,14,1,3.8,Low,3,No,30,Yes
+ORD-10365,31/03/2026,34,Returning Customer,British Columbia,Electronics,244.06,20,Bundle Offer,Marketplace,Credit Card,Express,3,1,3,4,4.1,Low,5,No,60,Yes
+ORD-10017,01/01/2026,25,Discount Shopper,Prairies,Beauty,68.1,20,Percentage Discount,Mobile App,Buy Now Pay Later,Standard,6,2,1,1,3.5,Low,8,No,60,No
+ORD-10157,06/03/2026,55,Returning Customer,Alberta,Home & Kitchen,289.05,30,Percentage Discount,Website,Debit Card,Standard,6,1,4,2,3,Low,7,Yes,30,No
+ORD-10073,30/05/2026,49,New Customer,Alberta,Home & Kitchen,365.85,10,Bundle Offer,Website,Credit Card,Same-Day,1,4,0,0,3.7,Low,5,No,45,No
+ORD-10034,31/01/2026,42,New Customer,Alberta,Home & Kitchen,390.92,25,Percentage Discount,Mobile App,PayPal,Express,2,4,1,0,5,Low,12,Yes,14,No
+ORD-10023,25/05/2026,46,Returning Customer,Ontario,Footwear,319.11,0,No Promotion,Marketplace,Debit Card,Express,1,1,12,0,4,Low,5,No,30,No
+ORD-10117,15/01/2026,42,Returning Customer,Atlantic Canada,Apparel,177.95,15,Bundle Offer,Mobile App,Debit Card,Standard,5,3,3,3,4.9,Low,9,No,14,No
+ORD-10386,18/02/2026,22,Returning Customer,British Columbia,Home & Kitchen,96.28,0,No Promotion,Mobile App,PayPal,Standard,4,1,15,2,4.2,Low,6,No,45,No
+ORD-10338,26/02/2026,56,New Customer,Prairies,Home & Kitchen,150.13,0,No Promotion,Mobile App,Debit Card,Express,2,1,0,0,3.8,Low,1,No,45,No
+ORD-10014,27/03/2026,56,Returning Customer,Ontario,Footwear,102.45,15,Percentage Discount,Website,Buy Now Pay Later,Standard,4,3,3,2,5,High,4,No,30,No
+ORD-10276,09/01/2026,27,New Customer,Alberta,Accessories,83.55,0,No Promotion,Website,Credit Card,Standard,4,2,1,1,3.4,Low,5,No,45,No
+ORD-10426,15/05/2026,36,Returning Customer,Prairies,Accessories,117.28,0,No Promotion,Mobile App,PayPal,Standard,3,3,6,3,3.5,Low,7,No,60,No
+ORD-10185,28/03/2026,58,Returning Customer,Alberta,Electronics,523.44,40,Percentage Discount,Mobile App,Credit Card,Express,3,2,0,2,3.9,Low,4,No,14,Yes
+ORD-10353,19/03/2026,39,VIP Customer,Prairies,Accessories,73.37,25,Percentage Discount,Marketplace,Buy Now Pay Later,Express,2,6,24,0,,Medium,6,Yes,60,Yes
+ORD-10241,22/05/2026,34,New Customer,Alberta,Home & Kitchen,99.46,0,No Promotion,Mobile App,Debit Card,Express,2,1,1,0,5,Low,6,No,30,No
+ORD-10376,18/02/2026,39,VIP Customer,Prairies,Apparel,113.97,15,Bundle Offer,Mobile App,Debit Card,Express,3,1,16,1,3.6,High,6,No,30,No
+ORD-10366,22/04/2026,47,New Customer,Ontario,Footwear,385.07,10,Percentage Discount,Website,Debit Card,Standard,4,1,1,0,4.6,Low,1,No,45,No
+ORD-10388,14/05/2026,45,VIP Customer,Atlantic Canada,Home & Kitchen,209.74,0,No Promotion,Website,PayPal,Express,2,4,25,0,3.8,Medium,9,No,30,No
+ORD-10217,14/03/2026,30,Returning Customer,Prairies,Home & Kitchen,95.81,10,Percentage Discount,Mobile App,Credit Card,Standard,6,1,5,0,3.6,Low,8,No,14,No
+ORD-10147,11/02/2026,32,Returning Customer,Atlantic Canada,Apparel,43.82,0,No Promotion,Website,Credit Card,Standard,4,3,5,1,4.2,High,8,No,30,No
+ORD-10099,21/02/2026,21,Returning Customer,Quebec,Home & Kitchen,202.06,0,No Promotion,Mobile App,PayPal,Standard,6,1,8,2,4,Low,6,No,45,No
+ORD-10137,21/02/2026,23,New Customer,British Columbia,Accessories,41.71,5,Free Shipping,Website,Credit Card,Express,2,3,2,0,3.1,Low,8,No,60,No
+ORD-10285,20/01/2026,50,Discount Shopper,Alberta,Accessories,117.96,0,Free Shipping,Website,Debit Card,Standard,7,1,18,3,2.5,Low,1,No,30,Yes
+ORD-10312,09/05/2026,36,Returning Customer,British Columbia,Apparel,152.05,10,Free Shipping,Website,PayPal,Standard,6,1,4,5,3.8,Low,9,No,30,Yes
+ORD-10094,24/01/2026,36,Discount Shopper,Quebec,Footwear,119.47,0,No Promotion,Website,Debit Card,Standard,4,2,8,2,3.5,Medium,1,Yes,45,No
+ORD-10417,14/05/2026,37,New Customer,Alberta,Beauty,401.84,10,Free Shipping,Mobile App,Credit Card,Standard,5,1,1,1,3.3,Low,1,No,45,Yes
+ORD-10055,15/03/2026,44,Returning Customer,Prairies,Home & Kitchen,269.06,15,Bundle Offer,Mobile App,PayPal,Express,2,1,13,1,3.8,Low,5,No,14,No
+ORD-10306,24/01/2026,44,Returning Customer,Ontario,Footwear,355.24,30,Percentage Discount,Website,Credit Card,Express,1,2,18,1,3.2,Medium,5,No,14,Yes
+ORD-10233,17/05/2026,44,New Customer,Alberta,Apparel,178.5,30,Percentage Discount,Marketplace,Credit Card,Standard,5,1,1,0,3.6,Medium,6,Yes,60,Yes
+ORD-10162,22/04/2026,33,Returning Customer,Prairies,Footwear,224.59,0,No Promotion,Marketplace,Credit Card,Standard,4,5,15,4,4.5,Low,2,No,30,No
+ORD-10418,01/02/2026,57,Discount Shopper,British Columbia,Beauty,407.73,25,Percentage Discount,Website,Credit Card,Express,2,5,13,4,4.5,Low,5,No,45,No
+ORD-10131,14/03/2026,48,New Customer,Ontario,Apparel,207.79,40,Percentage Discount,Mobile App,Credit Card,Express,1,1,1,0,4.7,Medium,4,Yes,30,No
+ORD-10385,30/04/2026,19,Discount Shopper,British Columbia,Apparel,54.61,10,Percentage Discount,Mobile App,Buy Now Pay Later,Express,1,2,7,2,4,Low,4,Yes,60,No
+ORD-10432,06/01/2026,18,Returning Customer,Alberta,Accessories,22.09,20,Bundle Offer,Marketplace,Debit Card,Standard,7,5,7,1,3.6,Low,2,Yes,30,No
+ORD-10265,21/02/2026,36,Discount Shopper,,Electronics,597.51,20,Bundle Offer,Website,Buy Now Pay Later,Standard,7,2,8,1,3.8,Medium,6,No,14,Yes
+ORD-10029,27/02/2026,39,VIP Customer,Alberta,Beauty,396.31,25,Percentage Discount,Website,Debit Card,Standard,4,1,32,1,4.4,Low,6,No,45,No
+ORD-10300,19/04/2026,23,VIP Customer,Ontario,Footwear,371.71,30,Percentage Discount,Mobile App,Debit Card,Standard,4,6,23,1,5,Medium,5,No,14,No
+ORD-10072,10/03/2026,20,Returning Customer,Prairies,Home & Kitchen,81.55,25,Percentage Discount,Website,Credit Card,Same-Day,1,2,10,1,4.9,Low,2,No,60,No
+ORD-10216,08/05/2026,32,Returning Customer,Alberta,Apparel,173.78,40,Percentage Discount,Website,Debit Card,Express,3,2,0,3,4.5,Low,1,Yes,45,No
+ORD-10045,12/03/2026,48,New Customer,Ontario,Apparel,146.21,0,Free Shipping,Social Commerce,PayPal,Same-Day,0,1,2,0,4.2,High,2,Yes,30,No
+ORD-10394,23/03/2026,38,Discount Shopper,Alberta,Apparel,109.17,20,Bundle Offer,Website,Credit Card,Standard,3,2,4,4,2.4,Low,2,No,30,No
+ORD-10041,04/04/2026,26,Returning Customer,Quebec,Beauty,381.17,10,Free Shipping,Mobile App,PayPal,Express,2,1,8,0,3.7,Low,7,Yes,45,No
+ORD-10120,06/02/2026,52,Discount Shopper,Atlantic Canada,Electronics,84.91,5,Free Shipping,Social Commerce,PayPal,Express,1,1,0,0,4.6,Low,7,No,45,Yes
+ORD-10237,22/04/2026,55,New Customer,Ontario,Footwear,330.45,0,Free Shipping,Mobile App,Credit Card,Same-Day,1,4,0,0,4,High,1,Yes,45,Yes
+ORD-10261,12/05/2026,37,Discount Shopper,Prairies,Footwear,69.74,40,Percentage Discount,Mobile App,Credit Card,Express,3,1,4,2,4.3,Low,1,No,14,Yes
+ORD-10287,18/03/2026,42,Discount Shopper,Prairies,Apparel,101.33,5,Free Shipping,Marketplace,Credit Card,Standard,4,1,8,5,3.5,Medium,6,Yes,30,Yes
+ORD-10322,06/05/2026,21,New Customer,Quebec,Footwear,297.13,5,Free Shipping,Website,Debit Card,Same-Day,1,2,0,0,5,High,6,Yes,30,No
+ORD-10025,04/05/2026,18,Returning Customer,British Columbia,Footwear,186.86,25,Percentage Discount,Mobile App,Credit Card,Standard,6,1,16,0,3.8,Low,1,Yes,30,No
+ORD-10291,18/02/2026,44,New Customer,Alberta,Apparel,46.27,0,Free Shipping,Social Commerce,Debit Card,Standard,6,3,2,1,4.3,Low,5,Yes,45,No
+ORD-10330,26/03/2026,45,VIP Customer,Quebec,Home & Kitchen,81.83,0,No Promotion,Mobile App,Credit Card,Same-Day,1,2,22,2,4.7,Medium,4,No,14,No
+ORD-10332,29/04/2026,52,New Customer,Ontario,Footwear,308.41,0,Free Shipping,Marketplace,PayPal,Standard,7,4,0,0,3.7,Low,5,No,45,Yes
+ORD-10221,11/03/2026,57,New Customer,British Columbia,Apparel,145.61,0,No Promotion,Mobile App,Buy Now Pay Later,Express,2,1,2,0,4.2,Medium,7,No,45,No
+ORD-10320,03/04/2026,49,Returning Customer,Alberta,Accessories,59.73,0,No Promotion,Mobile App,PayPal,Standard,3,3,9,2,3.5,Low,7,No,14,No
+ORD-10153,01/01/2026,54,New Customer,Ontario,Footwear,375.82,30,Percentage Discount,Mobile App,PayPal,Standard,5,1,1,0,3.8,High,2,No,60,No
+ORD-10228,27/04/2026,58,Returning Customer,Atlantic Canada,Home & Kitchen,80.02,0,No Promotion,Website,Credit Card,Standard,4,6,2,0,3.7,Low,6,No,60,No
+ORD-10046,12/01/2026,45,New Customer,Prairies,Footwear,334.95,0,No Promotion,Website,Buy Now Pay Later,Standard,6,2,0,1,4.2,High,3,No,60,No
+ORD-10107,09/03/2026,26,New Customer,Prairies,Electronics,,30,Percentage Discount,Mobile App,PayPal,Standard,6,1,1,0,3.9,Low,1,Yes,14,Yes
+ORD-10082,27/05/2026,44,VIP Customer,Prairies,Footwear,52.87,0,No Promotion,Mobile App,Buy Now Pay Later,Express,2,3,25,1,3.5,Low,7,No,45,No
+ORD-10381,09/04/2026,47,New Customer,Alberta,Footwear,310.14,0,Free Shipping,Website,PayPal,Standard,6,1,0,0,4.6,Medium,3,Yes,60,No
+ORD-10244,25/03/2026,19,Returning Customer,Alberta,Apparel,43.72,10,Percentage Discount,Website,Credit Card,Express,1,5,0,2,5,High,2,No,30,No
+ORD-10236,19/05/2026,33,Returning Customer,British Columbia,Beauty,171.89,5,Free Shipping,Marketplace,PayPal,Standard,3,6,7,3,4.4,Low,4,No,60,Yes
+ORD-10393,15/05/2026,39,Discount Shopper,Alberta,Home & Kitchen,103.8,0,Free Shipping,Marketplace,Buy Now Pay Later,Standard,3,4,16,1,4.6,Low,6,No,30,No
+ORD-10035,31/05/2026,58,New Customer,Alberta,Beauty,,0,Free Shipping,Social Commerce,PayPal,Standard,6,2,2,0,4.7,Medium,3,No,45,No
+ORD-10085,15/03/2026,44,New Customer,Atlantic Canada,Home & Kitchen,342.38,40,Percentage Discount,Website,Debit Card,Standard,5,1,0,0,3.8,Medium,4,Yes,14,No
+ORD-10298,08/02/2026,51,Returning Customer,Alberta,Footwear,292.24,10,Percentage Discount,Marketplace,Buy Now Pay Later,Standard,5,2,5,1,3,Medium,5,No,45,Yes
+ORD-10207,05/02/2026,39,Discount Shopper,Alberta,Apparel,80.28,0,Free Shipping,Mobile App,Buy Now Pay Later,Express,3,2,6,2,4.2,Medium,3,No,30,Yes
+ORD-10407,19/03/2026,24,Returning Customer,Ontario,Home & Kitchen,362.15,0,No Promotion,Mobile App,PayPal,Standard,7,6,12,0,3.9,Low,5,Yes,14,No
+ORD-10234,25/04/2026,40,Discount Shopper,British Columbia,Beauty,252.84,20,Bundle Offer,Mobile App,Credit Card,Same-Day,1,3,3,2,2.9,Low,5,No,14,Yes
+ORD-10295,17/01/2026,22,New Customer,Quebec,Beauty,215.86,0,No Promotion,Marketplace,Credit Card,Express,1,3,0,0,3.8,Medium,6,Yes,45,Yes
+ORD-10133,02/05/2026,32,Returning Customer,Quebec,Footwear,244.83,15,Percentage Discount,Mobile App,PayPal,Standard,7,3,6,0,2.8,High,3,No,30,Yes
+ORD-10165,21/05/2026,18,New Customer,Atlantic Canada,Accessories,122.24,0,No Promotion,Marketplace,Debit Card,Standard,4,4,1,0,5,Low,7,Yes,45,No
+ORD-10299,30/03/2026,25,New Customer,Atlantic Canada,Accessories,142.87,,Free Shipping,Mobile App,Buy Now Pay Later,Express,2,2,1,0,3.2,Low,1,No,60,No
+ORD-10331,03/03/2026,47,Discount Shopper,British Columbia,Accessories,128.85,5,Free Shipping,Mobile App,PayPal,Express,3,2,5,2,3.6,Medium,6,No,60,No
+ORD-10168,24/01/2026,23,VIP Customer,Atlantic Canada,Apparel,142.41,10,Bundle Offer,Mobile App,PayPal,Express,2,4,20,2,4,High,1,No,30,No
+ORD-10075,11/05/2026,28,New Customer,British Columbia,Apparel,127.9,30,Percentage Discount,Mobile App,PayPal,Same-Day,0,1,1,1,5,High,12,No,45,Yes
+ORD-10281,26/04/2026,62,Returning Customer,Ontario,Beauty,99.66,5,Free Shipping,Marketplace,Credit Card,Standard,5,1,4,1,3.4,Low,6,No,30,No
+ORD-10189,09/03/2026,63,Returning Customer,Atlantic Canada,Apparel,23.9,25,Percentage Discount,Marketplace,Credit Card,Standard,6,3,1,0,3.3,Medium,7,No,60,Yes
+ORD-10224,03/03/2026,51,Returning Customer,British Columbia,Accessories,79.19,0,Free Shipping,Mobile App,Debit Card,Express,3,1,9,0,4.7,Low,7,No,45,No
+ORD-10096,25/03/2026,52,New Customer,Ontario,Apparel,139.87,5,Free Shipping,Website,Credit Card,Express,1,3,0,0,4,Medium,6,No,60,No
+ORD-10246,20/04/2026,39,New Customer,Quebec,Beauty,81.03,40,Percentage Discount,Website,PayPal,Express,3,5,0,0,3.6,Medium,5,No,60,Yes
+ORD-10208,16/04/2026,53,Returning Customer,Atlantic Canada,Home & Kitchen,190.89,0,Free Shipping,Website,Buy Now Pay Later,Standard,4,3,4,0,4.2,Low,3,No,45,No
+ORD-10389,23/01/2026,64,Returning Customer,Alberta,Accessories,112.43,15,Percentage Discount,Marketplace,Credit Card,Standard,3,1,6,0,4.8,Low,9,Yes,14,No
+ORD-10070,14/03/2026,53,New Customer,Prairies,Footwear,239.62,30,Percentage Discount,Social Commerce,Debit Card,Express,2,1,0,0,4.6,Low,6,Yes,30,No
+ORD-10173,31/01/2026,27,VIP Customer,British Columbia,Beauty,257.81,0,Free Shipping,Marketplace,Credit Card,Standard,4,1,21,1,4.6,Low,10,Yes,14,No
+ORD-10112,18/03/2026,56,VIP Customer,Quebec,Beauty,71.35,0,No Promotion,Mobile App,Debit Card,Standard,6,1,23,0,2.9,Low,9,No,14,No
+ORD-10031,01/02/2026,47,Returning Customer,Prairies,Beauty,341.17,10,Bundle Offer,Mobile App,Debit Card,Express,2,2,0,0,4.3,Medium,7,No,14,No
+ORD-10076,04/03/2026,29,Returning Customer,Prairies,Home & Kitchen,379.3,40,Percentage Discount,Website,Credit Card,Express,1,3,10,0,3.7,Low,2,Yes,60,Yes
+ORD-10003,22/03/2026,18,Returning Customer,British Columbia,Electronics,134.98,0,No Promotion,Mobile App,PayPal,Standard,5,3,3,0,3.5,Medium,1,No,30,Yes
+ORD-10103,14/04/2026,53,Returning Customer,Ontario,Electronics,325.56,20,Percentage Discount,Marketplace,Credit Card,Standard,4,1,7,0,3.2,Low,4,No,30,No
+ORD-10351,08/05/2026,32,New Customer,Atlantic Canada,Footwear,94.32,20,Bundle Offer,Mobile App,PayPal,Express,1,6,1,0,2.8,Medium,3,Yes,14,No
+ORD-10374,30/01/2026,35,VIP Customer,British Columbia,Footwear,65.88,15,Percentage Discount,Mobile App,PayPal,Express,2,1,24,1,4.1,High,4,Yes,45,Yes
+ORD-10036,08/02/2026,25,Returning Customer,British Columbia,Home & Kitchen,147.35,15,Percentage Discount,Marketplace,Debit Card,Standard,5,6,6,1,4.6,Medium,6,No,60,No
+ORD-10125,16/02/2026,45,Returning Customer,Atlantic Canada,Apparel,101.67,25,Percentage Discount,Website,Debit Card,Standard,5,1,13,0,3.3,High,4,No,60,Yes
+ORD-10135,05/05/2026,30,VIP Customer,Atlantic Canada,Electronics,432.78,10,Percentage Discount,Marketplace,Credit Card,Standard,3,3,17,0,,Medium,9,Yes,14,No
+ORD-10161,13/05/2026,53,Returning Customer,Alberta,Beauty,21.54,40,Percentage Discount,Website,Buy Now Pay Later,Same-Day,0,2,0,1,4.9,Medium,7,No,60,No
+ORD-10367,09/05/2026,46,Discount Shopper,Quebec,Apparel,209.41,15,Percentage Discount,Mobile App,Credit Card,Standard,6,3,22,1,4.3,Medium,1,No,60,No
+ORD-10293,02/05/2026,52,Discount Shopper,Atlantic Canada,Apparel,82.48,25,Percentage Discount,Mobile App,Debit Card,Standard,7,2,0,2,3.5,Low,6,Yes,14,No
+ORD-10198,22/03/2026,49,Returning Customer,Prairies,Beauty,274.73,20,Percentage Discount,Social Commerce,Credit Card,Standard,4,3,6,0,3,Low,4,No,60,No
+ORD-10390,03/02/2026,44,Returning Customer,Atlantic Canada,Home & Kitchen,328.32,0,No Promotion,Website,Credit Card,Standard,3,1,10,0,4.1,Low,6,Yes,60,No
+ORD-10030,15/03/2026,26,Returning Customer,Alberta,Footwear,315.52,15,Percentage Discount,Marketplace,Credit Card,Standard,7,3,2,1,4.3,Low,1,No,14,Yes
+ORD-10382,29/01/2026,33,Returning Customer,Alberta,Home & Kitchen,305.4,10,Free Shipping,Mobile App,Credit Card,Standard,5,2,4,0,4.4,Low,10,No,14,No
+ORD-10051,29/01/2026,40,Returning Customer,British Columbia,Apparel,32.94,0,No Promotion,Mobile App,PayPal,Standard,6,1,0,0,3.3,Medium,3,No,60,Yes
+ORD-10258,07/02/2026,31,Returning Customer,Prairies,Apparel,79.66,5,Bundle Offer,Website,Credit Card,Standard,6,2,3,2,3.3,Low,8,No,14,No
+ORD-10399,10/05/2026,39,Returning Customer,Quebec,Footwear,175.33,20,Bundle Offer,Website,Debit Card,Same-Day,0,4,10,0,4.6,Medium,2,No,60,No
+ORD-10243,08/05/2026,46,VIP Customer,British Columbia,Home & Kitchen,65.24,10,Free Shipping,Mobile App,Credit Card,Standard,4,6,12,0,4.3,Low,5,Yes,45,No
+ORD-10042,08/04/2026,31,Discount Shopper,Alberta,Home & Kitchen,341.3,5,Free Shipping,Marketplace,Buy Now Pay Later,Standard,6,5,19,5,5,Low,7,No,14,Yes
+ORD-10004,19/04/2026,18,New Customer,Quebec,Home & Kitchen,202.46,5,Free Shipping,Marketplace,PayPal,Standard,4,1,2,1,3.7,Low,5,No,30,No
+ORD-10355,11/05/2026,36,Discount Shopper,Quebec,Home & Kitchen,139.68,0,No Promotion,Mobile App,Credit Card,Standard,5,2,12,3,3.8,Low,6,No,60,No
+ORD-10097,23/01/2026,30,New Customer,Alberta,Apparel,150.67,15,Percentage Discount,Social Commerce,Credit Card,Standard,5,3,0,0,4.6,Low,8,No,14,Yes
+ORD-10020,08/02/2026,41,VIP Customer,Quebec,Beauty,208.82,20,Percentage Discount,Mobile App,PayPal,Express,2,3,18,1,,Medium,5,Yes,14,Yes
+ORD-10180,10/03/2026,39,Returning Customer,Quebec,Footwear,402.09,10,Free Shipping,Website,PayPal,Standard,6,2,13,0,3.5,Low,8,No,45,No
+ORD-10109,14/04/2026,62,Discount Shopper,Alberta,Electronics,746.88,0,No Promotion,Social Commerce,Buy Now Pay Later,Express,2,1,7,2,2.8,Low,4,Yes,45,No
+ORD-10027,06/03/2026,58,New Customer,Quebec,Home & Kitchen,277.65,25,Percentage Discount,Website,PayPal,Standard,6,2,1,0,3,Low,7,No,45,No
+ORD-10021,20/05/2026,48,Returning Customer,Atlantic Canada,Apparel,195.24,25,Percentage Discount,Mobile App,Debit Card,Standard,3,4,0,0,3.8,High,7,Yes,45,No
+ORD-10188,19/03/2026,54,Returning Customer,Quebec,Footwear,298.44,15,Percentage Discount,Marketplace,Buy Now Pay Later,Same-Day,1,2,0,1,2.9,Medium,3,No,60,Yes
+ORD-10231,07/03/2026,36,New Customer,Atlantic Canada,Electronics,525.17,10,Free Shipping,Social Commerce,Credit Card,Express,3,1,2,0,2.7,Low,4,No,30,No
+ORD-10282,12/01/2026,49,Returning Customer,Quebec,Accessories,67.52,0,No Promotion,Mobile App,Buy Now Pay Later,Standard,5,2,7,0,3.9,Low,2,No,30,No
+ORD-10132,05/04/2026,28,New Customer,Ontario,Electronics,542.17,15,Percentage Discount,Mobile App,Credit Card,Standard,5,1,0,0,4.5,Low,6,No,60,No
+ORD-10124,08/02/2026,55,New Customer,Prairies,Home & Kitchen,351.4,0,No Promotion,Marketplace,Debit Card,Standard,3,1,0,1,3.9,Low,5,No,60,No
+ORD-10182,23/02/2026,37,Discount Shopper,Atlantic Canada,Footwear,107.28,0,No Promotion,Mobile App,Credit Card,Standard,6,2,18,4,3.7,Medium,5,No,30,Yes
+ORD-10444,02/02/2026,18,Returning Customer,Ontario,Beauty,187.25,15,Percentage Discount,Mobile App,Credit Card,Express,3,2,1,0,4.4,Low,6,Yes,30,No
+ORD-10226,19/03/2026,35,New Customer,Alberta,Accessories,30.84,10,Free Shipping,Website,Credit Card,Express,3,4,0,1,3,Low,3,No,60,No
+ORD-10061,15/03/2026,51,Discount Shopper,Quebec,Electronics,796.46,20,Bundle Offer,Website,PayPal,Standard,3,1,3,1,5,Low,2,Yes,45,Yes
+ORD-10428,23/01/2026,40,Returning Customer,Ontario,Home & Kitchen,169.81,0,No Promotion,Mobile App,PayPal,Standard,6,6,4,0,4.2,Low,9,No,45,No
+ORD-10380,08/02/2026,34,Returning Customer,Prairies,Footwear,377.03,40,Percentage Discount,Website,Credit Card,Standard,6,1,10,0,5,High,2,No,45,Yes
+ORD-10354,28/03/2026,40,New Customer,Quebec,Home & Kitchen,279.8,20,Percentage Discount,Website,Credit Card,Express,3,3,2,0,4.7,Low,6,No,14,No
+ORD-10319,26/02/2026,32,Returning Customer,Quebec,Apparel,61.39,25,Percentage Discount,Marketplace,Buy Now Pay Later,Express,2,3,4,3,3.9,Medium,6,Yes,45,Yes
+ORD-10252,27/04/2026,39,Returning Customer,Atlantic Canada,Beauty,,30,Percentage Discount,Website,PayPal,Express,2,2,6,1,2.3,Medium,5,No,30,Yes
+ORD-10267,19/05/2026,45,Returning Customer,Ontario,Home & Kitchen,261.04,0,No Promotion,Website,Debit Card,Standard,6,1,8,0,4.9,Low,1,No,30,No
+ORD-10144,05/01/2026,32,New Customer,Atlantic Canada,Electronics,667.95,0,Free Shipping,Mobile App,PayPal,Standard,3,1,1,1,3.8,Medium,1,No,30,No
+ORD-10317,02/02/2026,44,Returning Customer,Alberta,Beauty,266.93,5,Free Shipping,Marketplace,Credit Card,Express,2,3,0,1,3.9,Low,4,Yes,14,No
+ORD-10439,07/05/2026,41,Returning Customer,,Apparel,154.65,0,No Promotion,Website,Credit Card,Standard,7,2,8,0,4.5,High,2,Yes,45,Yes
+ORD-10225,20/03/2026,42,Returning Customer,Prairies,Beauty,333.29,25,Percentage Discount,Social Commerce,Debit Card,Standard,7,2,2,3,4.7,Low,7,No,60,No
+ORD-10069,15/04/2026,23,Discount Shopper,Ontario,Beauty,336.41,15,Percentage Discount,Mobile App,Buy Now Pay Later,Express,2,3,15,2,4.6,Medium,6,No,14,No
+ORD-10002,08/04/2026,38,VIP Customer,,Apparel,173.78,30,Percentage Discount,Website,Debit Card,Standard,3,1,22,0,4.9,Medium,6,Yes,14,No
+ORD-10105,19/04/2026,25,Returning Customer,Prairies,Beauty,137.57,30,Percentage Discount,Website,PayPal,Express,2,2,5,0,3.7,Low,6,No,30,No
+ORD-10013,10/01/2026,37,New Customer,British Columbia,Apparel,153.93,5,Free Shipping,Website,Debit Card,Standard,7,1,1,0,3.1,Medium,10,No,60,Yes
+ORD-10325,05/02/2026,20,Returning Customer,British Columbia,Apparel,214.73,5,Bundle Offer,Website,PayPal,Standard,5,1,7,0,4.6,Medium,6,No,45,No
+ORD-10177,11/05/2026,22,New Customer,Alberta,Accessories,65.63,5,Bundle Offer,Website,Credit Card,Standard,6,3,2,0,5,High,5,No,60,Yes
+ORD-10342,07/02/2026,35,Discount Shopper,Quebec,Apparel,75.09,15,Bundle Offer,Social Commerce,Credit Card,Standard,4,2,0,1,2.5,Medium,5,No,30,Yes
+ORD-10010,11/05/2026,38,Returning Customer,Prairies,Apparel,137.6,40,Percentage Discount,Social Commerce,Buy Now Pay Later,Express,1,2,9,2,4.7,High,6,No,14,Yes
+ORD-10039,19/04/2026,28,Returning Customer,Alberta,Home & Kitchen,114.81,30,Percentage Discount,Website,Debit Card,Standard,6,1,3,1,3.8,Low,3,No,45,No
+ORD-10214,13/01/2026,23,New Customer,British Columbia,Electronics,548.15,0,No Promotion,Marketplace,Credit Card,Same-Day,1,2,0,1,3.6,Low,1,No,14,No
+ORD-10256,07/04/2026,43,Returning Customer,Quebec,Apparel,228.46,25,Percentage Discount,Website,PayPal,Standard,4,1,13,0,4.3,High,7,No,14,Yes
+ORD-10264,15/04/2026,36,Returning Customer,Atlantic Canada,Home & Kitchen,324.43,40,Percentage Discount,Marketplace,Credit Card,Standard,6,1,7,0,3,Low,6,Yes,45,Yes
+ORD-10080,12/04/2026,60,Returning Customer,Quebec,Electronics,233.58,15,Bundle Offer,Mobile App,Credit Card,Standard,7,1,3,0,2.9,Medium,7,No,14,No
+ORD-10371,18/02/2026,29,New Customer,,Home & Kitchen,239.81,0,No Promotion,Mobile App,Credit Card,Standard,4,4,1,0,4.3,Low,5,No,60,Yes
+ORD-10065,19/04/2026,42,VIP Customer,British Columbia,Electronics,175.85,5,Free Shipping,Mobile App,Credit Card,Standard,4,2,17,2,3.8,Medium,2,No,60,Yes
+ORD-10370,26/01/2026,34,New Customer,Quebec,Apparel,32.74,0,Free Shipping,Mobile App,Credit Card,Standard,4,1,1,0,3.6,Low,3,No,14,No
+ORD-10197,15/05/2026,41,New Customer,Prairies,Apparel,34.63,20,Bundle Offer,Mobile App,Debit Card,Standard,3,4,0,0,3.5,High,8,No,30,Yes
+ORD-10016,18/05/2026,43,Returning Customer,Ontario,Beauty,123.01,15,Bundle Offer,Social Commerce,Buy Now Pay Later,Standard,7,1,3,0,3.4,Low,7,No,14,Yes
+ORD-10424,12/03/2026,40,Discount Shopper,Atlantic Canada,Home & Kitchen,363.44,30,Percentage Discount,Marketplace,PayPal,Express,2,1,8,2,3.5,Low,5,Yes,30,No
+ORD-10360,14/02/2026,31,VIP Customer,British Columbia,Electronics,502.24,0,No Promotion,Mobile App,Credit Card,Same-Day,0,1,18,0,4.4,Low,7,No,14,No
+ORD-10280,04/01/2026,63,Returning Customer,Atlantic Canada,Apparel,152.34,5,Bundle Offer,Website,Credit Card,Express,1,6,3,1,5,Medium,9,No,60,No
+ORD-10297,08/02/2026,39,New Customer,Ontario,Apparel,192.39,0,Free Shipping,Mobile App,Credit Card,Standard,5,4,0,0,4.5,High,6,No,30,No
+ORD-10350,18/02/2026,48,Returning Customer,Alberta,Accessories,140.79,10,Free Shipping,Mobile App,Credit Card,Same-Day,1,3,1,0,4.2,Low,3,No,60,Yes
+ORD-10433,18/05/2026,36,New Customer,Alberta,Accessories,124.85,40,Percentage Discount,Marketplace,PayPal,Standard,4,1,1,0,3.9,Low,7,No,45,No
+ORD-10122,25/03/2026,32,New Customer,Quebec,Electronics,321.81,10,Percentage Discount,Website,Credit Card,Express,1,2,1,1,4.2,Medium,2,No,30,No
+ORD-10430,13/05/2026,58,Returning Customer,British Columbia,Home & Kitchen,218.48,0,Free Shipping,Website,Credit Card,Standard,6,2,5,2,5,High,7,No,45,No
+ORD-10378,12/01/2026,53,VIP Customer,Ontario,Apparel,169.15,15,Percentage Discount,Website,Buy Now Pay Later,Same-Day,0,1,25,0,4.1,High,5,No,60,Yes
+ORD-10292,03/01/2026,33,New Customer,Prairies,Footwear,327.43,15,Percentage Discount,Mobile App,PayPal,Express,3,2,0,1,4.9,Medium,6,Yes,60,Yes
+ORD-10037,23/03/2026,27,New Customer,Alberta,Home & Kitchen,384,5,Bundle Offer,Mobile App,Credit Card,Express,2,3,0,0,3.3,Medium,1,Yes,60,No
+ORD-10327,14/04/2026,46,Returning Customer,Prairies,Beauty,194.35,,No Promotion,Marketplace,Credit Card,Standard,3,4,11,1,4.5,Low,1,No,60,No
+ORD-10318,07/02/2026,22,New Customer,Quebec,Beauty,35.72,15,Percentage Discount,Mobile App,Credit Card,Express,2,1,1,0,3.6,High,3,No,45,No
+ORD-10437,17/05/2026,36,Returning Customer,Ontario,Apparel,207.78,5,Free Shipping,Mobile App,Debit Card,Standard,6,4,9,0,3.4,High,1,Yes,14,Yes
+ORD-10363,14/04/2026,37,Discount Shopper,Ontario,Electronics,264.83,10,Percentage Discount,Social Commerce,PayPal,Standard,7,1,17,4,3.2,High,5,Yes,30,Yes
+ORD-10289,19/04/2026,43,Returning Customer,Prairies,Beauty,134.86,25,Percentage Discount,Mobile App,Debit Card,Same-Day,0,1,9,0,3.9,Low,5,No,60,No
+ORD-10222,25/04/2026,28,New Customer,Quebec,Apparel,189.23,30,Percentage Discount,Website,Debit Card,Express,2,1,0,1,5,High,7,No,60,Yes
+ORD-10054,07/05/2026,38,Returning Customer,British Columbia,Electronics,488.57,15,Percentage Discount,Mobile App,Credit Card,Standard,3,4,5,0,4.9,Low,5,No,30,Yes
+ORD-10087,12/01/2026,32,Returning Customer,Quebec,Accessories,118.75,10,Percentage Discount,Mobile App,Credit Card,Standard,4,1,11,0,3.2,Low,8,No,14,Yes
+ORD-10304,25/03/2026,37,Returning Customer,Quebec,Apparel,36.05,5,Bundle Offer,Website,Credit Card,Express,3,2,7,0,3.6,High,1,No,30,No
+ORD-10043,04/02/2026,46,Discount Shopper,Atlantic Canada,Footwear,263.25,0,No Promotion,Website,Credit Card,Standard,4,3,3,1,4.5,Medium,4,No,14,No
+ORD-10074,31/01/2026,43,New Customer,Alberta,Electronics,283.64,5,Free Shipping,Mobile App,Credit Card,Express,2,3,1,0,4.1,Low,5,Yes,60,No
+ORD-10358,22/05/2026,35,New Customer,Ontario,Accessories,127.42,0,No Promotion,Social Commerce,Buy Now Pay Later,Express,1,3,1,0,4.3,Medium,5,No,30,Yes
+ORD-10300,19/04/2026,23,VIP Customer,Ontario,Footwear,371.71,30,Percentage Discount,Mobile App,Debit Card,Standard,4,6,23,1,5,Medium,5,No,14,No
+ORD-10271,28/03/2026,29,Returning Customer,Prairies,Apparel,125.37,10,Percentage Discount,Mobile App,Credit Card,Standard,7,4,4,0,3.9,High,1,No,60,No
+ORD-10245,09/01/2026,32,New Customer,Quebec,Apparel,119.97,25,Percentage Discount,Website,Credit Card,Standard,5,1,2,1,3.6,Medium,5,No,30,No
+ORD-10190,17/05/2026,54,Returning Customer,Prairies,Apparel,176.53,20,Percentage Discount,Mobile App,PayPal,Express,1,2,10,0,3.9,Low,9,No,60,Yes
+ORD-10429,23/04/2026,25,Returning Customer,Ontario,Home & Kitchen,46.93,0,Free Shipping,Mobile App,Credit Card,Standard,4,3,12,3,3.7,Low,1,Yes,60,No
+ORD-10449,19/01/2026,66,New Customer,Alberta,Footwear,216.29,5,Bundle Offer,Website,Buy Now Pay Later,Express,2,4,0,0,4.3,Medium,7,No,45,No
+ORD-10329,18/05/2026,46,New Customer,Alberta,Apparel,211.56,5,Free Shipping,Mobile App,Credit Card,Standard,7,1,0,1,4.6,Medium,10,No,14,Yes
+ORD-10443,15/04/2026,25,New Customer,British Columbia,Electronics,422.66,25,Percentage Discount,Mobile App,Credit Card,Same-Day,1,2,1,0,3.9,Low,9,Yes,60,No
+ORD-10115,19/04/2026,30,Discount Shopper,Atlantic Canada,Home & Kitchen,207.35,0,No Promotion,Social Commerce,Credit Card,Same-Day,1,6,6,2,4.4,High,3,No,14,No
+ORD-10232,30/03/2026,47,New Customer,Alberta,Apparel,59.61,0,No Promotion,Website,Credit Card,Express,3,2,0,0,4.2,Low,1,No,60,No
+ORD-10056,23/04/2026,56,Discount Shopper,Alberta,Apparel,211.08,30,Percentage Discount,Marketplace,Debit Card,Express,3,3,5,1,4.7,High,8,No,45,No
+ORD-10191,08/04/2026,46,Discount Shopper,Ontario,Apparel,86.81,25,Percentage Discount,Website,Credit Card,Standard,3,6,13,1,4.3,High,8,No,45,No
+ORD-10202,03/02/2026,35,Returning Customer,Alberta,Apparel,141.65,0,Free Shipping,Website,Buy Now Pay Later,Standard,3,1,6,2,3.8,Medium,4,No,60,No
+ORD-10255,06/04/2026,42,New Customer,Quebec,Beauty,129.73,10,Percentage Discount,Website,Debit Card,Standard,5,1,1,1,2.5,Medium,3,Yes,14,No
+ORD-10009,08/04/2026,43,VIP Customer,Atlantic Canada,Apparel,79.94,0,No Promotion,Marketplace,Debit Card,Standard,3,1,19,2,3.4,Low,2,No,30,Yes
+ORD-10196,07/03/2026,57,Returning Customer,Alberta,Apparel,130.83,10,Percentage Discount,Marketplace,PayPal,Standard,3,1,11,0,4.1,Medium,5,No,60,No
+ORD-10126,02/04/2026,43,Returning Customer,Alberta,Apparel,42.83,40,Percentage Discount,Website,Debit Card,Express,2,1,0,0,3.8,Medium,8,No,60,No
+ORD-10403,13/04/2026,37,New Customer,British Columbia,Apparel,90.13,0,No Promotion,Website,Credit Card,Standard,3,1,1,0,3.8,Medium,1,Yes,45,No
+ORD-10274,15/04/2026,30,New Customer,Alberta,Apparel,64.01,20,Percentage Discount,Marketplace,Credit Card,Standard,3,1,2,0,4.2,Medium,4,Yes,14,No
+ORD-10146,09/02/2026,39,New Customer,Atlantic Canada,Apparel,157.31,0,No Promotion,Social Commerce,Credit Card,Standard,3,1,2,0,3.8,Medium,2,No,14,No
+ORD-10412,11/05/2026,37,Returning Customer,Alberta,Home & Kitchen,377.43,0,No Promotion,Social Commerce,Buy Now Pay Later,Express,2,1,3,3,4.2,Medium,7,No,14,No
+ORD-10143,15/02/2026,48,New Customer,Atlantic Canada,Home & Kitchen,366.73,25,Percentage Discount,Website,Credit Card,Express,2,2,1,0,4.4,Low,6,No,60,No
+ORD-10209,06/04/2026,44,VIP Customer,Quebec,Electronics,551.23,5,Free Shipping,Marketplace,PayPal,Express,1,2,15,0,3.7,Low,1,No,14,No
+ORD-10375,30/05/2026,37,Returning Customer,Prairies,Apparel,83.34,0,No Promotion,Mobile App,Buy Now Pay Later,Standard,5,6,11,1,3.9,Low,9,Yes,30,No
+ORD-10048,24/01/2026,40,Returning Customer,Prairies,Electronics,427.7,0,No Promotion,Mobile App,PayPal,Express,1,1,0,0,4.6,Low,4,No,60,No
+ORD-10220,03/02/2026,54,Discount Shopper,Atlantic Canada,Apparel,211.98,25,Percentage Discount,Mobile App,Credit Card,Express,2,2,14,3,2.7,High,8,Yes,45,No
+ORD-10448,02/02/2026,53,New Customer,Atlantic Canada,Home & Kitchen,74.68,0,No Promotion,Website,PayPal,Same-Day,0,1,2,0,3.8,Low,3,No,14,No
+ORD-10193,16/01/2026,59,Discount Shopper,Prairies,Apparel,104.33,0,No Promotion,Marketplace,Credit Card,Standard,3,1,9,5,3.8,Low,8,Yes,30,No
+ORD-10242,10/01/2026,42,New Customer,Prairies,Apparel,25.25,5,Free Shipping,Mobile App,Debit Card,Standard,4,1,2,0,4.3,Medium,6,No,30,Yes
+ORD-10136,26/01/2026,19,Returning Customer,Prairies,Home & Kitchen,33.59,20,Percentage Discount,Website,PayPal,Standard,3,3,14,1,4.2,Low,2,No,45,No
+ORD-10052,24/05/2026,42,Returning Customer,Alberta,Electronics,237.41,0,No Promotion,Mobile App,Buy Now Pay Later,Express,2,5,9,0,3.3,Low,5,No,14,Yes
+ORD-10104,10/04/2026,36,New Customer,Quebec,Beauty,104.35,5,Free Shipping,Mobile App,Debit Card,Standard,4,3,0,0,3.5,Low,3,Yes,60,No
+ORD-10235,20/04/2026,36,VIP Customer,Ontario,Electronics,723.3,30,Percentage Discount,Website,Buy Now Pay Later,Standard,4,3,20,1,3.7,Low,4,No,45,No
+ORD-10141,18/03/2026,35,Returning Customer,Atlantic Canada,Apparel,125.45,15,Bundle Offer,Website,Credit Card,Standard,5,1,10,0,4.3,High,2,Yes,30,Yes
+ORD-10324,08/04/2026,21,Returning Customer,British Columbia,Footwear,52.07,,Percentage Discount,Website,Credit Card,Express,3,1,3,1,3.3,Medium,6,Yes,45,Yes
+ORD-10012,22/05/2026,27,Discount Shopper,British Columbia,Home & Kitchen,158.3,0,No Promotion,Social Commerce,Credit Card,Standard,7,1,8,4,4.3,Medium,4,No,45,No
+ORD-10263,24/02/2026,31,Returning Customer,Ontario,Footwear,87.05,10,Free Shipping,Mobile App,Debit Card,Standard,7,1,0,0,2.5,Medium,6,No,30,Yes
+ORD-10389,23/01/2026,64,Returning Customer,Alberta,Accessories,112.43,15,Percentage Discount,Marketplace,Credit Card,Standard,3,1,6,0,4.8,Low,9,Yes,14,No
+ORD-10413,12/03/2026,44,Returning Customer,Alberta,Electronics,216.02,20,Percentage Discount,Mobile App,Credit Card,Standard,3,2,1,1,5,Low,9,No,30,No
+ORD-10160,24/02/2026,44,Returning Customer,Atlantic Canada,Apparel,150.05,15,Bundle Offer,Social Commerce,Credit Card,Standard,4,2,2,0,4.1,Medium,3,No,14,No
+ORD-10100,18/01/2026,22,New Customer,Prairies,Home & Kitchen,249.5,0,Free Shipping,Mobile App,Debit Card,Standard,7,1,1,0,4.7,Medium,4,No,14,No
+ORD-10391,27/02/2026,28,Returning Customer,Alberta,Home & Kitchen,123.66,0,No Promotion,Mobile App,Debit Card,Standard,7,4,4,0,4.2,Low,6,No,14,No
+ORD-10302,10/05/2026,36,New Customer,Alberta,Home & Kitchen,209.45,0,No Promotion,Mobile App,Buy Now Pay Later,Standard,6,2,2,1,3.4,Medium,1,No,60,Yes
+ORD-10049,23/05/2026,67,New Customer,Atlantic Canada,Footwear,402.56,10,Free Shipping,Website,Credit Card,Express,2,1,1,0,3.6,Medium,4,No,14,Yes
+ORD-10078,20/05/2026,18,Returning Customer,Prairies,Electronics,309.84,5,Free Shipping,Marketplace,Credit Card,Express,2,3,9,0,3,Low,9,No,45,No
+ORD-10278,27/04/2026,30,Returning Customer,Ontario,Accessories,126.92,25,Percentage Discount,Marketplace,Credit Card,Express,1,2,0,2,3.4,Low,4,Yes,45,No
+ORD-10008,26/01/2026,39,Returning Customer,British Columbia,Apparel,49.52,0,No Promotion,Website,Credit Card,Standard,4,5,16,0,3.7,Low,2,No,14,No
+ORD-10333,17/05/2026,49,VIP Customer,Ontario,Electronics,435.24,0,No Promotion,Marketplace,PayPal,Standard,6,1,17,0,4.2,Low,3,No,45,No
+ORD-10213,25/04/2026,18,Returning Customer,Prairies,Apparel,219.55,5,Free Shipping,Mobile App,PayPal,Standard,4,2,11,1,4.4,Medium,9,No,30,No
+ORD-10259,06/02/2026,41,Discount Shopper,Alberta,Electronics,571.99,0,No Promotion,Website,PayPal,Standard,5,1,7,1,4.9,Low,4,No,45,No
+ORD-10038,16/05/2026,72,Discount Shopper,Quebec,Beauty,318.2,25,Percentage Discount,Mobile App,PayPal,Standard,5,6,0,1,3,Low,5,No,14,Yes
+ORD-10040,26/02/2026,23,Returning Customer,Ontario,Beauty,417.06,15,Bundle Offer,Website,Credit Card,Same-Day,0,1,4,1,3.4,Medium,9,No,60,No
+ORD-10044,02/04/2026,45,Returning Customer,Atlantic Canada,Electronics,456.8,25,Percentage Discount,Social Commerce,PayPal,Express,3,5,13,0,5,Medium,8,No,30,No
+ORD-10139,28/04/2026,42,New Customer,Prairies,Electronics,745.77,5,Bundle Offer,Mobile App,Credit Card,Same-Day,0,2,0,0,3.3,Medium,4,Yes,45,No
+ORD-10068,10/02/2026,23,Returning Customer,Alberta,Home & Kitchen,419.45,0,No Promotion,Mobile App,Credit Card,Standard,3,1,2,1,4.2,Low,4,No,45,No
+ORD-10206,19/03/2026,23,Discount Shopper,Prairies,Apparel,202.29,30,Percentage Discount,Mobile App,Credit Card,Standard,7,1,12,4,3.7,Low,7,No,45,Yes
+ORD-10194,06/05/2026,47,Returning Customer,Quebec,Apparel,156.09,0,No Promotion,Mobile App,Credit Card,Express,3,2,15,0,4,High,5,No,30,No
+ORD-10064,12/05/2026,31,VIP Customer,British Columbia,Electronics,719.4,10,Free Shipping,Mobile App,Credit Card,Express,1,2,20,0,3.9,Low,5,No,14,No
+ORD-10140,18/03/2026,28,Returning Customer,Ontario,Electronics,824.19,20,Percentage Discount,Mobile App,Credit Card,Express,3,2,3,0,4.9,Medium,4,No,45,No
+ORD-10018,19/01/2026,28,New Customer,Alberta,Electronics,444.35,40,Percentage Discount,Marketplace,Debit Card,Express,2,1,2,0,4.1,Low,3,Yes,30,No
+ORD-10427,19/01/2026,57,Returning Customer,Alberta,Electronics,592.25,25,Percentage Discount,Mobile App,Credit Card,Express,1,5,9,0,4.2,Medium,4,No,60,Yes
+ORD-10344,13/02/2026,67,VIP Customer,Atlantic Canada,Footwear,156.45,0,No Promotion,Social Commerce,PayPal,Express,3,1,8,0,4.3,Low,3,No,14,No
+ORD-10013,10/01/2026,37,New Customer,British Columbia,Apparel,153.93,5,Free Shipping,Website,Debit Card,Standard,7,1,1,0,3.1,Medium,10,No,60,Yes
+ORD-10155,12/03/2026,36,Discount Shopper,Alberta,Apparel,143.71,30,Percentage Discount,Mobile App,Credit Card,Express,1,3,0,4,3.5,Medium,1,Yes,45,No
+ORD-10145,14/04/2026,27,Returning Customer,Quebec,Beauty,44.25,10,Percentage Discount,Website,Credit Card,Express,3,1,7,0,5,High,1,No,45,No
+ORD-10347,01/01/2026,27,Returning Customer,Ontario,Beauty,367.96,25,Percentage Discount,Website,Credit Card,Standard,4,3,10,0,3.1,Medium,6,No,45,No
+ORD-10022,28/03/2026,32,Discount Shopper,Alberta,Footwear,84.35,25,Percentage Discount,Mobile App,Credit Card,Standard,6,5,2,5,3.9,High,5,No,30,Yes
+ORD-10384,11/02/2026,21,Returning Customer,,Apparel,176.66,40,Percentage Discount,Website,Credit Card,Standard,3,2,14,0,4.2,Medium,5,No,45,Yes
+ORD-10416,26/02/2026,34,VIP Customer,British Columbia,Home & Kitchen,121.45,5,Free Shipping,Marketplace,Debit Card,Standard,7,1,9,1,4.8,Medium,7,No,60,No
+ORD-10257,01/05/2026,44,Returning Customer,Prairies,Apparel,82.21,25,Percentage Discount,Marketplace,Debit Card,Standard,7,1,5,2,2.9,Low,5,No,60,No
+ORD-10053,28/01/2026,47,VIP Customer,Ontario,Footwear,190.57,0,No Promotion,Website,Debit Card,Express,1,2,19,0,4.3,High,1,Yes,30,Yes
+ORD-10270,27/05/2026,29,Returning Customer,Prairies,Electronics,339.95,10,Percentage Discount,Website,Credit Card,Express,3,2,16,1,3.7,High,1,No,14,No
+ORD-10415,15/05/2026,23,Discount Shopper,British Columbia,Apparel,205.3,15,Percentage Discount,Website,Credit Card,Standard,4,3,12,2,4.9,Medium,8,Yes,60,No
+ORD-10019,24/04/2026,37,Discount Shopper,Alberta,Home & Kitchen,319.89,10,Percentage Discount,Mobile App,Credit Card,Express,2,3,7,3,5,Low,1,No,60,No
+ORD-10007,26/02/2026,36,New Customer,Atlantic Canada,Footwear,103.14,0,No Promotion,Mobile App,Credit Card,Standard,7,2,1,1,4.3,Medium,6,No,60,Yes
+ORD-10128,02/02/2026,49,New Customer,Atlantic Canada,Apparel,104.28,0,No Promotion,Mobile App,Buy Now Pay Later,Standard,4,1,1,1,5,Low,3,No,45,No
+ORD-10356,30/05/2026,43,Returning Customer,Ontario,Apparel,112.2,10,Free Shipping,Social Commerce,PayPal,Standard,3,1,14,0,4.9,Medium,1,No,60,No
+ORD-10402,01/02/2026,54,New Customer,Alberta,Accessories,57.04,25,Percentage Discount,Website,Buy Now Pay Later,Express,2,4,0,0,5,High,4,No,60,Yes
+ORD-10212,01/02/2026,30,New Customer,Alberta,Beauty,253.35,10,Free Shipping,Mobile App,Credit Card,Standard,6,2,1,0,4.4,Low,2,Yes,14,No
+ORD-10170,27/02/2026,29,VIP Customer,Ontario,Home & Kitchen,227.59,15,Bundle Offer,Mobile App,Buy Now Pay Later,Same-Day,0,4,23,3,2.8,Low,1,No,45,No
+ORD-10192,18/03/2026,43,New Customer,Alberta,Footwear,417.8,0,Free Shipping,Marketplace,Credit Card,Standard,5,2,0,1,3.9,High,4,No,30,Yes
+ORD-10083,01/05/2026,27,Returning Customer,British Columbia,Apparel,182.13,0,No Promotion,Mobile App,Credit Card,Standard,4,3,0,0,2.8,Medium,1,No,30,No
+ORD-10405,24/03/2026,50,New Customer,Atlantic Canada,Accessories,36.99,15,Bundle Offer,Mobile App,Credit Card,Express,2,2,0,0,5,Medium,5,No,14,No
+ORD-10118,18/04/2026,35,Returning Customer,Atlantic Canada,Home & Kitchen,64.36,0,No Promotion,Mobile App,PayPal,Standard,3,3,19,1,3,Low,10,Yes,60,Yes
+ORD-10203,31/03/2026,37,Returning Customer,Atlantic Canada,Footwear,46.8,25,Percentage Discount,Website,Debit Card,Standard,5,1,3,1,3.9,Low,2,No,45,Yes
+ORD-10349,02/05/2026,20,VIP Customer,Alberta,Apparel,46.06,40,Percentage Discount,Website,Credit Card,Express,3,2,28,3,3.7,High,3,No,30,No
+ORD-10081,04/01/2026,60,New Customer,Ontario,Footwear,246.32,10,Percentage Discount,Marketplace,Credit Card,Express,3,5,2,1,4.2,High,2,No,30,No
+ORD-10102,06/02/2026,44,Returning Customer,Alberta,Accessories,93.7,10,Bundle Offer,Mobile App,Credit Card,Express,2,2,10,0,4.7,Low,1,No,60,No
+ORD-10372,06/01/2026,46,Returning Customer,British Columbia,Apparel,31.11,15,Percentage Discount,Website,PayPal,Same-Day,1,2,7,0,2.7,High,7,Yes,14,Yes
+ORD-10186,21/01/2026,54,Returning Customer,British Columbia,Home & Kitchen,145.39,0,No Promotion,Mobile App,Credit Card,Same-Day,1,1,7,3,3.6,Low,5,No,60,No
+ORD-10108,27/05/2026,36,VIP Customer,Quebec,Electronics,549.9,5,Free Shipping,Mobile App,Credit Card,Same-Day,0,1,27,1,3.1,Low,4,Yes,45,No
+ORD-10266,06/05/2026,33,Discount Shopper,British Columbia,Home & Kitchen,325.92,10,Free Shipping,Website,PayPal,Express,3,1,10,2,4.8,Low,4,No,60,Yes
+ORD-10026,03/01/2026,18,Discount Shopper,Ontario,Home & Kitchen,247.08,0,No Promotion,Mobile App,Credit Card,Standard,4,3,11,1,4.6,Medium,1,No,45,No
+ORD-10336,04/02/2026,35,Returning Customer,Ontario,Apparel,206.18,25,Percentage Discount,Website,PayPal,Standard,5,1,16,0,2.9,Medium,9,No,14,No
+ORD-10033,19/05/2026,41,Returning Customer,Quebec,Accessories,53.23,0,No Promotion,Mobile App,Credit Card,Standard,5,5,10,0,3.2,Low,12,No,45,No
+ORD-10284,30/01/2026,38,Discount Shopper,British Columbia,Footwear,143.83,15,Percentage Discount,Marketplace,Debit Card,Same-Day,1,1,3,4,4,Low,6,No,30,No
+ORD-10181,07/05/2026,32,VIP Customer,Quebec,Apparel,65.01,0,Free Shipping,Social Commerce,PayPal,Standard,7,4,17,1,3.7,High,4,No,14,No
+ORD-10171,11/02/2026,47,Returning Customer,Atlantic Canada,Home & Kitchen,110.46,30,Percentage Discount,Marketplace,Credit Card,Standard,4,3,3,1,4.4,Medium,4,No,60,No
+ORD-10047,16/05/2026,37,Discount Shopper,Ontario,Beauty,210.55,5,Free Shipping,Mobile App,Credit Card,Standard,5,2,15,4,4.5,Low,5,No,30,No
+ORD-10195,10/04/2026,33,New Customer,Atlantic Canada,Apparel,83.5,0,No Promotion,Website,Buy Now Pay Later,Express,1,1,1,1,,High,5,No,45,No
+ORD-10362,28/02/2026,29,New Customer,Quebec,Home & Kitchen,387.21,0,No Promotion,Website,Credit Card,Standard,6,3,1,1,3.5,Medium,2,No,45,No
+ORD-10011,03/01/2026,23,New Customer,Ontario,Apparel,39.05,0,No Promotion,Mobile App,Buy Now Pay Later,Express,2,3,2,0,3.8,Low,2,Yes,60,No
+ORD-10277,11/02/2026,25,Returning Customer,Quebec,Footwear,299.65,10,Free Shipping,Social Commerce,Credit Card,Express,1,1,13,3,3,Medium,9,No,45,No
+ORD-10310,01/01/2026,43,New Customer,Atlantic Canada,Home & Kitchen,220.94,0,No Promotion,Mobile App,Buy Now Pay Later,Standard,5,4,1,1,2.6,Low,7,Yes,45,Yes
+ORD-10067,17/02/2026,29,Returning Customer,Prairies,Apparel,139.99,0,No Promotion,Marketplace,Credit Card,Standard,3,2,1,0,3.4,Medium,4,No,30,Yes
+ORD-10169,22/02/2026,25,Returning Customer,Atlantic Canada,Electronics,188.09,0,Free Shipping,Mobile App,PayPal,Express,3,1,16,0,4.1,Low,8,No,14,Yes
+ORD-10313,27/04/2026,36,Returning Customer,Atlantic Canada,Home & Kitchen,,10,Free Shipping,Mobile App,Credit Card,Standard,4,1,7,3,5,Low,4,No,14,No
+ORD-10315,02/03/2026,44,Returning Customer,British Columbia,Accessories,14.18,0,No Promotion,Website,Credit Card,Standard,4,2,18,1,,Medium,6,Yes,14,No
+ORD-10057,11/04/2026,46,Returning Customer,British Columbia,Home & Kitchen,39.05,40,Percentage Discount,Mobile App,PayPal,Same-Day,1,3,10,1,3.6,Low,8,No,30,No
+ORD-10321,22/04/2026,43,New Customer,Prairies,Apparel,58.62,15,Bundle Offer,Website,Credit Card,Standard,5,5,0,0,3.7,Low,6,Yes,60,No
+ORD-10106,26/02/2026,36,Returning Customer,Atlantic Canada,Apparel,150.84,15,Bundle Offer,Mobile App,Credit Card,Express,3,5,11,0,4,Medium,6,No,60,Yes
+ORD-10275,02/03/2026,25,Returning Customer,Quebec,Footwear,66.5,10,Free Shipping,Marketplace,Credit Card,Standard,3,4,4,4,3.5,Medium,5,Yes,30,No
+ORD-10086,06/01/2026,48,VIP Customer,Alberta,Home & Kitchen,386.68,5,Free Shipping,Marketplace,Credit Card,Same-Day,0,2,19,0,4.6,Low,4,Yes,30,No
+ORD-10294,11/02/2026,41,Returning Customer,Quebec,Apparel,67.7,40,Percentage Discount,Mobile App,Credit Card,Standard,5,1,13,0,3.3,High,7,No,60,No
+ORD-10114,19/01/2026,51,Returning Customer,British Columbia,Electronics,732.88,10,Free Shipping,Website,PayPal,Express,3,4,10,3,4.2,Low,1,No,14,Yes
+ORD-10400,26/02/2026,35,Returning Customer,Atlantic Canada,Apparel,24.4,10,Bundle Offer,Mobile App,Credit Card,Express,3,1,10,0,2.6,High,1,No,30,No
+ORD-10230,17/03/2026,60,Returning Customer,British Columbia,Apparel,120.27,10,Free Shipping,Mobile App,Debit Card,Standard,5,3,13,0,3.1,Medium,1,No,14,No
+ORD-10158,06/03/2026,41,New Customer,British Columbia,Apparel,202.55,40,Percentage Discount,Marketplace,PayPal,Standard,6,2,1,0,3,High,7,Yes,60,Yes
+ORD-10024,25/05/2026,39,Returning Customer,Prairies,Accessories,96.8,20,Percentage Discount,Website,PayPal,Standard,7,2,4,2,3.7,Low,5,No,30,Yes
+ORD-10326,30/04/2026,21,VIP Customer,British Columbia,Accessories,159.53,0,No Promotion,Mobile App,Credit Card,Same-Day,0,5,11,3,4.1,Medium,5,No,30,No
+ORD-10174,20/05/2026,26,Returning Customer,Prairies,Apparel,132.2,0,No Promotion,Marketplace,PayPal,Standard,7,1,7,2,2.9,Medium,4,Yes,14,Yes
+ORD-10435,14/05/2026,39,VIP Customer,British Columbia,Beauty,280.76,30,Percentage Discount,Marketplace,Buy Now Pay Later,Express,1,4,19,2,3.7,Low,1,No,60,Yes
+ORD-10373,03/01/2026,43,New Customer,Ontario,Apparel,176.07,20,Bundle Offer,Social Commerce,PayPal,Standard,7,2,0,0,3.6,Low,6,No,60,Yes
+ORD-10446,29/03/2026,43,VIP Customer,Prairies,Beauty,325.91,10,Free Shipping,Mobile App,Credit Card,Express,2,1,17,0,4.7,Low,1,No,30,No
+ORD-10404,09/01/2026,42,New Customer,Alberta,Accessories,40.87,10,Free Shipping,Website,Credit Card,Express,3,2,1,0,4.5,Low,2,No,30,No
+ORD-10028,02/02/2026,40,VIP Customer,Prairies,Apparel,225.13,15,Bundle Offer,Website,Credit Card,Express,2,6,27,0,3.9,Low,3,No,14,No
+ORD-10395,18/02/2026,23,Discount Shopper,Prairies,Apparel,22.76,25,Percentage Discount,Social Commerce,Credit Card,Standard,4,5,13,0,3.6,Medium,1,No,60,Yes
+ORD-10205,28/01/2026,32,Returning Customer,Quebec,Apparel,131.57,5,Free Shipping,Marketplace,PayPal,Standard,6,1,2,0,5,Low,2,Yes,14,No
+ORD-10425,31/03/2026,46,Returning Customer,Ontario,Electronics,106.24,40,Percentage Discount,Website,Credit Card,Standard,6,4,12,0,3.9,Low,7,Yes,60,No
+ORD-10227,08/04/2026,28,Discount Shopper,Atlantic Canada,Accessories,70.63,10,Bundle Offer,Mobile App,Credit Card,Same-Day,0,4,19,2,4.3,Medium,3,No,45,No
+ORD-10442,23/04/2026,41,New Customer,Atlantic Canada,Apparel,100.8,10,Free Shipping,Website,PayPal,Express,3,1,0,0,4.5,Low,1,No,14,No
+ORD-10409,16/04/2026,36,VIP Customer,Prairies,Beauty,62.54,0,No Promotion,Marketplace,Buy Now Pay Later,Standard,4,5,30,1,3.7,Low,4,No,30,No
+ORD-10163,30/05/2026,44,Discount Shopper,British Columbia,Beauty,119.27,10,Percentage Discount,Marketplace,Credit Card,Standard,6,2,9,3,4.5,Low,3,No,45,No
+ORD-10346,03/04/2026,45,New Customer,Atlantic Canada,Beauty,336.3,0,No Promotion,Website,PayPal,Express,2,2,2,1,3.9,Low,3,No,60,No
+ORD-10134,08/03/2026,55,New Customer,Ontario,Home & Kitchen,290.37,10,Bundle Offer,Website,Debit Card,Standard,3,1,1,0,5,Low,4,Yes,60,No
+ORD-10166,26/05/2026,57,Returning Customer,Prairies,Home & Kitchen,400.52,0,No Promotion,Website,Debit Card,Standard,4,2,5,0,3.4,Low,5,No,45,No
+ORD-10396,22/04/2026,50,Returning Customer,British Columbia,Accessories,78.4,0,No Promotion,Website,Debit Card,Express,1,2,1,0,4.7,Low,6,No,60,No
+ORD-10288,29/04/2026,47,Returning Customer,Quebec,Home & Kitchen,98.35,5,Free Shipping,Marketplace,Credit Card,Standard,6,4,11,0,4.1,Low,2,No,45,No
+ORD-10032,06/05/2026,50,New Customer,Alberta,Home & Kitchen,147.57,20,Percentage Discount,Mobile App,Credit Card,Standard,4,1,0,0,3.7,Low,2,Yes,60,No
+ORD-10210,22/03/2026,47,Returning Customer,Alberta,Apparel,176.41,0,No Promotion,Mobile App,PayPal,Standard,5,6,8,1,3.8,High,1,No,60,No
+ORD-10401,03/04/2026,22,Returning Customer,British Columbia,Electronics,799.93,10,Free Shipping,Website,PayPal,Express,3,1,19,0,4.4,Medium,6,No,14,No
+ORD-10111,20/03/2026,44,Discount Shopper,Alberta,Footwear,201.52,5,Free Shipping,Marketplace,Credit Card,Standard,3,1,6,1,3.7,Low,1,No,45,No
+ORD-10260,05/02/2026,27,Returning Customer,Quebec,Apparel,67.99,15,Percentage Discount,Mobile App,Credit Card,Standard,6,3,0,0,4.3,Low,6,No,14,No
+ORD-10138,08/01/2026,18,New Customer,British Columbia,Footwear,204.62,5,Free Shipping,Mobile App,Credit Card,Same-Day,1,3,1,1,3.3,Low,9,Yes,45,Yes
+ORD-10149,03/05/2026,49,Returning Customer,Ontario,Footwear,150.12,0,No Promotion,Mobile App,Credit Card,Standard,5,4,14,2,3.9,Low,2,Yes,30,No
+ORD-10015,31/03/2026,56,Returning Customer,Quebec,Footwear,363.15,0,No Promotion,Mobile App,PayPal,Express,2,1,15,1,3.3,Medium,3,No,14,No
+ORD-10121,26/04/2026,18,New Customer,Prairies,Beauty,251.47,,Percentage Discount,Social Commerce,Buy Now Pay Later,Express,2,1,1,1,4.4,Medium,7,Yes,45,Yes
+ORD-10352,14/01/2026,39,New Customer,Prairies,Beauty,146.7,5,Bundle Offer,Website,Credit Card,Express,3,1,0,1,4.6,Medium,8,Yes,45,No
+ORD-10211,17/03/2026,47,Discount Shopper,Prairies,Electronics,427.74,0,Free Shipping,Mobile App,PayPal,Standard,4,4,8,3,2.7,Medium,7,No,45,Yes
+ORD-10308,06/02/2026,31,Returning Customer,Ontario,Apparel,28.01,40,Percentage Discount,Website,Credit Card,Standard,7,1,14,2,3.7,Medium,3,No,30,Yes
+ORD-10445,15/04/2026,60,Discount Shopper,Atlantic Canada,Footwear,160.46,0,No Promotion,Website,Buy Now Pay Later,Standard,7,2,1,0,3.6,High,9,No,14,Yes
+ORD-10248,28/05/2026,22,New Customer,British Columbia,Apparel,225.1,,Percentage Discount,Mobile App,Credit Card,Standard,6,3,1,1,5,Medium,3,No,45,No
+ORD-10397,30/01/2026,52,Returning Customer,Ontario,Beauty,59.73,0,No Promotion,Social Commerce,PayPal,Same-Day,1,3,3,0,3.4,Low,1,No,14,No
+ORD-10066,08/01/2026,34,Returning Customer,Ontario,Apparel,56.66,25,Percentage Discount,Marketplace,Credit Card,Standard,5,2,14,4,4.3,Low,3,Yes,14,No
+ORD-10361,14/04/2026,35,Discount Shopper,British Columbia,Home & Kitchen,365.89,0,No Promotion,Mobile App,PayPal,Express,3,2,0,1,4.3,Medium,1,No,45,No
+ORD-10204,18/05/2026,52,Discount Shopper,Quebec,Beauty,168.28,0,No Promotion,Mobile App,Credit Card,Standard,5,3,9,0,3.4,Low,9,No,14,No
+ORD-10357,04/04/2026,33,VIP Customer,Prairies,Home & Kitchen,90.63,0,No Promotion,Mobile App,Buy Now Pay Later,Express,2,2,33,1,3.7,Low,5,Yes,14,No
+ORD-10178,14/04/2026,46,New Customer,Ontario,Home & Kitchen,178.57,0,No Promotion,Website,Buy Now Pay Later,Standard,7,3,1,0,3.6,Low,5,Yes,45,No
+ORD-10059,25/04/2026,55,Discount Shopper,Atlantic Canada,Apparel,181.39,0,Free Shipping,Website,Credit Card,Express,1,2,10,2,3.8,Medium,3,No,45,No
+ORD-10339,04/03/2026,31,Returning Customer,Alberta,Beauty,95.37,0,No Promotion,Website,Credit Card,Standard,7,3,10,1,4,Medium,6,No,30,No
+ORD-10164,06/04/2026,24,Discount Shopper,Prairies,Apparel,181.18,25,Percentage Discount,Website,Credit Card,Standard,6,2,8,1,4.4,High,4,Yes,45,No
+ORD-10238,21/02/2026,31,VIP Customer,Alberta,Home & Kitchen,346.83,0,No Promotion,Marketplace,Buy Now Pay Later,Standard,3,2,16,0,4.8,Low,6,No,45,No
+ORD-10091,22/05/2026,27,Returning Customer,British Columbia,Accessories,49.23,0,No Promotion,Mobile App,PayPal,Standard,4,2,13,0,4,Low,10,No,45,Yes
+ORD-10060,11/02/2026,70,New Customer,Quebec,Apparel,80.61,20,Bundle Offer,Social Commerce,Credit Card,Express,1,2,1,0,3.7,Medium,9,Yes,45,Yes
+ORD-10218,16/04/2026,27,New Customer,Ontario,Electronics,102.42,0,Free Shipping,Website,PayPal,Standard,6,1,1,1,3.7,Low,7,No,30,No
+ORD-10340,18/05/2026,38,Returning Customer,Quebec,Home & Kitchen,408.97,20,Bundle Offer,Website,Credit Card,Express,2,2,5,0,4.1,Medium,3,Yes,14,No
+ORD-10127,24/03/2026,18,New Customer,Atlantic Canada,Accessories,131.56,25,Percentage Discount,Mobile App,Buy Now Pay Later,Same-Day,0,2,0,0,5,Low,5,No,60,No
+ORD-10167,18/05/2026,31,Returning Customer,Quebec,Electronics,603.28,0,No Promotion,Mobile App,PayPal,Standard,7,1,4,0,4.1,Low,1,Yes,14,Yes
+ORD-10229,05/04/2026,36,Returning Customer,Alberta,Footwear,198.92,20,Percentage Discount,Social Commerce,Debit Card,Express,2,1,7,1,3.3,Medium,7,Yes,45,No
+ORD-10215,21/05/2026,33,New Customer,Atlantic Canada,Apparel,213.44,0,No Promotion,Website,PayPal,Standard,3,1,1,0,,High,2,Yes,14,No
+ORD-10148,11/01/2026,18,Returning Customer,Ontario,Apparel,44.97,30,Percentage Discount,Website,Credit Card,Same-Day,0,3,9,1,2.3,Low,7,No,30,No
+ORD-10392,23/03/2026,40,Returning Customer,Alberta,Electronics,385.65,5,Free Shipping,Website,Credit Card,Standard,6,1,10,0,4.5,Low,6,No,14,No
+ORD-10387,26/03/2026,51,Returning Customer,Atlantic Canada,Home & Kitchen,37.32,5,Bundle Offer,Website,Credit Card,Standard,7,5,7,2,4,Low,2,No,30,No
+ORD-10058,09/02/2026,27,Returning Customer,British Columbia,Apparel,164.57,10,Free Shipping,Website,PayPal,Standard,5,1,0,0,3.3,High,2,No,30,No
+ORD-10113,05/02/2026,49,VIP Customer,Quebec,Apparel,148.95,10,Bundle Offer,Marketplace,Credit Card,Standard,3,2,12,2,4.5,Low,8,No,14,No
+ORD-10050,08/01/2026,36,VIP Customer,Atlantic Canada,Electronics,718.68,15,Bundle Offer,Mobile App,Debit Card,Express,2,1,22,3,4.6,Low,2,No,30,No
+ORD-10152,08/05/2026,23,Discount Shopper,Quebec,Apparel,72.11,20,Percentage Discount,Mobile App,Credit Card,Standard,6,1,9,5,4.2,High,1,No,60,Yes
+ORD-10247,25/02/2026,51,New Customer,Atlantic Canada,Footwear,385.33,5,Bundle Offer,Website,Buy Now Pay Later,Express,3,2,2,0,3.5,Medium,5,No,14,No
+ORD-10279,14/03/2026,24,VIP Customer,Prairies,Beauty,144.12,10,Percentage Discount,Mobile App,Credit Card,Standard,5,1,24,3,3,Low,5,No,60,No
+ORD-10183,20/02/2026,21,New Customer,British Columbia,Electronics,464.05,0,No Promotion,Mobile App,Credit Card,Express,2,1,1,1,4.5,Medium,4,No,30,No
+ORD-10307,21/02/2026,40,New Customer,Ontario,Apparel,163.15,0,No Promotion,Website,Credit Card,Standard,5,1,0,0,3.5,Medium,6,Yes,30,Yes
+ORD-10201,25/05/2026,31,New Customer,Ontario,Footwear,249.67,10,Percentage Discount,Marketplace,Debit Card,Express,2,3,1,1,5,Medium,4,No,14,No
+ORD-10323,26/04/2026,52,New Customer,Atlantic Canada,Apparel,129.93,0,No Promotion,Mobile App,Credit Card,Express,2,1,1,1,3.9,Medium,6,No,60,No
+ORD-10408,18/02/2026,27,VIP Customer,Atlantic Canada,Electronics,573.64,10,Percentage Discount,Mobile App,Credit Card,Standard,3,4,27,0,4.5,Low,6,No,30,No
+ORD-10251,14/05/2026,34,Discount Shopper,Ontario,Apparel,204,0,No Promotion,Website,Credit Card,Standard,6,2,17,1,3.6,High,6,No,60,No
+ORD-10249,29/05/2026,57,VIP Customer,Ontario,Footwear,383.82,5,Free Shipping,Website,Debit Card,Express,1,4,28,0,3.6,Low,3,No,30,No
+ORD-10343,20/03/2026,58,Returning Customer,Prairies,Electronics,786,25,Percentage Discount,Mobile App,PayPal,Standard,4,3,8,1,4,Low,2,No,60,No
+ORD-10150,03/02/2026,45,Returning Customer,Ontario,Footwear,357.43,0,Free Shipping,Marketplace,Buy Now Pay Later,Standard,7,2,0,0,4.2,High,1,Yes,60,No
+ORD-10119,29/04/2026,18,New Customer,Atlantic Canada,Apparel,189.3,0,Free Shipping,Marketplace,Credit Card,Standard,7,5,0,0,3.1,Low,6,No,60,No
+ORD-10431,25/05/2026,70,Returning Customer,Ontario,Accessories,14.84,5,Free Shipping,Mobile App,Debit Card,Standard,7,1,1,0,5,Medium,1,No,45,Yes
+ORD-10154,31/05/2026,47,Discount Shopper,Prairies,Electronics,459.17,40,Percentage Discount,Social Commerce,Credit Card,Standard,6,3,4,2,2.9,Medium,6,No,30,Yes
+ORD-10450,23/01/2026,47,Returning Customer,Atlantic Canada,Beauty,370.78,5,Bundle Offer,Social Commerce,Credit Card,Standard,4,5,0,0,3.6,Low,3,No,45,No
+ORD-10093,21/04/2026,42,Discount Shopper,Ontario,Home & Kitchen,302.28,0,No Promotion,Website,Credit Card,Express,1,1,4,2,4,Low,2,Yes,60,Yes
+ORD-10337,06/04/2026,35,Returning Customer,Alberta,Electronics,782.32,20,Bundle Offer,Marketplace,Credit Card,Standard,3,2,5,0,3.6,Medium,9,No,14,Yes
+ORD-10272,30/04/2026,18,Returning Customer,Ontario,Electronics,699.18,25,Percentage Discount,Mobile App,PayPal,Standard,7,3,5,2,4.7,Low,2,No,30,No
