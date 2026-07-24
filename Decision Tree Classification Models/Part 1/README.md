@@ -86,7 +86,7 @@ Open `notebook_part 1.ipynb` directly in GitHub. GitHub renders Jupyter notebook
    pip install pandas scikit-learn matplotlib
    ```
 2. Place the dataset file (`salesboost_b2b_deal_win_dataset.csv`) in the same directory as the notebook.
-3. Launch Jupyter and open `week04_notebook_part 1.ipynb`.
+3. Launch Jupyter and open `notebook_part 1.ipynb`.
 4. Run all cells in order.
 
 ---
