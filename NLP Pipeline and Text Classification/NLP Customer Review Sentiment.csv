@@ -1,0 +1,121 @@
+ReviewID,ReviewDate,Channel,City,ProductCategory,CustomerSegment,ReviewText,SentimentLabel
+REV-001,2026-01-06,Mobile App,Oshawa,Accessories,Returning Customer,"The Accessories item looked better than expected. Delivery to Oshawa was smooth, and I am very happy with the purchase. #customerreview",Positive
+REV-002,2026-01-07,Email Survey,Hamilton,Beauty,Student,The website checkout was simple. I may buy again if the price is lower next time.,Neutral
+REV-003,2026-01-08,Social Media,Waterloo,Home,Premium Member,"The package arrived on June 5. It was not amazing, but there were no major problems.",Neutral
+REV-004,2026-01-09,Website,Oshawa,Beauty,New Customer,The website checkout was simple. I may buy again if the price is lower next time.,Neutral
+REV-005,2026-01-10,Mobile App,Hamilton,Home,Returning Customer,"The Home product arrived in Hamilton. It works as expected, but I have not used it enough to judge the quality.",Neutral
+REV-006,2026-01-11,Email Survey,Waterloo,Accessories,Student,"MapleMart delivered my Accessories order to Waterloo very quickly! The quality was excellent, and I will definitely buy again.",Positive
+REV-007,2026-01-12,Social Media,Mississauga,Beauty,Premium Member,"The order was okay. Delivery took three days, and the item matched the description.",Neutral
+REV-008,2026-01-13,Website,Waterloo,Beauty,New Customer,"The order was okay. Delivery took three days, and the item matched the description.",Neutral
+REV-009,2026-01-14,Mobile App,Scarborough,Beauty,Returning Customer,The website checkout was simple. I may buy again if the price is lower next time.,Neutral
+REV-010,2026-01-15,Email Survey,Mississauga,Kitchen,Student,This Kitchen item is fine for basic use. I do not have a strong positive or negative opinion.,Neutral
+REV-011,2026-01-16,Social Media,Scarborough,Office,Premium Member,"Very disappointed. The product description was confusing, the box was open, and I had to ask for a refund.",Negative
+REV-012,2026-01-17,Website,Scarborough,Accessories,New Customer,"CUSTOMER SERVICE REPLIED AFTER A LONG DELAY. THE PRICE WAS HIGH, AND THE QUALITY WAS POOR.",Negative
+REV-013,2026-01-18,Mobile App,Scarborough,Kitchen,Returning Customer,"I bought this from MapleMart last week. The price was average, and the product is acceptable.",Neutral
+REV-014,2026-01-19,Email Survey,Toronto,Electronics,Student,"Great experience with MapleMart! The website was easy to use, the price was fair, and the item worked perfectly.",Positive
+REV-015,2026-01-20,Social Media,Toronto,Office,Premium Member,Excellent value for money. MapleMart answered my question on Tuesday and shipped the order the same day.,Positive
+REV-016,2026-01-21,Website,Waterloo,Office,New Customer,"I received the wrong Office item on Friday. MapleMart asked me to wait again, which was frustrating.",Negative
+REV-017,2026-01-22,Mobile App,Oshawa,Kitchen,Returning Customer,"I bought this from MapleMart last week. The price was average, and the product is acceptable.",Neutral
+REV-018,2026-01-23,Email Survey,Toronto,Kitchen,Student,This Kitchen item is fine for basic use. I do not have a strong positive or negative opinion.,Neutral
+REV-019,2026-01-24,Social Media,Hamilton,Electronics,Premium Member,"The mobile app showed the order as delivered, but nothing arrived at my address in Hamilton.",Negative
+REV-020,2026-01-25,Website,Mississauga,Office,New Customer,"I received the wrong Office item on Friday. MapleMart asked me to wait again, which was frustrating.",Negative
+REV-021,2026-01-26,Mobile App,Toronto,Electronics,Returning Customer,"Great experience with MapleMart! The website was easy to use, the price was fair, and the item worked perfectly.",Positive
+REV-022,2026-01-27,Email Survey,Markham,Accessories,Student,"Customer service replied after a long delay. The price was high, and the quality was poor.",Negative
+REV-023,2026-01-28,Social Media,Oshawa,Home,Premium Member,"The Home product arrived in Oshawa. It works as expected, but I have not used it enough to judge the quality. #customerreview",Neutral
+REV-024,2026-01-29,Website,Hamilton,Beauty,New Customer,The website checkout was simple. I may buy again if the price is lower next time.,Neutral
+REV-025,2026-01-30,Mobile App,Scarborough,Office,Returning Customer,"I loved the Office product. The package arrived on time in Scarborough, and the customer service team was friendly.",Positive
+REV-026,2026-01-31,Email Survey,Oshawa,Office,Student,"I loved the Office product. The package arrived on time in Oshawa, and the customer service team was friendly.",Positive
+REV-027,2026-02-01,Social Media,Waterloo,Electronics,Premium Member,"The delivery was slow, and the item stopped working after two days. I would not recommend this Electronics product.",Negative
+REV-028,2026-02-02,Website,Waterloo,Accessories,New Customer,"My MapleMart order arrived late in Waterloo, and the Accessories item was damaged. Support did not solve the problem.",Negative
+REV-029,2026-02-03,Mobile App,Ottawa,Electronics,Returning Customer,"Great experience with MapleMart! The website was easy to use, the price was fair, and the item worked perfectly.",Positive
+REV-030,2026-02-04,Email Survey,Scarborough,Home,Student,"The Home product arrived in Scarborough. It works as expected, but I have not used it enough to judge the quality. #customerreview",Neutral
+REV-031,2026-02-05,Social Media,Markham,Accessories,Premium Member,"The Accessories item looked better than expected. Delivery to Markham was smooth, and I am very happy with the purchase.",Positive
+REV-032,2026-02-06,Website,Mississauga,Accessories,New Customer,"My MapleMart order arrived late in Mississauga, and the Accessories item was damaged. Support did not solve the problem.",Negative
+REV-033,2026-02-07,Mobile App,Oshawa,Office,Returning Customer,"Very disappointed. The product description was confusing, the box was open, and I had to ask for a refund.",Negative
+REV-034,2026-02-08,Email Survey,Ottawa,Office,Student,"I received the wrong Office item on Friday. MapleMart asked me to wait again, which was frustrating.",Negative
+REV-035,2026-02-09,Social Media,Ottawa,Electronics,Premium Member,"THE DELIVERY WAS SLOW, AND THE ITEM STOPPED WORKING AFTER TWO DAYS. I WOULD NOT RECOMMEND THIS ELECTRONICS PRODUCT.",Negative
+REV-036,2026-02-10,Website,Scarborough,Accessories,New Customer,"The Accessories item looked better than expected. Delivery to Scarborough was smooth, and I am very happy with the purchase.",Positive
+REV-037,2026-02-11,Mobile App,Hamilton,Accessories,Returning Customer,"Customer service replied after a long delay. The price was high, and the quality was poor. #customerreview",Negative
+REV-038,2026-02-12,Email Survey,Ottawa,Office,Student,Excellent value for money. MapleMart answered my question on Tuesday and shipped the order the same day.,Positive
+REV-039,2026-02-13,Social Media,Mississauga,Electronics,Premium Member,"The delivery was slow, and the item stopped working after two days. I would not recommend this Electronics product.",Negative
+REV-040,2026-02-14,Website,Waterloo,Electronics,New Customer,"Great experience with MapleMart! The website was easy to use, the price was fair, and the item worked perfectly.",Positive
+REV-041,2026-02-15,Mobile App,Hamilton,Office,Returning Customer,"Very disappointed. The product description was confusing, the box was open, and I had to ask for a refund.",Negative
+REV-042,2026-02-16,Email Survey,Scarborough,Accessories,Student,"Customer service replied after a long delay. The price was high, and the quality was poor.",Negative
+REV-043,2026-02-17,Social Media,Mississauga,Accessories,Premium Member,"My MapleMart order arrived late in Mississauga, and the Accessories item was damaged. Support did not solve the problem. #customerreview",Negative
+REV-044,2026-02-18,Website,Waterloo,Office,New Customer,Excellent value for money. MapleMart answered my question on Tuesday and shipped the order the same day.,Positive
+REV-045,2026-02-19,Mobile App,Scarborough,Electronics,Returning Customer,"The mobile app showed the order as delivered, but nothing arrived at my address in Scarborough.",Negative
+REV-046,2026-02-20,Email Survey,Oshawa,Office,Student,"Very disappointed. The product description was confusing, the box was open, and I had to ask for a refund.",Negative
+REV-047,2026-02-21,Social Media,Scarborough,Electronics,Premium Member,"The product is reliable, clean, and easy to use. I recommended MapleMart to my friend in Scarborough.",Positive
+REV-048,2026-02-22,Website,Toronto,Accessories,New Customer,"MY MAPLEMART ORDER ARRIVED LATE IN TORONTO, AND THE ACCESSORIES ITEM WAS DAMAGED. SUPPORT DID NOT SOLVE THE PROBLEM. #CUSTOMERREVIEW",Negative
+REV-049,2026-02-23,Mobile App,Ottawa,Beauty,Returning Customer,"The order was okay. Delivery took three days, and the item matched the description.",Neutral
+REV-050,2026-02-24,Email Survey,Scarborough,Kitchen,Student,"I bought this from MapleMart last week. The price was average, and the product is acceptable.",Neutral
+REV-051,2026-02-25,Social Media,Toronto,Accessories,Premium Member,"MapleMart delivered my Accessories order to Toronto very quickly! The quality was excellent, and I will definitely buy again.",Positive
+REV-052,2026-02-26,Website,Waterloo,Accessories,New Customer,"MapleMart delivered my Accessories order to Waterloo very quickly! The quality was excellent, and I will definitely buy again.",Positive
+REV-053,2026-02-27,Mobile App,Toronto,Office,Returning Customer,"I received the wrong Office item on Friday. MapleMart asked me to wait again, which was frustrating.",Negative
+REV-054,2026-02-28,Email Survey,Oshawa,Beauty,Student,The website checkout was simple. I may buy again if the price is lower next time.,Neutral
+REV-055,2026-03-01,Social Media,Ottawa,Accessories,Premium Member,"MapleMart delivered my Accessories order to Ottawa very quickly! The quality was excellent, and I will definitely buy again. #customerreview",Positive
+REV-056,2026-03-02,Website,Oshawa,Accessories,New Customer,"Customer service replied after a long delay. The price was high, and the quality was poor. #customerreview",Negative
+REV-057,2026-03-03,Mobile App,Markham,Kitchen,Returning Customer,"I bought this from MapleMart last week. The price was average, and the product is acceptable.",Neutral
+REV-058,2026-03-04,Email Survey,Ottawa,Electronics,Student,"The delivery was slow, and the item stopped working after two days. I would not recommend this Electronics product.",Negative
+REV-059,2026-03-05,Social Media,Ottawa,Electronics,Premium Member,"Great experience with MapleMart! The website was easy to use, the price was fair, and the item worked perfectly.",Positive
+REV-060,2026-03-06,Website,Waterloo,Kitchen,New Customer,This Kitchen item is fine for basic use. I do not have a strong positive or negative opinion.,Neutral
+REV-061,2026-03-07,Mobile App,Toronto,Electronics,Returning Customer,"The delivery was slow, and the item stopped working after two days. I would not recommend this Electronics product.",Negative
+REV-062,2026-03-08,Email Survey,Oshawa,Accessories,Student,"Customer service replied after a long delay. The price was high, and the quality was poor.",Negative
+REV-063,2026-03-09,Social Media,Mississauga,Accessories,Premium Member,"MapleMart delivered my Accessories order to Mississauga very quickly! The quality was excellent, and I will definitely buy again. #customerreview",Positive
+REV-064,2026-03-10,Website,Waterloo,Accessories,New Customer,"My MapleMart order arrived late in Waterloo, and the Accessories item was damaged. Support did not solve the problem.",Negative
+REV-065,2026-03-11,Mobile App,Markham,Office,Returning Customer,"I loved the Office product. The package arrived on time in Markham, and the customer service team was friendly.",Positive
+REV-066,2026-03-12,Email Survey,Ottawa,Office,Student,Excellent value for money. MapleMart answered my question on Tuesday and shipped the order the same day.,Positive
+REV-067,2026-03-13,Social Media,Ottawa,Office,Premium Member,"I received the wrong Office item on Friday. MapleMart asked me to wait again, which was frustrating.",Negative
+REV-068,2026-03-14,Website,Scarborough,Accessories,New Customer,"The Accessories item looked better than expected. Delivery to Scarborough was smooth, and I am very happy with the purchase.",Positive
+REV-069,2026-03-15,Mobile App,Ottawa,Accessories,Returning Customer,"My MapleMart order arrived late in Ottawa, and the Accessories item was damaged. Support did not solve the problem. #customerreview",Negative
+REV-070,2026-03-16,Email Survey,Markham,Electronics,Student,"The product is reliable, clean, and easy to use. I recommended MapleMart to my friend in Markham.",Positive
+REV-071,2026-03-17,Social Media,Oshawa,Accessories,Premium Member,"The Accessories item looked better than expected. Delivery to Oshawa was smooth, and I am very happy with the purchase.",Positive
+REV-072,2026-03-18,Website,Mississauga,Office,New Customer,"I received the wrong Office item on Friday. MapleMart asked me to wait again, which was frustrating.",Negative
+REV-073,2026-03-19,Mobile App,Markham,Electronics,Returning Customer,"The mobile app showed the order as delivered, but nothing arrived at my address in Markham.",Negative
+REV-074,2026-03-20,Email Survey,Mississauga,Accessories,Student,"MapleMart delivered my Accessories order to Mississauga very quickly! The quality was excellent, and I will definitely buy again.",Positive
+REV-075,2026-03-21,Social Media,Toronto,Electronics,Premium Member,"The delivery was slow, and the item stopped working after two days. I would not recommend this Electronics product.",Negative
+REV-076,2026-03-22,Website,Mississauga,Home,New Customer,"The package arrived on June 5. It was not amazing, but there were no major problems.",Neutral
+REV-077,2026-03-23,Mobile App,Markham,Home,Returning Customer,"The Home product arrived in Markham. It works as expected, but I have not used it enough to judge the quality.",Neutral
+REV-078,2026-03-24,Email Survey,Waterloo,Home,Student,"The package arrived on June 5. It was not amazing, but there were no major problems.",Neutral
+REV-079,2026-03-25,Social Media,Hamilton,Kitchen,Premium Member,"I bought this from MapleMart last week. The price was average, and the product is acceptable.",Neutral
+REV-080,2026-03-26,Website,Hamilton,Office,New Customer,"I loved the Office product. The package arrived on time in Hamilton, and the customer service team was friendly.",Positive
+REV-081,2026-03-27,Mobile App,Mississauga,Kitchen,Returning Customer,This Kitchen item is fine for basic use. I do not have a strong positive or negative opinion.,Neutral
+REV-082,2026-03-28,Email Survey,Hamilton,Accessories,Student,"Customer service replied after a long delay. The price was high, and the quality was poor.",Negative
+REV-083,2026-03-29,Social Media,Scarborough,Home,Premium Member,"The Home product arrived in Scarborough. It works as expected, but I have not used it enough to judge the quality.",Neutral
+REV-084,2026-03-30,Website,Mississauga,Electronics,New Customer,"Great experience with MapleMart! The website was easy to use, the price was fair, and the item worked perfectly.",Positive
+REV-085,2026-03-31,Mobile App,Toronto,Accessories,Returning Customer,"MapleMart delivered my Accessories order to Toronto very quickly! The quality was excellent, and I will definitely buy again. #customerreview",Positive
+REV-086,2026-04-01,Email Survey,Ottawa,Kitchen,Student,This Kitchen item is fine for basic use. I do not have a strong positive or negative opinion.,Neutral
+REV-087,2026-04-02,Social Media,Toronto,Beauty,Premium Member,"The order was okay. Delivery took three days, and the item matched the description.",Neutral
+REV-088,2026-04-03,Website,Oshawa,Electronics,New Customer,"The mobile app showed the order as delivered, but nothing arrived at my address in Oshawa.",Negative
+REV-089,2026-04-04,Mobile App,Toronto,Home,Returning Customer,"The package arrived on June 5. It was not amazing, but there were no major problems.",Neutral
+REV-090,2026-01-05,Email Survey,Markham,Office,Student,"VERY DISAPPOINTED. THE PRODUCT DESCRIPTION WAS CONFUSING, THE BOX WAS OPEN, AND I HAD TO ASK FOR A REFUND.",Negative
+REV-091,2026-01-06,Social Media,Ottawa,Home,Premium Member,"The package arrived on June 5. It was not amazing, but there were no major problems. #customerreview",Neutral
+REV-092,2026-01-07,Website,Toronto,Home,New Customer,"The package arrived on June 5. It was not amazing, but there were no major problems. #customerreview",Neutral
+REV-093,2026-01-08,Mobile App,Ottawa,Home,Returning Customer,"The package arrived on June 5. It was not amazing, but there were no major problems.",Neutral
+REV-094,2026-01-09,Email Survey,Ottawa,Kitchen,Student,This Kitchen item is fine for basic use. I do not have a strong positive or negative opinion.,Neutral
+REV-095,2026-01-10,Social Media,Oshawa,Office,Premium Member,"I loved the Office product. The package arrived on time in Oshawa, and the customer service team was friendly.",Positive
+REV-096,2026-01-11,Website,Scarborough,Office,New Customer,"Very disappointed. The product description was confusing, the box was open, and I had to ask for a refund.",Negative
+REV-097,2026-01-12,Mobile App,Markham,Beauty,Returning Customer,The website checkout was simple. I may buy again if the price is lower next time.,Neutral
+REV-098,2026-01-13,Email Survey,Markham,Office,Student,"Very disappointed. The product description was confusing, the box was open, and I had to ask for a refund.",Negative
+REV-099,2026-01-14,Social Media,Toronto,Accessories,Premium Member,"My MapleMart order arrived late in Toronto, and the Accessories item was damaged. Support did not solve the problem.",Negative
+REV-100,2026-01-15,Website,Markham,Electronics,New Customer,"The product is reliable, clean, and easy to use. I recommended MapleMart to my friend in Markham.",Positive
+REV-101,2026-01-16,Mobile App,Hamilton,Accessories,Returning Customer,"The Accessories item looked better than expected. Delivery to Hamilton was smooth, and I am very happy with the purchase. #customerreview",Positive
+REV-102,2026-01-17,Email Survey,Oshawa,Kitchen,Student,"I bought this from MapleMart last week. The price was average, and the product is acceptable.",Neutral
+REV-103,2026-01-18,Social Media,Mississauga,Beauty,Premium Member,"The order was okay. Delivery took three days, and the item matched the description.",Neutral
+REV-104,2026-01-19,Website,Mississauga,Office,New Customer,Excellent value for money. MapleMart answered my question on Tuesday and shipped the order the same day.,Positive
+REV-105,2026-01-20,Mobile App,Waterloo,Electronics,Returning Customer,"The delivery was slow, and the item stopped working after two days. I would not recommend this Electronics product.",Negative
+REV-106,2026-01-21,Email Survey,Hamilton,Electronics,Student,"The mobile app showed the order as delivered, but nothing arrived at my address in Hamilton.",Negative
+REV-107,2026-01-22,Social Media,Hamilton,Electronics,Premium Member,"The product is reliable, clean, and easy to use. I recommended MapleMart to my friend in Hamilton.",Positive
+REV-108,2026-01-23,Website,Markham,Electronics,New Customer,"The mobile app showed the order as delivered, but nothing arrived at my address in Markham.",Negative
+REV-109,2026-01-24,Mobile App,Waterloo,Beauty,Returning Customer,"The order was okay. Delivery took three days, and the item matched the description.",Neutral
+REV-110,2026-01-25,Email Survey,Markham,Home,Student,"The Home product arrived in Markham. It works as expected, but I have not used it enough to judge the quality.",Neutral
+REV-111,2026-01-26,Social Media,Markham,Office,Premium Member,"I loved the Office product. The package arrived on time in Markham, and the customer service team was friendly.",Positive
+REV-112,2026-01-27,Website,Hamilton,Home,New Customer,"The Home product arrived in Hamilton. It works as expected, but I have not used it enough to judge the quality. #customerreview",Neutral
+REV-113,2026-01-28,Mobile App,Oshawa,Electronics,Returning Customer,"The product is reliable, clean, and easy to use. I recommended MapleMart to my friend in Oshawa.",Positive
+REV-114,2026-01-29,Email Survey,Mississauga,Office,Student,Excellent value for money. MapleMart answered my question on Tuesday and shipped the order the same day.,Positive
+REV-115,2026-01-30,Social Media,Scarborough,Office,Premium Member,"I loved the Office product. The package arrived on time in Scarborough, and the customer service team was friendly.",Positive
+REV-116,2026-01-31,Website,Hamilton,Electronics,New Customer,"The product is reliable, clean, and easy to use. I recommended MapleMart to my friend in Hamilton.",Positive
+REV-117,2026-02-01,Mobile App,Markham,Kitchen,Returning Customer,"I bought this from MapleMart last week. The price was average, and the product is acceptable.",Neutral
+REV-118,2026-02-02,Email Survey,Hamilton,Accessories,Student,"The Accessories item looked better than expected. Delivery to Hamilton was smooth, and I am very happy with the purchase.",Positive
+REV-119,2026-02-03,Social Media,Waterloo,Electronics,Premium Member,"Great experience with MapleMart! The website was easy to use, the price was fair, and the item worked perfectly.",Positive
+REV-120,2026-02-04,Website,Toronto,Beauty,New Customer,"The order was okay. Delivery took three days, and the item matched the description.",Neutral
