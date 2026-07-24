@@ -56,7 +56,6 @@ The work reflects hands-on experience with the full analytics lifecycle: framing
 
 | Project | Business Problem | Method | Dataset |
 |---|---|---|---|
-| ML Pipeline Fundamentals | Introduction to building a reproducible ML pipeline | — | — |
 | Investment Product Subscription — Pipeline | Predicting customer subscription to an investment product | Logistic Regression | Investment Product Subscription Dataset |
 | Investment Product Subscription — Model Comparison | Comparing classifier performance for subscription prediction | Logistic Regression vs SVM | Investment Product Subscription Dataset |
 | SalesBoost CRM Analytics | B2B lead qualification and deal-win prediction | Decision Tree | SalesBoost B2B Deal Win Dataset |
