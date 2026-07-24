@@ -8,7 +8,7 @@ This project involved building an end-to-end machine learning pipeline using a r
 
 ## Files in This Folder
 
-- `notebook.ipynb`: main notebook containing the full ML pipeline, model training, evaluation, and written explanation
+- `MLPipeline_notebook.ipynb`: main notebook containing the full ML pipeline, model training, evaluation, and written explanation
 
 ---
 
@@ -69,16 +69,16 @@ Before deploying this model in a real banking context, human review would be ess
 ## How to Run or Review
 
 **Option 1 — View directly on GitHub:**
-Open the `.ipynb` file in this repository. GitHub renders Jupyter Notebooks automatically, displaying all code, outputs, and written explanations without needing to run anything.
+Open the `MLPipeline_notebook.ipynb` file in this repository. GitHub renders Jupyter Notebooks automatically, displaying all code, outputs, and written explanations without needing to run anything.
 
 **Option 2 — Run in Google Colab:**
-1. Download the `.ipynb` file from this repository
+1. Download the `MLPipeline_notebook.ipynb` file from this repository
 2. Go to [colab.research.google.com](https://colab.research.google.com) and upload the file
 3. Upload the dataset file when prompted, or update the file path in the notebook
 4. Click **Runtime → Run all** to execute all cells
 
 **Option 3 — Run locally in Jupyter:**
-1. Clone this repository or download the `.ipynb` file
+1. Clone this repository or download the `MLPipeline_notebook.ipynb` file
 2. Ensure the following libraries are installed:
 ```bash
 pip install pandas numpy scikit-learn openpyxl xlrd matplotlib seaborn
