@@ -1,0 +1,606 @@
+Customer_ID,Campaign_Date,Age,Annual_Income,Customer_Segment,Region,Campaign_Channel,Campaign_Type,Ad_Exposure_Count,Email_Opened,Ad_Clicked,Website_Visits_Last_30_Days,Previous_Purchases,Average_Order_Value,Discount_Offered_Percent,Days_Since_Last_Purchase,Loyalty_Score,Customer_Satisfaction,Social_Media_Engagement_Score,Prior_Campaign_Response,Converted
+CUST-0001,2026-04-14,36,"$58,196",New,British Columbia,Email,Brand Awareness,4,Yes,Yes,7,1,$131.51,20,60,54,5,37,No,No
+CUST-0002,2026-04-24,38,"$49,043",Returning,Ontario,Email,Retargeting,5,Yes,Yes,10,5,$27.61,20,73,80,8,50,No,No
+CUST-0003,2026-02-01,21,"$45,952",New,Ontario,Email,Discount Offer,4,Yes,No,6,0,$104.65,25,39,14,8,55,No,Yes
+CUST-0004,2026-02-28,18,"$107,638",Loyal,British Columbia,Search Ads,Retargeting,4,Yes,Yes,6,12,$135.31,20,32,73,7,23,No,Yes
+CUST-0005,2026-03-01,50,"$89,969",Returning,Quebec,Search Ads,New Product,1,Yes,No,12,4,$27.49,5,5,40,7,45,No,No
+CUST-0006,2026-02-08,61,"$54,104",New,British Columbia,Search Ads,New Product,3,Yes,Yes,14,4,$83.78,25,47,51,7,85,No,No
+CUST-0007,2026-04-15,30,"$61,294",Returning,Other,Email,Retargeting,6,Yes,Yes,7,7,$39.90,10,36,68,6,38,No,Yes
+CUST-0008,2026-03-12,39,"$24,596",New,Quebec,Social Media,Discount Offer,5,Yes,No,2,0,$47.57,20,39,23,7,45,Yes,Yes
+CUST-0009,2026-02-25,42,"$63,570",Loyal,Other,Email,Retargeting,4,Yes,Yes,6,6,$74.36,20,1,57,8,47,Yes,Yes
+CUST-0010,2026-01-07,30,"$24,744",New,British Columbia,Search Ads,Discount Offer,6,No,No,6,1,$52.16,15,47,35,9,1,No,No
+CUST-0011,2026-03-26,46,"$58,329",New,Ontario,Display Ads,New Product,3,No,No,6,0,$119.15,30,50,37,5,30,No,No
+CUST-0012,2026-04-24,19,"$72,394",At Risk,Quebec,Search Ads,Brand Awareness,5,Yes,No,0,1,$138.89,0,146,33,5,81,No,No
+CUST-0013,2026-01-10,47,"$56,489",New,Quebec,Search Ads,Discount Offer,3,Yes,No,4,2,$117.90,15,75,35,6,0,No,No
+CUST-0014,2026-01-14,49,"$50,280",Returning,Ontario,Email,Discount Offer,3,Yes,No,2,9,,25,7,51,9,52,Yes,Yes
+CUST-0015,2026-04-01,35,"$72,018",New,British Columbia,Social Media,Retargeting,5,No,Yes,12,0,$64.82,0,58,31,7,71,No,Yes
+CUST-0016,2026-02-22,42,"$62,528",At Risk,Quebec,SMS,Retargeting,3,Yes,Yes,12,2,$84.28,10,99,40,7,65,No,No
+CUST-0017,2026-01-29,37,"$22,000",New,Alberta,Email,Discount Offer,2,No,No,5,0,$97.25,25,45,59,8,70,No,Yes
+CUST-0018,2026-01-23,47,"$51,994",Loyal,Ontario,Display Ads,Brand Awareness,2,Yes,No,6,6,$115.41,25,47,79,9,37,No,No
+CUST-0019,2026-02-12,41,"$61,366",Returning,Alberta,Social Media,New Product,4,No,Yes,6,3,$83.58,30,1,52,7,24,No,No
+CUST-0020,2026-03-16,41,"$56,123",At Risk,British Columbia,Social Media,Discount Offer,3,No,No,6,5,$41.29,25,122,24,6,78,No,No
+CUST-0021,2026-04-09,32,"$83,350",Loyal,Alberta,Social Media,Retargeting,3,Yes,No,0,7,$83.78,30,19,94,8,70,No,Yes
+CUST-0022,2026-04-13,47,"$35,361",New,Quebec,Search Ads,Discount Offer,5,No,Yes,7,0,$79.51,30,33,30,6,42,No,Yes
+CUST-0023,2026-03-22,61,"$34,388",Returning,Quebec,Display Ads,Retargeting,3,No,No,7,2,$112.36,15,75,57,8,17,No,No
+CUST-0024,2026-04-23,22,"$29,665",New,Alberta,Social Media,Discount Offer,5,Yes,Yes,11,2,$36.26,10,66,41,5,46,Yes,No
+CUST-0025,2026-04-18,37,"$63,633",Returning,Alberta,Display Ads,Retargeting,1,No,No,7,4,$110.67,15,11,59,6,7,No,No
+CUST-0026,2026-02-14,49,"$84,062",New,Quebec,Social Media,Discount Offer,3,No,Yes,8,0,$128.71,25,20,51,6,46,No,Yes
+CUST-0027,2026-04-15,39,"$112,191",New,Ontario,Email,Retargeting,6,No,No,3,1,$142.93,10,41,35,5,13,No,Yes
+CUST-0028,2026-03-10,25,"$51,176",At Risk,Other,Search Ads,New Product,6,No,Yes,3,0,$129.77,30,119,19,3,50,Yes,No
+CUST-0029,2026-02-04,23,"$44,047",Returning,Alberta,Display Ads,Discount Offer,5,No,No,7,0,$26.29,15,50,64,6,18,No,No
+CUST-0030,2026-01-25,39,"$63,454",New,British Columbia,Social Media,New Product,8,No,No,2,1,$53.71,10,51,19,8,47,Yes,Yes
+CUST-0031,2026-02-28,35,"$36,971",Loyal,British Columbia,Search Ads,New Product,4,Yes,No,3,6,$119.14,15,1,77,10,41,Yes,Yes
+CUST-0032,2026-04-01,37,"$73,155",New,Quebec,Email,Retargeting,4,Yes,No,6,3,$84.01,10,95,31,6,61,No,No
+CUST-0033,2026-03-15,33,"$120,837",Returning,Ontario,Search Ads,Retargeting,1,No,No,5,2,$117.50,0,34,85,7,47,No,No
+CUST-0034,2026-01-28,44,"$66,133",Returning,Other,Social Media,Discount Offer,4,No,Yes,6,0,$139.72,30,55,57,6,37,Yes,Yes
+CUST-0035,2026-03-11,18,"$76,219",Returning,Quebec,Email,Brand Awareness,4,Yes,Yes,12,5,$40.32,10,45,62,5,14,No,Yes
+CUST-0036,2026-02-11,18,"$72,250",New,Alberta,Email,New Product,5,No,No,1,1,$78.06,10,72,18,6,47,No,No
+CUST-0037,2026-02-14,39,"$77,654",Loyal,Quebec,Display Ads,Discount Offer,4,No,No,0,6,$111.24,30,43,89,10,25,Yes,Yes
+CUST-0038,2026-02-22,27,"$57,534",New,Quebec,Social Media,Brand Awareness,4,No,No,6,1,$83.75,30,61,21,7,91,No,Yes
+CUST-0039,2026-01-16,21,"$58,449",Returning,Ontario,Social Media,Discount Offer,5,No,No,6,7,$93.28,15,51,72,6,73,No,No
+CUST-0040,2026-03-06,36,"$90,997",Returning,Quebec,Search Ads,New Product,7,No,No,6,5,$50.37,5,11,65,6,47,No,Yes
+CUST-0041,2026-02-10,25,"$97,398",Loyal,British Columbia,Search Ads,Retargeting,4,Yes,Yes,7,11,$70.32,5,23,92,8,9,Yes,Yes
+CUST-0042,2026-01-20,53,"$50,844",Returning,Alberta,Search Ads,Retargeting,1,No,Yes,8,3,$135.93,0,62,42,7,38,No,Yes
+CUST-0043,2026-02-25,25,"$65,397",Returning,Ontario,Social Media,Discount Offer,2,No,No,9,3,$117.94,10,16,75,8,100,No,No
+CUST-0044,2026-04-27,39,"$27,749",New,Ontario,Email,Discount Offer,3,Yes,No,5,1,$108.15,25,54,39,7,19,No,No
+CUST-0045,2026-01-14,39,"$93,162",Returning,Alberta,Search Ads,New Product,3,Yes,No,8,5,$95.98,15,25,43,5,100,No,Yes
+CUST-0046,2026-01-29,23,"$49,435",At Risk,Other,Email,Brand Awareness,3,No,No,8,4,$95.27,15,120,3,5,26,No,No
+CUST-0047,2026-02-16,24,"$39,200",Loyal,Alberta,Search Ads,Brand Awareness,6,Yes,Yes,8,7,$90.63,10,6,94,9,78,No,Yes
+CUST-0048,2026-01-12,57,"$40,562",New,Quebec,Display Ads,Retargeting,3,Yes,No,2,4,$147.79,30,33,16,4,67,No,No
+CUST-0049,2026-02-08,52,"$64,383",Returning,British Columbia,Search Ads,New Product,6,Yes,Yes,2,0,$29.55,10,49,52,9,57,No,Yes
+CUST-0050,2026-02-05,40,"$66,485",New,Ontario,SMS,Discount Offer,2,No,No,4,0,$46.41,25,64,46,7,56,No,Yes
+CUST-0051,2026-01-07,29,"$79,305",At Risk,Ontario,Display Ads,Brand Awareness,1,No,No,2,2,$109.33,30,99,24,5,72,No,No
+CUST-0052,2026-02-15,38,"$73,404",Returning,British Columbia,Email,Discount Offer,4,Yes,Yes,16,8,$91.59,30,1,51,9,70,Yes,Yes
+CUST-0053,2026-01-04,38,"$81,404",New,British Columbia,Email,New Product,3,No,No,1,3,$119.78,20,90,41,7,22,No,Yes
+CUST-0054,2026-04-09,25,"$64,935",Loyal,Other,Social Media,Discount Offer,6,Yes,Yes,13,5,$58.75,30,1,79,8,48,No,Yes
+CUST-0055,2026-04-14,18,"$77,481",At Risk,Alberta,Social Media,New Product,2,No,No,4,3,$143.07,15,84,54,6,69,No,Yes
+CUST-0056,2026-03-13,65,"$82,282",Returning,Quebec,Search Ads,Retargeting,5,No,Yes,7,2,$74.69,20,21,57,5,46,No,Yes
+CUST-0057,2026-01-19,39,"$33,345",Loyal,Other,Display Ads,Retargeting,1,Yes,No,2,8,$50.10,5,12,100,9,32,Yes,Yes
+CUST-0058,2026-02-24,32,"$69,104",Loyal,British Columbia,Email,Discount Offer,2,Yes,No,6,8,$43.96,30,40,100,9,44,Yes,Yes
+CUST-0059,2026-04-06,29,"$68,259",Loyal,Quebec,Email,Discount Offer,2,Yes,Yes,6,8,$87.16,15,21,89,,61,Yes,Yes
+CUST-0060,2026-02-11,48,"$81,683",New,British Columbia,Search Ads,New Product,1,No,No,7,2,$107.93,15,16,25,5,47,Yes,Yes
+CUST-0061,2026-04-15,50,"$54,104",Loyal,Quebec,Social Media,Discount Offer,2,Yes,No,6,7,$57.88,15,6,81,5,49,No,Yes
+CUST-0062,2026-03-02,53,"$75,509",New,British Columbia,Email,Discount Offer,4,No,No,1,1,$44.75,25,32,47,6,60,No,No
+CUST-0063,2026-04-27,36,"$56,255",New,Ontario,Social Media,New Product,5,Yes,No,10,3,$113.21,20,23,21,7,90,Yes,No
+CUST-0064,2026-04-10,31,"$46,192",Returning,Ontario,Email,Discount Offer,5,No,No,3,4,$102.82,30,2,55,5,79,No,Yes
+CUST-0065,2026-01-17,20,"$39,600",Loyal,Ontario,Email,Brand Awareness,3,Yes,No,9,9,$54.31,20,1,55,7,71,No,Yes
+CUST-0066,2026-01-25,47,"$54,808",Returning,Alberta,Display Ads,Brand Awareness,5,No,No,0,2,$53.76,10,55,59,8,35,No,No
+CUST-0067,2026-01-06,41,"$68,706",Loyal,Alberta,Email,Retargeting,4,Yes,No,4,9,$113.44,5,33,100,6,8,No,Yes
+CUST-0068,2026-01-21,34,"$47,501",Returning,British Columbia,Email,New Product,2,No,No,4,5,$51.16,20,61,56,7,63,No,No
+CUST-0069,2026-02-14,40,"$50,609",New,Alberta,Search Ads,New Product,7,No,Yes,16,2,$113.56,20,65,47,7,36,No,No
+CUST-0070,2026-01-20,27,"$73,266",Returning,Ontario,Social Media,Discount Offer,3,No,No,6,4,$98.08,20,54,37,5,66,Yes,No
+CUST-0071,2026-03-15,36,"$58,158",New,Ontario,Email,Discount Offer,1,Yes,No,3,1,$123.30,25,31,15,5,41,No,No
+CUST-0072,2026-01-14,38,"$57,230",At Risk,Quebec,Email,New Product,3,No,No,2,3,$25.00,10,44,29,4,56,No,No
+CUST-0073,2026-02-09,41,"$60,161",New,Alberta,Social Media,Discount Offer,2,No,No,3,0,$89.83,30,41,44,6,54,No,No
+CUST-0074,2026-04-29,52,"$60,119",New,Ontario,Display Ads,New Product,4,Yes,Yes,4,0,$98.70,15,68,26,7,37,No,No
+CUST-0075,2026-01-08,37,"$71,085",Returning,Other,Social Media,Discount Offer,3,Yes,Yes,11,2,$67.26,20,1,65,8,32,No,Yes
+CUST-0076,2026-01-10,44,"$48,424",Loyal,Other,Search Ads,Discount Offer,2,No,No,6,8,$86.33,30,1,89,8,21,Yes,Yes
+CUST-0077,2026-02-27,41,"$40,213",Loyal,Ontario,Email,Brand Awareness,3,Yes,Yes,6,7,$70.16,20,2,75,10,30,No,Yes
+CUST-0078,2026-01-18,38,"$44,758",Loyal,Other,SMS,Brand Awareness,1,No,No,4,9,$109.12,25,49,65,6,30,Yes,Yes
+CUST-0079,2026-01-17,37,"$41,197",Returning,Other,Social Media,Discount Offer,4,No,Yes,6,6,$25.00,20,28,66,8,86,No,No
+CUST-0080,2026-01-17,41,"$31,127",New,Quebec,SMS,Retargeting,4,Yes,Yes,9,2,$63.48,20,86,18,6,73,No,No
+CUST-0081,2026-03-23,34,"$55,582",Loyal,Quebec,Search Ads,Discount Offer,1,Yes,No,0,12,$101.12,10,1,67,7,11,Yes,Yes
+CUST-0082,2026-03-07,49,"$44,253",Loyal,Ontario,Social Media,Retargeting,2,No,Yes,11,6,$81.04,20,47,100,7,100,No,Yes
+CUST-0083,2026-03-05,47,"$51,624",New,Ontario,Email,Discount Offer,6,Yes,No,5,5,$98.40,25,68,38,7,66,No,Yes
+CUST-0084,2026-03-13,37,"$86,576",At Risk,Ontario,Email,Discount Offer,3,No,No,3,0,$29.59,15,84,28,6,36,Yes,Yes
+CUST-0085,2026-01-18,40,"$53,877",Returning,Ontario,Display Ads,Retargeting,3,No,Yes,15,3,$127.11,10,32,58,6,16,Yes,No
+CUST-0086,2026-03-28,37,"$70,857",New,Ontario,Display Ads,Retargeting,1,Yes,No,0,0,,20,34,13,6,29,No,Yes
+CUST-0087,2026-03-29,58,"$45,668",At Risk,British Columbia,Display Ads,New Product,4,No,No,8,1,$80.87,15,102,39,6,11,No,No
+CUST-0088,2026-02-10,22,"$31,327",New,Quebec,Social Media,New Product,2,Yes,No,2,0,$106.23,25,18,41,7,55,No,No
+CUST-0089,2026-03-13,23,"$68,808",Returning,Alberta,Search Ads,Brand Awareness,4,No,No,2,3,$117.51,10,39,36,6,18,No,No
+CUST-0090,2026-03-13,40,"$45,125",New,Ontario,Search Ads,Retargeting,6,No,Yes,4,1,$75.11,15,27,15,7,82,No,No
+CUST-0091,2026-03-02,48,"$85,107",Returning,British Columbia,Email,New Product,3,Yes,No,4,7,$130.52,0,99,49,,68,No,No
+CUST-0092,2026-04-22,47,"$115,870",Returning,Other,Search Ads,Discount Offer,1,No,No,3,5,$96.09,15,106,34,6,57,No,No
+CUST-0093,2026-02-13,39,"$59,900",Returning,Other,Email,Discount Offer,6,Yes,No,4,5,$53.30,25,16,77,6,13,Yes,No
+CUST-0094,2026-03-16,19,"$46,705",New,Alberta,Display Ads,Retargeting,3,No,No,4,2,$103.60,5,73,35,5,47,No,No
+CUST-0095,2026-02-17,55,"$64,300",Loyal,Ontario,Email,Discount Offer,2,No,No,6,7,$102.94,20,28,100,7,45,No,Yes
+CUST-0096,2026-03-08,25,"$54,443",Returning,Ontario,Search Ads,Discount Offer,4,Yes,Yes,7,0,$142.42,10,7,53,6,36,No,Yes
+CUST-0097,2026-01-09,29,"$30,347",Returning,Quebec,Display Ads,Discount Offer,5,No,No,7,3,$46.56,20,51,36,7,38,No,No
+CUST-0098,2026-01-23,61,"$79,235",At Risk,Ontario,Social Media,Discount Offer,5,No,No,8,0,$145.01,30,114,22,4,18,No,No
+CUST-0099,2026-02-23,33,"$53,013",At Risk,British Columbia,Display Ads,Retargeting,4,No,No,2,2,$87.16,5,121,24,8,40,No,No
+CUST-0100,2026-04-04,32,"$104,479",New,Quebec,Email,New Product,2,No,No,5,1,$62.36,30,61,38,6,23,No,No
+CUST-0101,2026-02-18,37,"$28,537",Loyal,Alberta,Email,Retargeting,2,Yes,Yes,10,10,$128.52,25,1,74,7,61,No,Yes
+CUST-0102,2026-04-29,41,"$52,444",New,British Columbia,Social Media,New Product,5,No,No,3,0,$120.67,15,34,27,6,65,No,No
+CUST-0103,2026-04-05,27,"$81,737",Loyal,Ontario,Email,Brand Awareness,4,No,No,5,7,$72.13,5,32,72,8,40,No,Yes
+CUST-0104,2026-02-10,51,"$61,932",New,Ontario,Search Ads,Retargeting,1,No,No,3,0,,20,69,24,7,8,No,No
+CUST-0105,2026-03-24,29,"$78,509",Returning,Ontario,Email,Discount Offer,6,Yes,Yes,7,4,$137.50,20,14,40,7,82,No,Yes
+CUST-0106,2026-01-02,19,"$70,708",Returning,Quebec,Email,Discount Offer,8,No,No,0,4,$77.63,25,37,43,,28,No,Yes
+CUST-0107,2026-04-28,33,"$64,120",Loyal,Other,SMS,Brand Awareness,6,Yes,Yes,12,7,$181.89,0,1,81,6,64,Yes,Yes
+CUST-0108,2026-02-18,42,"$73,560",,Ontario,Display Ads,New Product,2,No,No,7,4,$142.94,30,99,79,7,37,No,No
+CUST-0109,2026-03-26,39,"$63,046",New,Quebec,Social Media,Retargeting,1,Yes,No,2,2,$92.59,30,38,18,6,100,No,Yes
+CUST-0110,2026-03-06,29,"$79,234",At Risk,British Columbia,Search Ads,Brand Awareness,3,No,Yes,14,3,$123.47,20,65,18,7,83,No,No
+CUST-0111,2026-01-11,65,"$56,348",New,Quebec,Email,Brand Awareness,4,No,No,3,3,$91.55,5,24,14,8,11,No,No
+CUST-0112,2026-02-22,45,"$57,344",New,Ontario,Email,Retargeting,5,Yes,No,4,1,$119.49,30,40,34,7,51,No,Yes
+CUST-0113,2026-02-25,50,"$85,647",Returning,Alberta,Display Ads,Discount Offer,5,No,No,4,1,$121.33,15,34,52,7,33,Yes,Yes
+CUST-0114,2026-03-18,51,"$50,178",Returning,British Columbia,SMS,New Product,7,No,No,5,4,$27.80,15,63,62,6,21,No,Yes
+CUST-0115,2026-01-24,57,"$39,073",New,Other,Social Media,Retargeting,8,Yes,No,1,1,$78.25,30,73,37,5,70,No,No
+CUST-0116,2026-03-16,18,,Returning,Quebec,Search Ads,Discount Offer,2,No,No,0,0,$79.28,15,49,70,6,58,No,Yes
+CUST-0117,2026-02-25,18,"$59,944",Loyal,Alberta,Social Media,New Product,5,No,Yes,10,8,$136.72,5,13,78,10,45,No,Yes
+CUST-0118,2026-02-13,49,"$74,690",Loyal,British Columbia,Search Ads,Discount Offer,4,Yes,Yes,6,4,$86.49,15,22,87,8,59,Yes,Yes
+CUST-0119,2026-03-01,21,"$68,764",Returning,British Columbia,Social Media,Discount Offer,6,Yes,No,9,6,$57.03,30,6,56,5,38,No,Yes
+CUST-0120,2026-03-27,31,"$69,893",Loyal,Ontario,Social Media,Brand Awareness,4,Yes,No,8,9,$145.19,30,26,64,9,30,Yes,No
+CUST-0121,2026-02-19,43,"$31,065",Returning,Quebec,Search Ads,Discount Offer,3,No,No,6,0,$59.23,25,66,54,8,57,Yes,Yes
+CUST-0122,2026-03-13,45,"$76,019",New,British Columbia,Search Ads,Brand Awareness,5,No,No,3,1,$76.28,0,74,57,4,27,No,No
+CUST-0123,2026-03-11,38,"$28,590",Returning,Quebec,Display Ads,Discount Offer,4,Yes,No,4,5,$51.78,20,31,60,6,13,Yes,No
+CUST-0124,2026-01-27,36,"$34,585",New,Quebec,Search Ads,Retargeting,6,Yes,No,5,0,$113.09,10,49,38,6,49,No,No
+CUST-0125,2026-01-18,33,"$44,597",Loyal,Ontario,Search Ads,Discount Offer,3,Yes,Yes,11,8,$61.40,15,9,50,7,0,No,No
+CUST-0126,2026-04-09,35,"$72,962",At Risk,Ontario,Display Ads,Retargeting,1,Yes,No,7,0,$72.04,20,70,16,4,35,No,Yes
+CUST-0127,2026-02-11,41,"$44,320",At Risk,Other,Social Media,Discount Offer,3,Yes,No,4,0,$28.78,30,104,33,4,97,No,No
+CUST-0128,2026-04-22,29,"$86,613",Returning,Ontario,Social Media,Brand Awareness,4,No,No,5,7,$144.28,15,1,69,3,100,No,No
+CUST-0129,2026-02-13,24,"$57,177",New,Other,Social Media,Discount Offer,6,No,No,4,0,$53.32,15,18,51,7,34,Yes,No
+CUST-0130,2026-02-26,50,"$60,286",New,Quebec,Email,Brand Awareness,5,No,Yes,14,2,$25.00,25,63,34,6,41,No,Yes
+CUST-0131,2026-04-10,42,"$97,561",At Risk,Quebec,Search Ads,Discount Offer,4,Yes,No,4,0,$129.81,15,93,35,3,32,No,No
+CUST-0132,2026-01-17,60,"$69,151",At Risk,Quebec,Email,Discount Offer,1,No,No,7,2,$123.15,20,70,20,8,32,No,No
+CUST-0133,2026-03-10,44,"$42,506",Returning,Quebec,Email,Retargeting,6,Yes,Yes,8,6,$66.83,10,15,46,5,59,Yes,Yes
+CUST-0134,2026-03-19,40,"$69,526",New,Other,SMS,Discount Offer,2,No,No,8,0,$65.19,25,54,31,7,54,No,Yes
+CUST-0135,2026-02-04,29,"$34,147",New,Ontario,Email,Discount Offer,2,Yes,No,5,0,$108.35,25,44,63,6,36,No,No
+CUST-0136,2026-04-30,35,"$121,575",Returning,Quebec,Social Media,Discount Offer,4,Yes,No,3,6,$77.32,15,27,57,7,39,Yes,No
+CUST-0137,2026-04-10,40,"$100,687",Loyal,Ontario,Search Ads,Discount Offer,4,No,Yes,8,5,$25.85,15,17,77,8,5,No,No
+CUST-0138,2026-04-18,52,"$48,965",New,Quebec,Email,Discount Offer,6,No,No,2,0,$83.85,25,34,35,6,28,No,No
+CUST-0139,2026-04-06,42,"$81,836",Loyal,British Columbia,Social Media,Discount Offer,4,Yes,No,0,10,$112.84,10,15,100,7,24,Yes,Yes
+CUST-0140,2026-03-16,43,"$68,655",Loyal,Quebec,Email,New Product,5,Yes,Yes,12,4,$129.64,10,10,92,9,48,No,Yes
+CUST-0141,2026-02-15,48,"$76,812",Returning,Ontario,Email,Retargeting,1,No,Yes,13,2,$31.44,25,21,52,7,32,No,Yes
+CUST-0142,2026-03-24,47,"$67,612",Loyal,Other,Email,Retargeting,1,Yes,Yes,11,8,$92.22,30,21,72,8,63,No,Yes
+CUST-0143,2026-03-29,18,"$36,691",New,Ontario,SMS,Brand Awareness,4,No,No,3,4,$133.86,0,65,50,7,22,Yes,No
+CUST-0144,2026-02-18,22,"$100,194",New,Ontario,Social Media,Brand Awareness,1,No,No,2,0,$103.05,15,60,42,7,32,No,No
+CUST-0145,2026-03-26,22,"$44,532",Returning,Quebec,SMS,New Product,5,Yes,Yes,14,8,$66.52,15,77,34,7,100,Yes,Yes
+CUST-0146,2026-03-14,37,"$23,927",Loyal,Other,Display Ads,New Product,3,No,No,13,5,$82.43,10,33,89,6,46,No,No
+CUST-0147,2026-01-03,36,"$48,894",At Risk,Quebec,Display Ads,Discount Offer,3,No,Yes,11,3,$49.43,15,97,45,6,79,No,Yes
+CUST-0148,2026-03-30,26,"$58,585",New,Ontario,Social Media,Discount Offer,2,No,No,2,0,$42.36,30,108,44,3,47,No,No
+CUST-0149,2026-01-29,29,"$48,457",Loyal,Ontario,Display Ads,Brand Awareness,3,Yes,No,6,4,$50.22,30,24,81,6,12,No,No
+CUST-0150,2026-02-19,49,"$77,674",Returning,Ontario,Email,Discount Offer,1,No,No,0,3,$60.68,15,35,63,7,52,Yes,Yes
+CUST-0151,2026-01-22,31,"$68,418",Returning,Ontario,Display Ads,New Product,5,No,No,0,4,$126.26,30,46,48,6,91,Yes,No
+CUST-0152,2026-04-04,40,"$69,361",At Risk,Ontario,SMS,Retargeting,6,No,No,2,0,$65.42,0,108,35,6,73,No,No
+CUST-0153,2026-03-04,32,"$46,355",New,Quebec,Social Media,New Product,4,Yes,No,5,0,$51.21,0,64,36,6,71,No,No
+CUST-0154,2026-03-12,29,"$59,032",Returning,Quebec,Social Media,Discount Offer,6,Yes,No,4,8,$66.19,25,29,69,7,12,No,Yes
+CUST-0155,2026-01-23,26,"$79,424",At Risk,Other,Search Ads,New Product,4,No,No,7,4,$102.63,20,106,9,4,34,No,No
+CUST-0156,2026-02-28,42,"$75,171",New,Ontario,Email,Brand Awareness,5,Yes,No,10,0,$142.14,30,71,40,5,53,No,No
+CUST-0157,2026-03-02,56,"$64,650",Returning,Ontario,Display Ads,Discount Offer,1,No,Yes,5,3,$80.66,30,70,38,7,73,No,Yes
+CUST-0158,2026-04-22,36,"$74,105",Returning,Ontario,Search Ads,Retargeting,3,No,No,6,4,$86.38,30,40,46,8,5,No,Yes
+CUST-0159,2026-04-23,31,"$96,492",Loyal,British Columbia,Social Media,Brand Awareness,5,No,No,6,5,$103.71,10,30,66,9,70,No,No
+CUST-0160,2026-02-14,37,"$82,692",New,Ontario,Email,Discount Offer,7,Yes,Yes,7,2,$82.21,15,40,19,6,66,No,Yes
+CUST-0161,2026-01-23,34,"$90,830",Loyal,Quebec,Email,Discount Offer,1,Yes,No,7,5,$85.17,20,1,100,6,31,Yes,Yes
+CUST-0162,2026-02-17,25,"$78,756",Loyal,Other,Social Media,Brand Awareness,4,Yes,Yes,8,9,$78.84,20,45,76,8,26,No,Yes
+CUST-0163,2026-03-25,29,"$52,034",Loyal,Ontario,Social Media,Discount Offer,3,No,No,7,7,$63.40,25,53,67,9,24,No,Yes
+CUST-0164,2026-02-07,22,"$48,450",Returning,Quebec,Search Ads,Retargeting,8,No,No,3,0,$54.70,25,14,50,8,57,No,Yes
+CUST-0165,2026-03-16,53,"$73,810",Loyal,Ontario,Display Ads,Brand Awareness,5,Yes,Yes,5,10,$26.39,10,42,81,9,56,No,Yes
+CUST-0166,2026-01-23,27,"$43,939",New,British Columbia,Email,New Product,2,Yes,No,10,6,$25.00,15,109,52,8,45,No,Yes
+CUST-0167,2026-04-17,42,"$84,545",New,Quebec,Display Ads,Discount Offer,4,No,No,7,2,$61.35,20,60,44,6,39,No,No
+CUST-0168,2026-04-26,39,"$63,987",Loyal,Alberta,Email,Discount Offer,4,Yes,No,4,8,$168.34,25,34,71,7,97,Yes,Yes
+CUST-0169,2026-03-26,18,"$62,009",At Risk,Ontario,Display Ads,Discount Offer,2,No,No,8,2,$125.25,10,121,37,4,35,No,No
+CUST-0170,2026-02-06,37,"$65,563",New,Ontario,Social Media,Discount Offer,3,No,Yes,9,0,$60.04,25,19,30,5,75,No,Yes
+CUST-0171,2026-01-12,44,"$71,065",New,Quebec,Email,Discount Offer,3,Yes,No,2,2,$167.97,15,60,35,7,60,No,No
+CUST-0172,2026-04-20,55,"$78,026",At Risk,Quebec,Search Ads,Retargeting,3,No,No,5,3,$65.73,25,79,51,7,62,Yes,Yes
+CUST-0173,2026-03-31,31,,At Risk,Ontario,SMS,Brand Awareness,2,Yes,No,6,0,$97.47,25,120,9,4,10,Yes,No
+CUST-0174,2026-01-06,60,"$57,096",New,Quebec,SMS,New Product,1,No,No,6,3,$29.06,25,62,33,7,36,No,Yes
+CUST-0175,2026-03-20,36,"$59,130",At Risk,British Columbia,Social Media,Brand Awareness,4,No,No,12,0,$39.69,15,85,21,4,75,No,Yes
+CUST-0176,2026-02-10,53,"$54,019",Loyal,Alberta,Display Ads,Discount Offer,3,No,No,5,7,$91.18,25,51,95,9,33,No,Yes
+CUST-0177,2026-04-09,35,"$29,979",New,Quebec,Social Media,Discount Offer,4,Yes,No,3,0,$49.20,20,49,20,8,62,No,No
+CUST-0178,2026-01-16,20,"$67,408",Loyal,British Columbia,Email,Discount Offer,1,No,Yes,15,7,$99.78,20,35,61,7,51,Yes,No
+CUST-0179,2026-04-18,27,"$77,155",Loyal,Ontario,Search Ads,New Product,7,No,No,2,4,$107.56,20,36,94,8,40,No,Yes
+CUST-0180,2026-02-27,56,"$44,456",At Risk,Ontario,Search Ads,Retargeting,6,No,No,7,3,$54.06,20,130,18,4,98,No,No
+CUST-0181,2026-04-01,48,"$84,807",At Risk,Alberta,Social Media,New Product,2,No,Yes,12,0,$74.52,10,106,26,4,22,No,Yes
+CUST-0182,2026-02-02,51,"$46,918",Returning,Quebec,Search Ads,Brand Awareness,5,No,Yes,14,0,$106.65,0,49,53,6,42,No,Yes
+CUST-0183,2026-02-19,30,"$97,645",New,Ontario,Social Media,New Product,5,No,No,3,0,$79.14,20,30,40,4,63,No,No
+CUST-0184,2026-03-29,42,"$29,507",At Risk,British Columbia,Email,Discount Offer,6,Yes,Yes,7,1,$25.00,20,93,20,5,27,No,Yes
+CUST-0185,2026-03-12,57,"$53,623",New,Ontario,Email,Discount Offer,6,Yes,No,9,1,$78.62,20,54,15,7,26,No,No
+CUST-0186,2026-03-25,40,"$43,195",New,Ontario,Email,New Product,1,Yes,Yes,9,0,$51.43,10,57,57,2,27,No,Yes
+CUST-0187,2026-03-04,31,"$41,135",At Risk,British Columbia,Search Ads,Retargeting,3,No,No,2,0,$106.13,10,123,32,5,15,No,Yes
+CUST-0188,2026-02-25,44,"$53,418",Returning,Ontario,SMS,Retargeting,3,Yes,No,4,4,$25.00,15,43,49,8,2,No,No
+CUST-0189,2026-04-06,56,"$48,521",New,Ontario,Social Media,Discount Offer,7,No,No,6,1,$107.22,20,32,41,6,79,Yes,No
+CUST-0190,2026-02-08,38,"$59,405",At Risk,Alberta,Email,Discount Offer,3,Yes,No,2,2,$63.66,15,71,29,3,52,No,No
+CUST-0191,2026-03-07,29,"$95,608",Loyal,Other,Social Media,New Product,2,No,Yes,15,8,$85.13,5,15,81,6,53,No,Yes
+CUST-0192,2026-01-17,44,"$89,891",New,British Columbia,Email,New Product,7,No,No,6,0,$86.19,25,59,37,6,16,No,No
+CUST-0193,2026-01-18,38,"$79,940",New,Quebec,Email,Discount Offer,2,Yes,No,1,2,$25.00,10,50,44,6,18,No,No
+CUST-0194,2026-03-16,31,"$83,925",Returning,Quebec,Display Ads,Discount Offer,3,Yes,No,4,5,$79.96,30,43,60,8,45,Yes,Yes
+CUST-0195,2026-04-19,38,"$46,893",New,Alberta,Email,New Product,3,Yes,No,3,0,$42.90,5,22,38,5,57,No,No
+CUST-0196,2026-04-27,56,"$58,199",Loyal,Ontario,Email,New Product,1,Yes,No,2,8,$80.53,30,9,82,8,46,Yes,Yes
+CUST-0197,2026-04-27,18,"$93,807",At Risk,British Columbia,Email,Discount Offer,6,Yes,No,4,0,$76.96,25,71,45,6,19,No,Yes
+CUST-0198,2026-03-03,19,"$84,620",Returning,Alberta,Display Ads,Discount Offer,5,Yes,No,2,3,$114.45,20,32,51,7,81,No,No
+CUST-0199,2026-01-28,22,"$65,865",Loyal,Ontario,Social Media,Discount Offer,3,No,No,4,8,$104.18,20,1,100,7,22,No,Yes
+CUST-0200,2026-03-08,18,"$106,170",New,Quebec,Display Ads,Retargeting,3,No,No,3,0,$98.29,15,28,30,6,33,Yes,No
+CUST-0201,2026-02-23,42,"$39,053",New,Quebec,Email,Brand Awareness,3,Yes,No,3,0,$58.24,20,51,34,6,72,No,No
+CUST-0202,2026-02-02,31,"$88,027",New,Alberta,Display Ads,New Product,4,No,No,5,0,$111.55,15,57,38,3,67,No,No
+CUST-0203,2026-01-27,46,"$52,141",Returning,Ontario,Email,Brand Awareness,1,No,No,3,4,$66.34,30,20,40,7,0,No,No
+CUST-0204,2026-03-20,18,"$67,320",Returning,Ontario,Search Ads,Discount Offer,1,Yes,No,4,0,$56.58,25,1,64,7,3,No,No
+CUST-0205,2026-04-10,36,"$58,507",At Risk,Ontario,Email,Discount Offer,2,No,No,6,2,$92.91,30,98,13,6,29,Yes,No
+CUST-0206,2026-02-21,68,"$46,956",New,Alberta,Search Ads,Discount Offer,2,Yes,No,2,0,$84.38,25,55,40,6,38,No,No
+CUST-0207,2026-02-07,49,"$26,270",New,Ontario,Email,Retargeting,3,No,No,7,0,$53.44,15,40,25,6,33,Yes,No
+CUST-0208,2026-01-29,41,"$81,582",New,Alberta,Social Media,Discount Offer,5,No,No,2,1,$61.32,20,85,32,6,67,No,No
+CUST-0209,2026-04-05,39,"$81,011",At Risk,Ontario,Social Media,Retargeting,4,No,No,6,6,$130.65,15,88,39,4,52,No,Yes
+CUST-0210,2026-04-23,18,"$57,915",New,Ontario,Email,Brand Awareness,1,Yes,Yes,15,0,$80.14,30,50,31,6,11,No,No
+CUST-0211,2026-01-02,39,"$79,352",At Risk,Ontario,SMS,Discount Offer,2,No,Yes,12,0,$124.40,25,99,47,8,34,No,No
+CUST-0212,2026-01-30,25,"$54,634",Returning,Ontario,Display Ads,Discount Offer,4,Yes,No,3,5,$50.46,20,46,64,6,46,No,No
+CUST-0213,2026-03-14,43,"$54,756",Returning,Ontario,Display Ads,Retargeting,1,No,No,8,4,$132.05,25,72,35,7,46,No,Yes
+CUST-0214,2026-01-23,28,"$72,679",New,Alberta,Email,Discount Offer,4,No,No,2,3,$101.91,15,29,59,4,51,No,No
+CUST-0215,2026-02-10,52,"$57,791",Returning,Quebec,Display Ads,Discount Offer,5,No,No,10,2,$33.09,25,1,33,6,53,Yes,No
+CUST-0216,2026-01-14,41,"$54,618",Returning,Alberta,Display Ads,Retargeting,1,No,No,3,4,$93.86,5,25,40,4,39,Yes,Yes
+CUST-0217,2026-03-26,33,"$84,969",New,Quebec,Display Ads,Retargeting,3,Yes,No,10,3,$75.54,25,61,30,8,70,Yes,Yes
+CUST-0218,2026-01-30,54,"$99,881",Returning,Other,Display Ads,New Product,1,Yes,No,1,3,$44.92,20,45,39,8,0,No,No
+CUST-0219,2026-03-12,32,"$42,390",New,Ontario,Social Media,Retargeting,4,No,No,4,1,$152.82,15,22,27,8,57,No,No
+CUST-0220,2026-04-20,24,"$76,856",Returning,British Columbia,Email,New Product,2,Yes,Yes,14,4,$45.86,25,27,47,7,2,No,Yes
+CUST-0221,2026-02-17,41,"$70,051",Returning,British Columbia,Social Media,New Product,3,No,Yes,8,3,$106.74,15,32,47,8,76,No,Yes
+CUST-0222,2026-01-05,46,"$67,069",Loyal,Ontario,SMS,Retargeting,2,Yes,No,7,11,$114.77,0,1,100,8,0,Yes,Yes
+CUST-0223,2026-01-31,59,"$61,099",Loyal,Quebec,Email,Retargeting,3,No,Yes,10,4,$58.92,25,15,78,9,72,No,Yes
+CUST-0224,2026-02-15,43,"$55,991",New,Alberta,Email,Discount Offer,5,Yes,No,1,1,$72.93,20,57,30,5,78,Yes,No
+CUST-0225,2026-03-04,34,"$50,271",New,Other,Email,Retargeting,1,No,No,3,1,$68.83,5,29,34,6,34,No,Yes
+CUST-0226,2026-04-10,23,"$69,884",Loyal,Alberta,Email,Retargeting,5,Yes,Yes,10,9,$51.75,30,11,73,7,43,No,Yes
+CUST-0227,2026-01-25,40,"$58,579",At Risk,Ontario,Display Ads,Brand Awareness,4,No,Yes,8,4,$117.17,0,113,61,6,44,Yes,Yes
+CUST-0228,2026-02-17,40,"$24,242",Loyal,British Columbia,Social Media,Discount Offer,2,Yes,No,11,10,$81.13,10,44,83,8,11,Yes,No
+CUST-0229,2026-03-15,53,"$72,915",Returning,Alberta,Search Ads,Discount Offer,4,Yes,Yes,13,4,$129.89,20,64,52,5,28,No,Yes
+CUST-0230,2026-01-31,20,"$70,347",At Risk,Ontario,Email,New Product,3,No,No,6,0,$113.51,10,108,18,3,11,No,No
+CUST-0231,2026-03-30,42,,At Risk,Other,Email,New Product,1,No,No,7,0,$88.16,10,164,31,5,60,No,No
+CUST-0232,2026-03-04,50,"$49,189",Returning,Ontario,Search Ads,New Product,4,No,Yes,10,4,$66.42,15,19,53,8,51,No,No
+CUST-0233,2026-04-29,32,"$35,222",At Risk,Ontario,Search Ads,Brand Awareness,3,Yes,No,4,0,$127.77,15,106,26,5,5,No,Yes
+CUST-0234,2026-03-02,40,"$40,718",Returning,Quebec,Email,Discount Offer,2,Yes,No,4,2,$100.99,20,56,65,7,29,No,No
+CUST-0235,2026-02-16,49,"$68,771",New,Alberta,Social Media,Discount Offer,5,No,No,7,2,$134.18,20,50,46,4,70,No,Yes
+CUST-0236,2026-03-21,35,"$49,301",New,Other,Social Media,Brand Awareness,6,No,No,5,1,$90.42,10,35,47,8,96,No,No
+CUST-0237,2026-03-26,53,"$32,076",New,Ontario,Search Ads,New Product,5,No,Yes,11,1,$29.67,20,48,27,6,37,No,No
+CUST-0238,2026-04-01,37,"$69,741",New,Ontario,Search Ads,New Product,4,No,No,4,2,$71.68,0,97,38,5,29,No,Yes
+CUST-0239,2026-03-06,28,"$102,488",Returning,Quebec,Email,New Product,4,Yes,No,4,2,$132.28,5,71,60,6,56,No,Yes
+CUST-0240,2026-01-20,46,"$68,450",Returning,Other,SMS,Retargeting,5,Yes,No,4,6,$131.39,20,67,53,6,30,Yes,Yes
+CUST-0241,2026-02-10,31,"$89,725",Returning,British Columbia,Email,New Product,3,Yes,No,3,7,$51.26,15,100,56,9,82,No,Yes
+CUST-0242,2026-03-20,19,"$54,787",New,Ontario,Display Ads,Discount Offer,1,No,No,12,0,$25.00,30,43,59,7,50,No,No
+CUST-0243,2026-02-04,24,"$43,345",Returning,Ontario,Email,Discount Offer,4,No,No,3,3,$60.32,20,45,64,9,49,Yes,No
+CUST-0244,2026-04-06,41,"$94,332",New,Ontario,Email,Retargeting,1,No,No,6,2,$74.74,30,87,40,5,55,No,No
+CUST-0245,2026-02-08,21,"$54,903",Loyal,Ontario,Email,New Product,6,Yes,No,0,8,$81.96,15,1,80,9,47,Yes,Yes
+CUST-0246,2026-04-25,36,"$74,940",Returning,British Columbia,SMS,Retargeting,1,Yes,No,5,5,$132.97,25,12,53,7,46,No,No
+CUST-0247,2026-04-09,41,"$85,131",New,Other,Search Ads,Retargeting,3,Yes,Yes,7,3,$123.07,25,57,18,7,35,No,Yes
+CUST-0248,2026-03-05,25,"$100,318",At Risk,Ontario,Email,Retargeting,5,No,No,5,1,$122.57,5,96,29,,38,No,No
+CUST-0249,2026-01-05,62,"$63,645",New,Quebec,Search Ads,New Product,6,Yes,No,6,0,$55.91,30,54,43,7,48,No,No
+CUST-0250,2026-04-15,43,"$46,237",At Risk,Quebec,Email,Discount Offer,2,No,No,1,2,$58.22,25,90,32,5,22,No,Yes
+CUST-0251,2026-02-24,24,"$74,266",Returning,British Columbia,Email,Discount Offer,1,No,No,4,6,$126.60,20,67,69,5,18,No,No
+CUST-0252,2026-02-22,32,"$86,549",At Risk,Ontario,Social Media,New Product,1,No,Yes,10,2,$124.45,5,100,30,4,60,No,Yes
+CUST-0253,2026-03-03,20,"$38,650",New,British Columbia,Search Ads,Discount Offer,6,Yes,Yes,2,0,$63.91,20,29,60,5,56,No,No
+CUST-0254,2026-04-28,59,"$71,271",Returning,Alberta,Search Ads,New Product,1,Yes,No,0,5,$104.55,25,17,50,6,70,No,No
+CUST-0255,2026-02-17,39,"$26,763",Returning,Other,Email,Brand Awareness,8,No,No,1,5,$110.22,25,4,71,5,40,No,No
+CUST-0256,2026-04-16,43,"$76,623",Returning,Alberta,Email,Retargeting,3,No,No,8,4,$68.91,15,34,56,5,43,No,No
+CUST-0257,2026-03-23,31,"$22,000",New,Quebec,Email,Retargeting,3,Yes,Yes,18,2,$103.33,0,64,54,7,41,No,No
+CUST-0258,2026-03-20,35,"$55,801",,Quebec,Social Media,Discount Offer,5,Yes,Yes,15,1,$118.34,15,68,48,7,61,Yes,No
+CUST-0259,2026-03-10,34,"$60,209",New,Ontario,SMS,New Product,5,No,No,6,0,$46.15,15,34,26,7,10,No,Yes
+CUST-0260,2026-03-27,56,"$44,553",Returning,Alberta,Email,Brand Awareness,5,No,No,6,0,$94.45,5,56,43,8,30,No,No
+CUST-0261,2026-02-21,44,"$47,039",Returning,Ontario,Email,New Product,4,Yes,No,2,1,$78.03,25,41,46,6,10,No,No
+CUST-0262,2026-04-16,38,,New,Ontario,Social Media,Discount Offer,3,No,No,2,0,$137.44,25,98,50,5,40,No,No
+CUST-0263,2026-02-19,30,"$53,994",Returning,Quebec,Search Ads,Retargeting,5,Yes,No,6,4,$112.26,30,59,57,7,49,No,No
+CUST-0264,2026-03-12,43,"$47,886",At Risk,Alberta,Email,Brand Awareness,4,No,No,3,0,$126.34,20,93,44,5,54,No,No
+CUST-0265,2026-01-20,45,"$90,191",At Risk,Ontario,Email,Discount Offer,4,Yes,No,1,0,$66.00,25,109,21,5,4,No,No
+CUST-0266,2026-04-15,56,"$69,942",New,Ontario,Search Ads,Retargeting,3,No,No,6,1,$112.88,30,5,24,3,24,No,No
+CUST-0267,2026-04-20,28,"$53,333",Returning,Alberta,Search Ads,Discount Offer,5,No,No,2,3,$127.27,20,30,26,5,73,No,No
+CUST-0268,2026-03-15,47,"$66,438",New,Ontario,Display Ads,New Product,1,No,No,8,2,$96.59,0,30,49,5,66,No,No
+CUST-0269,2026-01-17,38,"$22,000",Loyal,Ontario,Email,Retargeting,6,No,No,4,7,$48.80,0,20,75,7,41,No,No
+CUST-0270,2026-01-19,35,"$72,563",New,Alberta,Email,Discount Offer,2,Yes,Yes,8,0,$75.17,25,60,10,6,55,Yes,Yes
+CUST-0271,2026-04-29,29,"$80,270",Loyal,Quebec,Social Media,Brand Awareness,1,No,Yes,2,6,$56.31,0,1,96,9,36,No,Yes
+CUST-0272,2026-02-04,24,"$85,583",Returning,Alberta,Email,Discount Offer,5,No,No,3,3,$85.99,25,59,53,9,20,No,No
+CUST-0273,2026-01-29,37,"$91,128",Returning,Ontario,Search Ads,Brand Awareness,4,No,No,1,3,$102.16,0,36,56,7,47,No,No
+CUST-0274,2026-03-31,37,"$67,789",Returning,Quebec,Email,Retargeting,4,Yes,No,8,6,$112.75,15,6,33,4,18,No,Yes
+CUST-0275,2026-01-26,33,"$93,076",New,Other,Social Media,Retargeting,2,No,Yes,8,4,$125.42,15,1,64,6,100,No,Yes
+CUST-0276,2026-02-19,42,"$73,129",New,Ontario,Display Ads,Brand Awareness,6,No,No,5,1,$66.29,15,42,51,6,41,Yes,Yes
+CUST-0277,2026-03-29,37,"$47,277",Returning,Other,Social Media,New Product,1,No,No,6,0,$77.15,25,34,64,6,10,No,Yes
+CUST-0278,2026-01-05,70,"$87,499",Loyal,Alberta,Social Media,Discount Offer,5,Yes,Yes,6,10,$104.43,15,9,86,8,42,Yes,Yes
+CUST-0279,2026-04-22,29,"$56,425",Returning,Quebec,Email,Discount Offer,1,Yes,No,0,6,$95.14,25,36,49,7,26,No,No
+CUST-0280,2026-01-09,25,"$79,171",At Risk,Ontario,Email,Brand Awareness,6,No,No,9,2,$107.35,0,105,51,4,66,No,No
+CUST-0281,2026-01-09,47,"$82,250",Loyal,Alberta,Email,New Product,5,No,No,3,6,$139.22,5,13,66,10,43,Yes,Yes
+CUST-0282,2026-02-23,41,"$76,388",Loyal,Quebec,Search Ads,Retargeting,5,Yes,Yes,15,5,$131.00,0,59,90,8,69,No,Yes
+CUST-0283,2026-03-09,47,"$68,560",,Ontario,Email,New Product,1,Yes,Yes,10,0,$25.00,25,50,40,5,17,No,No
+CUST-0284,2026-02-02,45,"$29,836",At Risk,Quebec,Social Media,Brand Awareness,1,Yes,Yes,14,2,$111.86,5,89,47,7,81,No,Yes
+CUST-0285,2026-01-31,44,"$27,122",New,Other,Search Ads,Discount Offer,4,Yes,No,1,0,$25.69,20,49,5,6,52,No,No
+CUST-0286,2026-03-01,45,"$46,426",New,Quebec,Social Media,Retargeting,6,No,No,10,3,$121.77,25,38,43,6,58,No,No
+CUST-0287,2026-04-05,33,"$71,590",,Alberta,Search Ads,Brand Awareness,5,No,Yes,12,1,$53.50,30,110,48,5,51,No,No
+CUST-0288,2026-01-31,29,"$62,319",New,Other,SMS,Retargeting,6,No,No,13,2,$81.63,15,21,19,6,54,No,Yes
+CUST-0289,2026-03-22,18,"$62,654",Returning,Ontario,Email,Discount Offer,1,No,Yes,9,2,$122.48,30,3,50,7,37,No,Yes
+CUST-0290,2026-01-07,30,"$32,802",New,Ontario,Display Ads,Discount Offer,1,No,No,8,0,$91.12,25,9,18,8,0,No,Yes
+CUST-0291,2026-02-04,35,"$41,699",Returning,Quebec,Email,Discount Offer,6,No,Yes,9,3,$43.76,20,3,67,7,41,No,Yes
+CUST-0292,2026-02-28,29,"$55,483",Returning,Quebec,Social Media,Retargeting,4,No,No,7,0,$51.17,25,41,81,6,65,No,Yes
+CUST-0293,2026-01-09,32,"$70,756",At Risk,Ontario,Email,Discount Offer,4,Yes,No,6,4,$94.46,20,109,39,3,52,No,Yes
+CUST-0294,2026-01-07,45,"$22,448",Returning,Quebec,Social Media,Brand Awareness,4,No,No,1,1,$58.36,20,63,76,7,53,No,Yes
+CUST-0295,2026-02-14,41,"$50,204",Returning,Quebec,Email,Discount Offer,8,Yes,No,9,1,$90.32,20,45,45,7,51,No,Yes
+CUST-0296,2026-03-15,56,"$22,000",Returning,Ontario,Email,Retargeting,5,No,No,6,3,$113.02,20,29,47,9,24,No,No
+CUST-0297,2026-04-30,39,"$72,888",At Risk,Ontario,Social Media,New Product,1,Yes,No,5,2,$71.89,10,83,33,5,32,No,No
+CUST-0298,2026-02-14,39,"$70,662",Loyal,Other,Search Ads,Retargeting,2,No,No,7,11,$107.16,15,46,100,7,57,Yes,Yes
+CUST-0299,2026-02-12,23,,New,British Columbia,Display Ads,New Product,2,No,No,5,0,$53.72,30,41,31,6,66,No,Yes
+CUST-0300,2026-01-01,57,"$52,830",New,Other,Social Media,New Product,1,No,Yes,6,1,$56.98,15,93,41,7,34,Yes,Yes
+CUST-0301,2026-03-30,33,"$52,242",Loyal,British Columbia,Email,Discount Offer,6,Yes,No,4,7,$85.66,20,1,71,9,26,No,No
+CUST-0302,2026-04-08,41,"$37,007",New,Quebec,Email,Discount Offer,6,Yes,No,4,1,$43.79,10,76,29,8,54,No,Yes
+CUST-0303,2026-03-06,41,"$62,455",At Risk,British Columbia,Display Ads,Discount Offer,1,No,No,8,3,$88.49,15,91,32,4,53,No,No
+CUST-0304,2026-03-18,34,"$79,702",Returning,Quebec,Display Ads,New Product,7,No,No,7,5,$150.26,0,55,46,7,15,No,No
+CUST-0305,2026-04-12,54,"$75,287",Returning,Ontario,Search Ads,Discount Offer,3,No,No,4,5,$127.67,25,32,79,8,42,Yes,Yes
+CUST-0306,2026-04-10,34,"$41,366",At Risk,Ontario,Email,Discount Offer,2,Yes,Yes,4,0,$90.52,15,115,29,4,24,No,No
+CUST-0307,2026-04-17,32,"$63,468",New,Ontario,Search Ads,Discount Offer,6,Yes,Yes,15,0,$106.16,30,59,13,6,55,No,Yes
+CUST-0308,2026-03-12,54,"$50,887",New,Other,Email,Discount Offer,4,Yes,Yes,11,0,$78.83,10,40,31,8,19,No,Yes
+CUST-0309,2026-04-25,68,"$85,148",At Risk,Alberta,Display Ads,Retargeting,3,No,Yes,7,0,$47.59,0,108,40,6,21,No,No
+CUST-0310,2026-03-07,18,"$116,946",Returning,Other,Search Ads,Discount Offer,6,No,No,4,7,$83.45,25,25,70,7,15,No,Yes
+CUST-0311,2026-03-01,18,"$63,187",New,British Columbia,Social Media,Discount Offer,3,Yes,Yes,12,2,$47.21,15,74,18,5,36,No,Yes
+CUST-0312,2026-02-25,30,"$40,258",New,Alberta,Social Media,New Product,4,No,No,4,0,$97.42,15,43,36,7,91,No,Yes
+CUST-0313,2026-01-06,18,"$56,564",New,British Columbia,Search Ads,Brand Awareness,1,No,No,7,0,$51.89,15,67,25,5,61,Yes,Yes
+CUST-0314,2026-01-03,36,"$35,238",Returning,British Columbia,Display Ads,New Product,6,No,No,4,4,$76.02,10,52,32,5,59,No,No
+CUST-0315,2026-02-08,42,"$93,332",Returning,Quebec,Social Media,Discount Offer,4,No,Yes,7,6,$41.21,25,15,62,8,61,Yes,Yes
+CUST-0316,2026-03-09,25,"$72,094",Loyal,Alberta,Display Ads,New Product,3,No,No,5,8,$146.86,0,11,63,7,32,No,No
+CUST-0317,2026-03-01,43,"$99,958",Loyal,Alberta,Social Media,New Product,2,Yes,No,4,4,$118.20,5,42,68,7,46,No,Yes
+CUST-0318,2026-02-04,38,"$36,086",At Risk,Other,SMS,Brand Awareness,1,Yes,Yes,9,2,$63.74,15,76,6,6,68,No,No
+CUST-0319,2026-03-24,28,"$51,707",Returning,Ontario,Social Media,Discount Offer,2,Yes,No,1,4,$35.19,15,48,57,7,57,No,No
+CUST-0320,2026-03-08,51,"$56,275",New,Ontario,Display Ads,Brand Awareness,6,No,No,0,0,$70.79,30,47,27,7,65,No,No
+CUST-0321,2026-03-10,19,"$43,602",Returning,Ontario,Social Media,New Product,4,No,No,2,5,$25.00,15,37,64,7,63,Yes,Yes
+CUST-0322,2026-03-27,51,"$80,204",Returning,Other,Search Ads,Retargeting,3,No,No,3,0,$183.62,20,43,80,7,44,No,Yes
+CUST-0323,2026-02-26,34,"$44,103",At Risk,Alberta,Social Media,Discount Offer,3,No,No,0,5,$25.00,15,136,51,4,62,No,No
+CUST-0324,2026-04-04,52,"$36,212",Returning,Alberta,Email,Retargeting,6,Yes,No,3,3,$25.00,30,46,62,7,50,No,No
+CUST-0325,2026-03-18,36,"$37,895",New,British Columbia,Email,Brand Awareness,4,Yes,No,3,0,$89.51,5,50,57,6,10,No,No
+CUST-0326,2026-03-22,40,"$43,389",Returning,Ontario,Search Ads,Brand Awareness,5,Yes,Yes,3,2,$99.49,30,47,51,9,26,No,Yes
+CUST-0327,2026-04-02,49,"$75,000",New,Ontario,Display Ads,Brand Awareness,3,No,No,3,0,$88.58,20,1,47,4,51,No,Yes
+CUST-0328,2026-02-17,58,"$48,595",New,Quebec,Search Ads,New Product,4,No,No,7,1,$100.93,30,62,44,6,72,No,No
+CUST-0329,2026-04-13,34,"$54,560",Returning,Other,Display Ads,New Product,4,No,No,7,6,$102.61,0,26,66,10,1,No,No
+CUST-0330,2026-01-15,37,"$55,285",New,Ontario,Search Ads,New Product,1,No,No,10,0,$124.46,10,59,29,5,66,No,No
+CUST-0331,2026-03-26,51,"$58,518",At Risk,Ontario,Email,New Product,5,No,No,3,0,$80.42,5,63,71,5,29,No,No
+CUST-0332,2026-04-22,30,"$67,241",New,Quebec,Email,Discount Offer,3,No,No,5,0,$125.59,20,3,36,6,33,Yes,Yes
+CUST-0333,2026-01-14,48,"$30,466",Loyal,British Columbia,Search Ads,Discount Offer,4,No,Yes,6,8,$114.27,30,53,85,8,22,No,No
+CUST-0334,2026-04-13,40,"$69,442",Loyal,Quebec,Search Ads,Retargeting,3,No,No,4,9,$79.36,25,70,81,8,30,No,No
+CUST-0335,2026-02-25,36,"$68,664",New,Quebec,SMS,New Product,6,No,Yes,19,1,$121.99,15,41,57,6,32,No,No
+CUST-0336,2026-03-24,60,"$39,515",Returning,Ontario,Social Media,New Product,4,No,Yes,14,0,$104.15,30,24,64,7,30,No,No
+CUST-0337,2026-03-07,35,"$76,452",,Ontario,Social Media,New Product,5,No,No,5,4,$146.64,20,8,41,8,12,No,No
+CUST-0338,2026-02-03,52,"$80,098",Returning,Ontario,Email,Discount Offer,3,No,Yes,7,4,$84.15,30,25,75,5,51,No,Yes
+CUST-0339,2026-03-20,57,"$42,268",New,Other,Email,Discount Offer,3,Yes,No,2,4,$82.18,25,92,8,5,26,No,No
+CUST-0340,2026-01-15,29,"$32,103",Returning,Ontario,Social Media,Discount Offer,4,No,No,5,4,$122.81,15,60,34,6,57,No,Yes
+CUST-0341,2026-02-07,31,"$81,714",At Risk,Alberta,Social Media,New Product,6,Yes,No,5,1,$143.01,25,96,16,5,31,No,Yes
+CUST-0342,2026-03-31,26,"$77,562",Loyal,Other,SMS,Retargeting,4,Yes,No,6,6,$82.95,25,1,89,5,43,Yes,Yes
+CUST-0343,2026-04-19,48,"$92,056",Returning,Quebec,Social Media,New Product,2,No,No,0,0,$112.10,25,20,23,8,29,No,Yes
+CUST-0344,2026-04-14,18,"$70,952",New,Ontario,Social Media,Discount Offer,6,No,No,8,0,$93.66,20,80,33,8,93,No,Yes
+CUST-0345,2026-04-07,22,"$74,879",New,Ontario,Email,Discount Offer,3,No,No,5,2,$134.53,25,56,37,8,28,No,Yes
+CUST-0346,2026-01-16,50,"$80,652",Loyal,Alberta,SMS,Discount Offer,6,No,No,7,9,$117.53,25,1,82,9,59,No,No
+CUST-0347,2026-04-25,26,"$70,515",Loyal,Alberta,Email,Discount Offer,3,Yes,No,4,5,$128.96,25,1,77,9,59,No,Yes
+CUST-0348,2026-04-13,50,"$30,681",Returning,Ontario,Email,Discount Offer,5,Yes,Yes,8,4,$83.98,10,47,54,4,14,No,No
+CUST-0349,2026-04-24,28,"$59,716",Returning,Quebec,Search Ads,Discount Offer,3,Yes,Yes,6,3,$72.27,20,43,74,7,10,No,No
+CUST-0350,2026-03-17,25,"$31,415",At Risk,Quebec,Email,New Product,3,No,No,0,2,$114.39,10,54,26,5,46,No,No
+CUST-0351,2026-03-22,43,"$45,716",Returning,British Columbia,Social Media,Retargeting,3,Yes,No,8,6,$65.53,20,32,42,9,65,No,No
+CUST-0352,2026-02-24,36,"$70,983",Returning,Alberta,Search Ads,New Product,2,Yes,Yes,10,2,$32.80,10,12,50,7,21,Yes,No
+CUST-0353,2026-01-17,43,"$38,349",Returning,Quebec,Social Media,New Product,4,No,Yes,6,4,$44.54,25,1,83,7,70,No,No
+CUST-0354,2026-03-17,23,"$59,765",Loyal,Ontario,Social Media,Discount Offer,1,Yes,No,2,9,$106.39,10,31,93,9,43,Yes,Yes
+CUST-0355,2026-04-08,39,"$79,313",Returning,British Columbia,Email,Discount Offer,3,Yes,Yes,12,4,$25.00,20,14,71,5,50,No,Yes
+CUST-0356,2026-02-09,42,"$22,000",Returning,British Columbia,Display Ads,New Product,5,Yes,No,0,2,$113.82,25,10,65,7,72,No,Yes
+CUST-0357,2026-03-10,40,"$82,067",New,Quebec,Search Ads,Discount Offer,5,No,Yes,2,1,$70.32,15,25,42,8,57,Yes,Yes
+CUST-0358,2026-01-08,24,"$56,555",At Risk,Quebec,Email,New Product,4,No,No,4,3,$100.86,5,103,39,7,72,No,No
+CUST-0359,2026-03-01,62,"$59,647",New,Ontario,Social Media,New Product,4,Yes,Yes,8,0,$87.93,5,82,11,6,53,Yes,No
+CUST-0360,2026-01-22,40,"$64,130",Loyal,Ontario,SMS,New Product,3,No,No,4,10,$118.84,15,47,92,9,97,Yes,Yes
+CUST-0361,2026-03-14,25,"$56,602",At Risk,Ontario,Social Media,New Product,4,No,Yes,7,1,$109.96,25,78,38,4,35,No,Yes
+CUST-0362,2026-03-18,37,"$90,794",Loyal,Other,Search Ads,Retargeting,5,Yes,Yes,11,3,$32.80,25,1,71,8,62,Yes,Yes
+CUST-0363,2026-04-15,36,"$72,109",At Risk,Ontario,Search Ads,Discount Offer,3,Yes,No,3,0,$78.59,25,101,1,4,51,Yes,No
+CUST-0364,2026-02-16,26,"$44,504",Loyal,Other,Display Ads,Discount Offer,2,Yes,Yes,17,8,$63.46,15,71,89,7,47,No,Yes
+CUST-0365,2026-04-30,30,"$27,704",Returning,Other,Email,Brand Awareness,4,Yes,Yes,6,3,$47.82,25,8,51,6,11,Yes,Yes
+CUST-0366,2026-02-22,27,"$65,694",Loyal,British Columbia,Email,Retargeting,6,No,No,4,10,,25,34,72,7,53,No,Yes
+CUST-0367,2026-01-26,29,"$51,522",Returning,Alberta,Display Ads,Discount Offer,1,Yes,No,4,4,$86.54,25,44,67,7,21,No,Yes
+CUST-0368,2026-02-26,18,"$50,496",New,Alberta,Social Media,New Product,6,No,No,4,2,$83.53,0,71,42,5,63,No,No
+CUST-0369,2026-03-21,26,"$41,494",New,Ontario,Email,Discount Offer,4,Yes,No,4,0,$88.18,20,56,37,8,55,No,No
+CUST-0370,2026-04-18,39,"$91,597",Loyal,Quebec,Email,Retargeting,6,Yes,No,2,8,$59.95,10,8,78,10,44,No,Yes
+CUST-0371,2026-01-02,22,"$48,088",New,British Columbia,Social Media,New Product,4,Yes,Yes,15,0,$76.05,10,31,62,6,44,No,Yes
+CUST-0372,2026-03-20,48,"$55,260",New,Quebec,Display Ads,Discount Offer,3,Yes,No,3,0,$103.72,25,56,53,,27,No,Yes
+CUST-0373,2026-02-16,51,"$57,090",At Risk,Quebec,SMS,Retargeting,4,No,No,2,2,$25.00,30,99,18,7,45,No,Yes
+CUST-0374,2026-04-27,45,"$44,450",New,British Columbia,Social Media,Retargeting,5,No,No,5,2,$84.07,5,68,25,7,62,No,Yes
+CUST-0375,2026-02-18,41,"$51,577",Loyal,Ontario,Display Ads,Discount Offer,2,Yes,Yes,11,15,$64.14,30,30,85,10,24,Yes,Yes
+CUST-0376,2026-04-12,32,"$83,217",Loyal,British Columbia,SMS,New Product,5,Yes,Yes,10,9,$26.10,30,1,81,6,44,No,Yes
+CUST-0377,2026-04-25,51,"$72,396",Loyal,Quebec,Search Ads,New Product,2,Yes,No,5,7,$50.01,10,1,72,9,11,Yes,Yes
+CUST-0378,2026-04-13,45,"$45,264",Returning,Quebec,Display Ads,Retargeting,2,Yes,Yes,12,2,$76.12,0,2,62,6,53,No,Yes
+CUST-0379,2026-04-06,37,"$66,870",Returning,Ontario,Email,Retargeting,3,Yes,Yes,12,4,$80.66,0,15,71,6,70,Yes,Yes
+CUST-0380,2026-01-20,34,"$45,891",Loyal,Other,SMS,Retargeting,3,Yes,Yes,8,3,$176.90,15,35,60,10,44,No,No
+CUST-0381,2026-04-22,40,"$96,918",New,Quebec,Email,New Product,1,Yes,Yes,14,2,$155.27,25,27,42,6,37,No,Yes
+CUST-0382,2026-04-13,39,"$60,930",Loyal,Ontario,Display Ads,New Product,3,No,No,2,7,$92.11,30,30,83,10,31,No,No
+CUST-0383,2026-01-26,19,"$34,299",At Risk,Quebec,Email,New Product,4,No,No,6,2,$65.21,0,88,22,6,15,Yes,Yes
+CUST-0384,2026-02-09,47,"$57,857",New,Ontario,Search Ads,Discount Offer,2,No,No,4,1,$98.29,20,48,21,7,33,No,No
+CUST-0385,2026-04-05,34,"$37,830",Returning,Quebec,SMS,New Product,3,Yes,Yes,4,5,$33.58,5,1,53,8,25,No,Yes
+CUST-0386,2026-01-31,21,"$22,790",Returning,Alberta,Display Ads,New Product,5,No,No,0,2,$45.02,15,47,53,6,32,No,No
+CUST-0387,2026-03-06,51,"$100,124",Returning,Ontario,Search Ads,Brand Awareness,7,No,No,1,5,$124.22,30,67,72,6,63,Yes,Yes
+CUST-0388,2026-04-18,54,"$67,246",Loyal,Ontario,Social Media,New Product,4,Yes,No,5,10,$127.33,15,9,82,7,59,No,Yes
+CUST-0389,2026-03-26,35,"$77,870",New,British Columbia,Email,Discount Offer,1,No,Yes,7,3,$94.07,20,56,30,6,24,No,No
+CUST-0390,2026-04-17,27,"$47,398",New,Alberta,Email,Retargeting,5,No,No,5,1,$25.00,10,84,44,4,93,Yes,No
+CUST-0391,2026-01-09,49,"$68,562",Returning,Ontario,Email,New Product,5,Yes,Yes,2,2,$90.25,10,46,64,8,33,No,No
+CUST-0392,2026-04-09,48,"$56,527",New,Quebec,Display Ads,Retargeting,6,No,No,3,0,$123.72,10,35,53,6,75,No,No
+CUST-0393,2026-01-31,35,"$46,594",At Risk,Alberta,Social Media,New Product,6,No,No,2,0,$63.48,20,81,29,5,97,Yes,No
+CUST-0394,2026-01-30,38,"$31,437",New,Ontario,Social Media,Discount Offer,4,No,No,5,4,$54.43,15,32,57,8,56,No,No
+CUST-0395,2026-01-17,49,"$53,991",Returning,British Columbia,SMS,Discount Offer,5,No,No,2,2,$66.14,10,58,23,7,100,No,Yes
+CUST-0396,2026-02-16,49,"$27,332",At Risk,Ontario,Email,Brand Awareness,1,Yes,No,5,3,$72.12,15,114,39,5,58,No,No
+CUST-0397,2026-02-18,27,"$73,728",Returning,British Columbia,Search Ads,Retargeting,5,No,Yes,8,6,$115.10,20,23,70,8,40,No,Yes
+CUST-0398,2026-04-28,51,"$42,335",Loyal,Other,Email,Discount Offer,4,No,No,2,9,$47.66,20,30,62,8,22,Yes,Yes
+CUST-0399,2026-03-28,31,"$73,922",Loyal,Alberta,SMS,Retargeting,3,Yes,No,3,6,$122.85,15,26,81,7,81,No,Yes
+CUST-0400,2026-04-17,42,"$55,709",Returning,Ontario,SMS,Discount Offer,3,No,No,5,4,$129.45,20,55,32,6,27,No,No
+CUST-0401,2026-01-22,37,"$52,734",Returning,Quebec,Display Ads,Brand Awareness,1,No,No,5,3,$25.94,30,16,72,8,62,No,No
+CUST-0402,2026-02-03,32,"$70,371",Loyal,British Columbia,Social Media,Brand Awareness,4,Yes,Yes,7,6,$72.23,20,17,85,7,74,No,No
+CUST-0403,2026-01-28,46,"$44,876",At Risk,British Columbia,Email,Discount Offer,4,Yes,Yes,8,0,$86.19,10,88,64,4,8,Yes,No
+CUST-0404,2026-01-13,54,"$63,363",At Risk,Other,Display Ads,New Product,2,No,No,7,6,$86.12,10,83,18,6,49,No,Yes
+CUST-0405,2026-03-23,46,"$45,794",Loyal,Ontario,SMS,Discount Offer,1,No,Yes,8,5,$44.57,20,16,81,6,1,Yes,Yes
+CUST-0406,2026-04-11,58,"$73,324",Returning,Quebec,Social Media,New Product,3,No,No,4,9,$46.96,30,31,51,6,75,No,No
+CUST-0407,2026-01-21,18,"$50,497",Loyal,British Columbia,Social Media,New Product,3,No,Yes,10,8,$55.91,5,13,82,6,83,No,No
+CUST-0408,2026-02-18,32,"$81,186",Returning,British Columbia,Search Ads,Retargeting,2,No,No,1,0,$96.62,10,73,34,7,12,No,No
+CUST-0409,2026-04-05,37,"$26,682",Loyal,Other,Display Ads,New Product,4,Yes,Yes,11,7,$25.00,25,47,75,9,55,Yes,Yes
+CUST-0410,2026-03-29,51,"$72,330",Loyal,Ontario,SMS,New Product,2,No,No,0,8,$124.50,20,30,72,9,25,Yes,Yes
+CUST-0411,2026-01-20,32,"$54,646",Loyal,British Columbia,Display Ads,New Product,1,Yes,No,13,7,$44.41,30,22,93,9,40,No,No
+CUST-0412,2026-02-20,42,"$96,646",Loyal,Ontario,Search Ads,Retargeting,4,Yes,No,8,5,$42.42,0,1,78,7,0,No,Yes
+CUST-0413,2026-04-05,36,"$44,269",At Risk,Quebec,Search Ads,Discount Offer,2,No,Yes,16,0,$126.83,15,88,19,5,54,No,No
+CUST-0414,2026-04-03,22,"$94,991",New,Alberta,Display Ads,New Product,6,Yes,Yes,8,2,$95.44,0,71,46,5,61,No,Yes
+CUST-0415,2026-01-16,46,"$65,461",Returning,Other,Search Ads,Brand Awareness,1,No,No,8,4,$25.00,25,9,71,7,43,Yes,Yes
+CUST-0416,2026-03-31,31,"$39,077",New,Quebec,Search Ads,Discount Offer,3,Yes,No,0,0,$47.20,15,32,54,7,21,No,Yes
+CUST-0417,2026-03-25,24,"$52,588",Loyal,Quebec,Social Media,New Product,3,Yes,No,0,12,$66.05,5,41,65,9,59,No,Yes
+CUST-0418,2026-02-10,41,"$22,307",New,Quebec,SMS,New Product,2,No,No,5,0,$43.47,20,105,44,5,30,No,No
+CUST-0419,2026-03-25,36,"$82,418",Returning,Ontario,Email,Retargeting,3,Yes,Yes,6,7,$74.41,10,24,54,9,17,Yes,No
+CUST-0420,2026-04-11,45,"$54,576",New,British Columbia,Social Media,New Product,4,Yes,No,9,0,$94.74,25,71,24,5,93,No,No
+CUST-0421,2026-04-29,54,"$66,850",New,Ontario,Email,New Product,6,Yes,Yes,10,3,$137.53,10,73,35,7,37,No,Yes
+CUST-0422,2026-02-21,18,"$54,563",Returning,Ontario,Display Ads,Discount Offer,2,Yes,Yes,5,6,$157.24,15,47,38,7,14,No,No
+CUST-0423,2026-02-06,39,"$64,183",Returning,Ontario,Email,New Product,3,No,No,4,3,$61.12,20,11,65,6,49,No,Yes
+CUST-0424,2026-04-22,18,"$84,995",At Risk,Ontario,Display Ads,Retargeting,5,No,Yes,6,3,$107.02,0,99,34,5,14,No,Yes
+CUST-0425,2026-04-28,55,"$51,462",At Risk,Quebec,Email,Brand Awareness,2,Yes,Yes,4,5,$50.81,25,68,37,3,100,No,No
+CUST-0426,2026-02-01,48,"$43,583",Returning,Other,Search Ads,Brand Awareness,5,Yes,Yes,10,5,$102.72,0,14,64,6,49,No,No
+CUST-0427,2026-02-14,52,"$26,971",Returning,Ontario,Social Media,Discount Offer,2,No,No,2,6,$61.09,30,71,40,7,53,Yes,No
+CUST-0428,2026-02-26,40,"$70,037",New,Ontario,Social Media,New Product,5,Yes,Yes,10,1,$88.98,10,77,30,7,89,No,No
+CUST-0429,2026-03-05,31,"$66,491",Loyal,Alberta,Email,Brand Awareness,5,Yes,Yes,10,9,$75.54,5,75,70,9,40,No,No
+CUST-0430,2026-04-05,35,"$42,986",Loyal,Quebec,Display Ads,Retargeting,5,Yes,Yes,4,9,,0,19,71,8,23,No,Yes
+CUST-0431,2026-03-22,28,"$64,223",New,British Columbia,Social Media,Brand Awareness,4,Yes,Yes,14,1,$151.56,5,8,38,8,77,No,Yes
+CUST-0432,2026-02-04,33,"$63,513",New,Other,SMS,New Product,5,No,Yes,11,1,$56.22,5,1,26,,10,No,No
+CUST-0433,2026-04-21,36,"$94,491",New,Ontario,Display Ads,Discount Offer,2,No,No,4,2,$69.65,30,34,27,7,44,No,Yes
+CUST-0434,2026-01-10,39,"$36,330",Loyal,Quebec,Search Ads,Discount Offer,6,Yes,No,6,8,$42.92,20,1,99,7,54,No,No
+CUST-0435,2026-02-23,55,"$48,335",Returning,Quebec,Display Ads,Discount Offer,2,Yes,No,3,0,$84.31,30,1,70,6,32,Yes,Yes
+CUST-0436,2026-03-19,18,"$99,195",New,Other,Email,Discount Offer,2,No,Yes,14,0,$58.15,20,71,48,7,13,No,Yes
+CUST-0437,2026-04-24,37,,New,Alberta,Search Ads,Retargeting,5,No,No,2,0,$98.07,20,87,42,7,24,No,No
+CUST-0438,2026-01-02,35,"$92,003",New,Other,SMS,Discount Offer,7,Yes,No,0,0,$59.57,15,101,54,8,24,No,No
+CUST-0439,2026-01-27,70,"$72,938",New,Quebec,SMS,Retargeting,9,No,No,8,3,$52.58,30,73,21,5,48,No,No
+CUST-0440,2026-03-29,50,"$75,053",New,British Columbia,Email,New Product,1,No,Yes,13,2,$111.37,25,77,39,7,25,No,No
+CUST-0441,2026-03-22,61,"$69,710",New,Other,SMS,Discount Offer,4,No,No,6,0,$83.73,10,53,50,4,67,No,No
+CUST-0442,2026-01-06,53,"$62,795",Loyal,Alberta,Social Media,Retargeting,3,Yes,Yes,13,3,$102.43,5,36,82,10,65,Yes,Yes
+CUST-0443,2026-01-10,33,"$87,208",Loyal,Other,Email,Discount Offer,2,Yes,Yes,12,4,$144.04,30,1,84,,96,Yes,Yes
+CUST-0444,2026-04-02,58,"$95,752",At Risk,Quebec,Display Ads,Discount Offer,1,No,Yes,11,0,$54.07,20,137,48,3,0,No,No
+CUST-0445,2026-02-24,43,"$22,000",At Risk,Ontario,Display Ads,Discount Offer,1,No,No,6,3,$93.92,15,160,54,5,61,No,No
+CUST-0446,2026-03-31,54,"$56,931",Loyal,Other,Email,Retargeting,2,Yes,No,7,6,$78.06,0,1,74,6,26,No,Yes
+CUST-0447,2026-03-31,32,"$73,325",At Risk,Quebec,Social Media,Discount Offer,7,No,No,9,2,$71.47,15,133,0,6,52,Yes,No
+CUST-0448,2026-01-18,34,"$58,350",At Risk,British Columbia,Social Media,Brand Awareness,4,Yes,No,5,1,$74.93,0,102,56,5,33,No,No
+CUST-0449,2026-04-01,34,"$44,398",Returning,Alberta,Social Media,Brand Awareness,3,No,Yes,14,4,$97.11,15,52,39,8,48,No,Yes
+CUST-0450,2026-04-13,18,"$77,922",New,Other,Social Media,Brand Awareness,3,No,Yes,6,3,$81.09,25,44,23,6,22,No,No
+CUST-0451,2026-01-07,29,"$69,998",New,Alberta,Social Media,Discount Offer,4,Yes,Yes,8,1,$58.92,15,66,30,7,96,No,Yes
+CUST-0452,2026-04-22,47,"$64,692",Returning,Quebec,Email,Discount Offer,3,No,No,9,3,$116.18,20,49,33,7,80,No,No
+CUST-0453,2026-01-17,41,"$58,854",Returning,Ontario,Display Ads,Brand Awareness,5,No,No,2,0,$132.33,20,87,77,7,4,No,No
+CUST-0454,2026-04-25,35,"$34,327",Returning,Alberta,Display Ads,New Product,7,Yes,No,6,4,$46.21,30,14,81,7,25,No,Yes
+CUST-0455,2026-04-20,60,"$77,848",At Risk,Ontario,Email,New Product,4,Yes,Yes,10,0,$151.00,15,89,25,4,62,Yes,Yes
+CUST-0456,2026-02-07,48,"$36,271",Loyal,Quebec,Social Media,Brand Awareness,5,Yes,Yes,9,9,$168.44,0,35,81,7,60,No,Yes
+CUST-0457,2026-03-31,18,"$43,597",New,British Columbia,Display Ads,Discount Offer,1,No,Yes,8,0,$25.00,25,56,46,4,100,No,No
+CUST-0458,2026-01-23,47,"$77,942",Returning,Ontario,SMS,Discount Offer,1,No,Yes,9,2,$120.55,15,36,60,7,18,Yes,Yes
+CUST-0459,2026-03-31,49,"$71,451",Returning,Alberta,Search Ads,New Product,3,No,Yes,7,1,$138.61,5,53,89,5,45,No,Yes
+CUST-0460,2026-01-15,51,"$47,074",Loyal,Alberta,Search Ads,Discount Offer,3,Yes,No,1,9,$28.81,25,12,89,7,45,No,No
+CUST-0461,2026-03-28,33,"$46,744",Loyal,Other,SMS,Retargeting,2,No,Yes,8,10,$74.90,20,22,63,8,56,Yes,Yes
+CUST-0462,2026-03-12,59,"$65,637",New,Quebec,Display Ads,Retargeting,3,No,No,0,0,$122.30,20,71,32,7,31,No,No
+CUST-0463,2026-03-23,26,"$56,274",Loyal,Quebec,Search Ads,Discount Offer,1,No,No,0,8,$68.12,10,28,79,8,11,No,Yes
+CUST-0464,2026-03-26,35,"$59,231",Returning,Ontario,Social Media,New Product,3,No,Yes,14,5,$66.11,30,9,38,5,92,Yes,Yes
+CUST-0465,2026-03-24,24,"$82,675",Returning,Other,Email,New Product,1,Yes,Yes,9,6,$92.39,5,14,100,6,45,Yes,Yes
+CUST-0466,2026-03-12,70,"$110,348",Returning,Quebec,SMS,Brand Awareness,5,No,No,6,5,$100.62,0,22,41,5,59,Yes,Yes
+CUST-0467,2026-04-18,23,"$57,722",New,Alberta,Email,Discount Offer,4,No,No,8,0,$140.34,25,56,36,5,33,No,No
+CUST-0468,2026-04-27,31,"$69,246",Loyal,Ontario,Search Ads,Retargeting,1,No,No,3,7,$43.13,0,26,88,9,45,No,No
+CUST-0469,2026-02-14,42,"$42,217",New,Other,Email,Discount Offer,5,No,No,2,5,$85.81,30,35,24,5,48,No,No
+CUST-0470,2026-01-12,33,"$41,133",New,Other,Search Ads,Discount Offer,2,Yes,Yes,11,0,$27.97,20,88,39,8,58,No,Yes
+CUST-0471,2026-04-24,34,"$44,583",Loyal,Quebec,Social Media,New Product,3,Yes,Yes,6,3,$94.68,30,15,83,7,54,No,Yes
+CUST-0472,2026-01-04,30,"$52,033",Returning,Quebec,Email,Discount Offer,1,No,No,10,8,$25.38,20,22,83,5,0,No,Yes
+CUST-0473,2026-03-09,42,"$40,280",New,Ontario,Email,New Product,5,Yes,No,7,0,$53.36,20,64,6,5,33,No,No
+CUST-0474,2026-02-11,20,"$48,949",At Risk,British Columbia,Display Ads,New Product,2,No,No,1,2,$91.16,15,21,30,4,47,No,No
+CUST-0475,2026-02-14,38,"$66,545",New,Quebec,Display Ads,Discount Offer,2,No,Yes,11,1,$82.75,10,5,39,5,51,No,Yes
+CUST-0476,2026-04-26,28,"$55,377",Returning,British Columbia,Social Media,New Product,7,Yes,Yes,6,5,$98.15,30,46,58,6,85,Yes,Yes
+CUST-0477,2026-01-19,40,"$73,031",New,Ontario,Search Ads,Retargeting,1,Yes,Yes,11,2,$41.58,10,21,24,3,32,No,No
+CUST-0478,2026-03-24,34,,Returning,Ontario,Social Media,New Product,1,No,No,7,3,$100.21,10,17,60,5,46,Yes,No
+CUST-0479,2026-01-29,39,"$70,528",At Risk,Ontario,Email,Discount Offer,4,Yes,Yes,9,2,$47.28,25,84,44,6,63,No,No
+CUST-0480,2026-02-27,28,"$77,901",Returning,Quebec,Email,Discount Offer,1,No,No,7,5,$115.44,25,38,87,7,46,No,Yes
+CUST-0481,2026-01-14,49,"$80,825",Returning,Quebec,Email,New Product,2,Yes,Yes,12,3,$56.88,10,40,66,7,71,No,Yes
+CUST-0482,2026-03-23,19,"$22,000",New,Ontario,Email,Discount Offer,4,Yes,No,5,0,$35.69,15,66,15,5,42,No,No
+CUST-0483,2026-03-28,21,"$41,635",New,British Columbia,Social Media,New Product,2,Yes,Yes,13,1,$104.89,15,52,36,5,65,Yes,No
+CUST-0484,2026-02-14,46,"$82,460",Returning,Alberta,Email,New Product,4,Yes,Yes,6,2,$73.07,5,32,59,6,48,No,No
+CUST-0485,2026-01-19,27,"$60,829",Returning,Ontario,Email,Brand Awareness,6,No,No,9,0,$71.22,25,28,38,7,55,Yes,Yes
+CUST-0486,2026-03-17,47,"$90,339",Loyal,Ontario,Social Media,Discount Offer,4,No,No,6,9,$66.45,30,1,88,8,73,Yes,Yes
+CUST-0487,2026-03-04,48,"$61,279",New,Ontario,Social Media,Brand Awareness,1,No,No,6,0,$175.29,15,62,31,5,32,No,No
+CUST-0488,2026-01-19,52,"$63,200",New,Quebec,Email,Discount Offer,3,Yes,No,4,0,$85.99,25,72,0,6,0,No,No
+CUST-0489,2026-01-18,26,"$71,587",New,Quebec,Email,New Product,6,No,No,0,3,$111.86,10,60,27,6,0,No,No
+CUST-0490,2026-03-01,47,"$65,706",Returning,Ontario,Social Media,New Product,5,No,No,0,7,$69.65,15,40,52,6,44,No,No
+CUST-0491,2026-03-01,35,"$64,785",Returning,Quebec,SMS,Retargeting,2,Yes,No,3,5,$118.34,20,40,54,7,32,No,No
+CUST-0492,2026-03-13,47,"$44,715",New,Alberta,Email,Brand Awareness,3,Yes,No,6,0,$89.71,25,25,26,6,8,No,No
+CUST-0493,2026-02-20,29,"$62,461",Loyal,Ontario,Display Ads,Discount Offer,4,No,No,4,8,$86.18,30,1,80,8,44,No,Yes
+CUST-0494,2026-01-26,46,"$77,520",At Risk,Alberta,Display Ads,New Product,5,No,No,0,0,$112.53,5,119,47,5,68,No,No
+CUST-0495,2026-02-15,33,"$93,621",At Risk,British Columbia,Social Media,New Product,3,No,No,3,4,$105.21,20,70,41,7,61,No,No
+CUST-0496,2026-04-11,27,"$27,459",New,Ontario,SMS,Retargeting,4,No,No,4,0,$119.18,10,63,24,5,0,No,No
+CUST-0497,2026-01-04,43,"$54,812",At Risk,Ontario,Search Ads,New Product,5,No,No,9,0,$64.73,10,92,14,4,6,Yes,No
+CUST-0498,2026-04-19,26,"$67,354",New,Quebec,SMS,Retargeting,4,No,No,4,0,,15,41,35,5,69,No,No
+CUST-0499,2026-01-04,44,,Loyal,Ontario,Email,Discount Offer,4,Yes,Yes,5,5,$77.26,15,43,81,7,3,Yes,Yes
+CUST-0500,2026-04-20,34,"$54,740",Loyal,Ontario,Display Ads,New Product,2,No,Yes,13,11,$57.22,30,1,88,10,21,No,Yes
+CUST-0501,2026-02-06,37,"$83,198",Returning,Ontario,Email,Retargeting,4,Yes,Yes,9,6,$158.59,10,41,67,6,39,No,Yes
+CUST-0502,2026-04-29,33,"$23,645",At Risk,Quebec,Social Media,Discount Offer,2,No,Yes,4,2,$65.34,15,89,17,7,84,No,No
+CUST-0503,2026-03-05,41,"$57,868",Returning,Quebec,Display Ads,Brand Awareness,5,Yes,Yes,5,1,$56.28,0,55,47,8,67,Yes,Yes
+CUST-0504,2026-03-12,30,"$43,054",Returning,Other,Display Ads,Discount Offer,7,No,No,6,6,$37.46,10,11,59,6,49,No,Yes
+CUST-0505,2026-01-24,18,"$79,832",At Risk,Ontario,Social Media,New Product,5,No,Yes,12,2,$29.38,20,28,12,7,64,Yes,Yes
+CUST-0506,2026-04-10,33,"$50,283",At Risk,Ontario,SMS,New Product,6,No,No,11,4,$96.09,30,131,10,7,48,No,No
+CUST-0507,2026-01-19,56,"$73,191",At Risk,Quebec,Social Media,Discount Offer,2,No,No,8,1,$158.26,30,120,32,,72,No,Yes
+CUST-0508,2026-01-24,39,"$85,597",Loyal,Ontario,SMS,Retargeting,3,Yes,No,8,12,$120.43,15,1,82,8,46,Yes,Yes
+CUST-0509,2026-04-05,20,"$55,444",New,Other,Display Ads,Retargeting,4,No,No,2,1,$58.73,0,25,57,5,51,No,No
+CUST-0510,2026-02-05,43,"$35,866",At Risk,Ontario,SMS,Retargeting,1,No,No,4,1,$164.08,15,93,0,5,44,No,Yes
+CUST-0511,2026-03-23,38,"$89,524",Returning,British Columbia,Social Media,New Product,2,No,No,0,6,$128.75,10,58,34,7,63,No,No
+CUST-0512,2026-04-21,38,"$63,534",At Risk,British Columbia,Email,Discount Offer,4,Yes,Yes,13,0,$61.28,15,95,26,5,46,No,No
+CUST-0513,2026-02-17,40,"$50,531",New,Other,SMS,Retargeting,6,Yes,No,7,0,$105.81,0,54,48,7,25,No,No
+CUST-0514,2026-03-19,37,"$58,443",Returning,Ontario,Email,Brand Awareness,3,Yes,No,7,2,$111.70,0,27,60,7,85,Yes,Yes
+CUST-0515,2026-04-04,26,"$48,523",Loyal,British Columbia,Display Ads,Retargeting,6,Yes,No,4,6,$84.42,0,1,100,7,0,No,Yes
+CUST-0516,2026-04-23,21,"$57,462",Returning,Quebec,Email,New Product,1,Yes,Yes,9,2,$54.24,10,72,59,8,75,No,Yes
+CUST-0517,2026-02-23,34,"$86,745",New,Quebec,Social Media,Discount Offer,5,No,Yes,15,0,$98.13,20,102,42,7,61,Yes,Yes
+CUST-0518,2026-04-21,46,"$82,627",At Risk,Ontario,Email,New Product,5,No,No,7,1,$97.09,30,119,33,4,0,Yes,No
+CUST-0519,2026-02-07,28,"$76,901",New,Ontario,Search Ads,Discount Offer,2,Yes,No,9,3,$126.86,25,33,47,5,55,No,No
+CUST-0520,2026-02-13,31,"$27,967",Loyal,Alberta,Search Ads,New Product,4,No,No,5,6,$81.04,5,1,80,9,38,Yes,Yes
+CUST-0521,2026-01-16,23,"$59,023",,Ontario,SMS,New Product,4,Yes,No,0,6,$46.41,15,3,55,6,35,No,Yes
+CUST-0522,2026-03-04,29,"$63,312",New,Ontario,SMS,Brand Awareness,5,Yes,Yes,12,2,$36.53,0,44,32,7,24,No,No
+CUST-0523,2026-02-15,45,"$64,390",At Risk,British Columbia,Search Ads,New Product,4,Yes,No,2,3,$55.34,15,84,30,6,55,No,No
+CUST-0524,2026-04-23,37,"$46,404",New,Ontario,Email,New Product,3,Yes,No,0,1,$73.43,0,88,24,5,80,No,No
+CUST-0525,2026-01-27,54,"$52,297",New,Alberta,Search Ads,Discount Offer,4,No,Yes,13,0,$104.72,30,74,16,6,42,No,No
+CUST-0526,2026-04-23,55,"$70,107",Returning,Ontario,Search Ads,Discount Offer,1,No,No,3,6,$52.30,25,17,66,6,43,Yes,No
+CUST-0527,2026-04-24,39,"$39,139",Returning,Quebec,Email,Discount Offer,6,Yes,No,3,7,$128.81,25,10,58,7,60,No,No
+CUST-0528,2026-03-22,25,"$77,301",Returning,Quebec,Search Ads,Retargeting,2,Yes,No,6,4,$140.75,0,26,71,6,36,Yes,Yes
+CUST-0529,2026-02-17,54,"$56,012",New,Other,Social Media,Discount Offer,1,Yes,Yes,16,0,$66.75,15,1,26,7,39,No,Yes
+CUST-0530,2026-02-21,28,"$69,667",At Risk,Ontario,Email,Retargeting,7,Yes,No,3,2,$80.83,30,111,28,5,41,No,Yes
+CUST-0531,2026-01-03,18,"$60,961",New,British Columbia,Email,Retargeting,2,Yes,Yes,9,0,$123.85,15,68,41,8,34,No,Yes
+CUST-0532,2026-02-27,47,"$52,252",At Risk,Ontario,Search Ads,New Product,4,Yes,Yes,11,3,$56.25,0,91,52,5,77,No,Yes
+CUST-0533,2026-04-18,31,"$83,872",New,Quebec,Social Media,Brand Awareness,3,Yes,No,6,0,$128.57,15,91,30,6,33,No,No
+CUST-0534,2026-01-11,40,"$99,345",New,Ontario,Social Media,Discount Offer,2,No,Yes,15,1,$144.27,20,36,53,5,75,No,No
+CUST-0535,2026-02-07,35,"$54,108",New,Quebec,Email,Discount Offer,4,Yes,No,9,4,$33.57,20,51,34,4,27,No,No
+CUST-0536,2026-03-09,43,,Returning,Quebec,Display Ads,Discount Offer,2,Yes,No,7,0,$58.00,20,58,87,6,33,Yes,No
+CUST-0537,2026-02-06,18,"$43,022",New,Other,Social Media,Discount Offer,4,No,Yes,9,2,$114.71,10,60,15,4,58,No,No
+CUST-0538,2026-03-17,48,"$40,508",Returning,Quebec,Search Ads,Discount Offer,1,Yes,Yes,10,4,$98.65,10,44,40,7,22,No,No
+CUST-0539,2026-02-11,57,"$54,519",Returning,Ontario,SMS,Discount Offer,4,No,No,7,5,$113.97,20,41,55,6,40,No,Yes
+CUST-0540,2026-04-11,38,"$45,703",Returning,British Columbia,Display Ads,New Product,4,Yes,No,2,4,$99.84,25,53,38,8,18,No,Yes
+CUST-0541,2026-03-09,56,"$94,353",Loyal,Alberta,Email,Retargeting,4,Yes,No,2,11,$43.49,5,6,87,8,38,Yes,Yes
+CUST-0542,2026-03-22,28,"$51,880",At Risk,Quebec,SMS,Discount Offer,3,No,No,9,5,$80.29,25,138,25,7,3,No,No
+CUST-0543,2026-03-25,47,"$94,507",Loyal,Ontario,Social Media,New Product,1,No,Yes,9,9,$125.67,30,37,92,8,45,No,Yes
+CUST-0544,2026-01-23,30,"$103,693",Loyal,British Columbia,Social Media,Retargeting,4,No,No,0,7,$47.71,25,44,90,8,55,Yes,Yes
+CUST-0545,2026-03-22,36,"$76,454",Returning,British Columbia,Email,Retargeting,5,Yes,Yes,11,4,$78.85,15,80,74,7,50,No,No
+CUST-0546,2026-02-04,40,"$23,420",New,Ontario,Social Media,Brand Awareness,4,No,No,10,2,$125.16,5,41,47,6,69,No,No
+CUST-0547,2026-03-24,33,"$70,131",Loyal,Quebec,Email,New Product,5,Yes,No,0,8,$93.76,30,12,74,8,0,Yes,No
+CUST-0548,2026-03-26,22,"$66,300",Loyal,Alberta,Social Media,Retargeting,2,Yes,No,4,10,$104.51,25,20,71,7,41,No,Yes
+CUST-0549,2026-04-04,56,"$69,219",Returning,Ontario,Display Ads,New Product,2,Yes,No,8,3,$125.51,5,35,42,6,22,No,No
+CUST-0550,2026-03-09,42,"$47,502",Returning,British Columbia,Social Media,Discount Offer,8,No,No,3,1,$78.40,15,6,49,7,67,No,Yes
+CUST-0551,2026-02-25,53,"$98,180",New,Other,Social Media,Retargeting,3,Yes,No,6,0,$101.00,5,50,37,7,59,No,Yes
+CUST-0552,2026-03-28,38,"$95,408",Loyal,Quebec,Social Media,Discount Offer,1,No,No,5,5,$41.61,15,38,75,7,100,Yes,Yes
+CUST-0553,2026-01-06,44,"$42,411",New,British Columbia,Social Media,New Product,4,Yes,No,5,0,$43.10,20,87,23,5,76,No,Yes
+CUST-0554,2026-01-21,27,"$69,912",Loyal,Ontario,Social Media,New Product,4,No,No,4,9,$134.34,30,52,97,7,84,No,Yes
+CUST-0555,2026-01-15,27,"$42,684",Returning,Other,Social Media,New Product,3,No,No,4,7,$27.94,15,8,33,7,34,No,No
+CUST-0556,2026-02-17,52,"$58,727",Returning,Ontario,Search Ads,Discount Offer,6,Yes,No,3,3,$46.31,20,81,64,7,43,No,Yes
+CUST-0557,2026-02-14,32,"$77,722",Loyal,Ontario,Social Media,New Product,5,No,No,5,7,$99.56,25,6,87,7,62,No,No
+CUST-0558,2026-02-21,49,"$55,844",Loyal,British Columbia,Display Ads,New Product,2,Yes,Yes,10,8,$36.45,15,1,59,8,25,Yes,Yes
+CUST-0559,2026-04-06,52,"$78,134",Loyal,Alberta,Display Ads,New Product,3,Yes,Yes,10,9,$31.94,25,7,86,7,5,Yes,Yes
+CUST-0560,2026-04-02,41,"$72,203",New,Ontario,Social Media,Discount Offer,6,Yes,Yes,9,0,$84.82,15,82,35,6,58,No,No
+CUST-0561,2026-02-14,25,"$67,627",Returning,Quebec,Social Media,New Product,3,No,Yes,15,3,$64.00,25,46,70,5,75,No,Yes
+CUST-0562,2026-01-17,35,"$61,662",Returning,Quebec,Display Ads,New Product,1,Yes,No,2,2,$34.32,30,55,75,7,25,No,Yes
+CUST-0563,2026-03-23,38,"$72,716",Returning,Ontario,Email,Discount Offer,3,No,No,13,3,$59.08,20,28,48,6,35,No,No
+CUST-0564,2026-02-23,42,"$50,743",Returning,Quebec,Display Ads,New Product,6,No,No,6,3,$70.98,10,63,59,5,37,No,No
+CUST-0565,2026-02-19,33,"$35,545",Returning,British Columbia,Email,Retargeting,5,No,No,7,3,$75.23,15,66,44,4,71,No,No
+CUST-0566,2026-03-24,40,"$90,037",New,Alberta,Social Media,Discount Offer,1,No,No,3,2,$115.80,20,39,28,5,64,No,Yes
+CUST-0567,2026-03-19,29,"$50,001",At Risk,Quebec,Email,Retargeting,4,No,No,5,6,$79.05,0,107,0,6,23,No,No
+CUST-0568,2026-04-12,35,"$60,972",Returning,Ontario,Search Ads,New Product,5,No,No,0,0,$81.71,15,37,51,8,11,No,Yes
+CUST-0569,2026-01-05,44,"$81,823",Returning,Alberta,SMS,Discount Offer,6,Yes,No,7,2,$95.12,20,26,46,6,47,Yes,No
+CUST-0570,2026-01-19,43,"$76,549",New,Ontario,Social Media,Discount Offer,5,No,No,4,0,$102.41,25,72,48,7,48,No,No
+CUST-0571,2026-03-27,61,"$59,919",Loyal,Quebec,SMS,Brand Awareness,7,Yes,Yes,12,11,$51.23,15,14,65,6,16,Yes,No
+CUST-0572,2026-01-05,39,"$51,622",New,Alberta,Email,Retargeting,5,No,No,0,2,$137.37,30,24,45,4,71,No,Yes
+CUST-0573,2026-01-23,26,"$77,998",New,Quebec,Search Ads,Brand Awareness,5,No,No,8,1,$92.54,25,68,48,9,51,No,Yes
+CUST-0574,2026-02-26,31,"$40,423",New,Alberta,Email,Discount Offer,2,No,No,7,1,$37.52,10,33,38,6,44,No,Yes
+CUST-0575,2026-01-23,33,"$70,927",New,Quebec,Social Media,New Product,6,No,Yes,11,0,$47.24,30,31,34,6,49,No,Yes
+CUST-0576,2026-01-13,28,"$63,884",Loyal,Quebec,Email,Discount Offer,2,Yes,Yes,9,10,$73.01,30,1,81,9,75,No,No
+CUST-0577,2026-01-22,21,"$72,955",Returning,Alberta,Email,Retargeting,4,Yes,No,8,5,$108.00,20,43,78,7,54,No,No
+CUST-0578,2026-03-14,32,"$53,792",At Risk,British Columbia,SMS,Retargeting,4,No,No,2,3,$59.13,5,81,51,5,25,No,No
+CUST-0579,2026-04-05,20,"$80,551",Returning,Ontario,SMS,Retargeting,7,Yes,No,4,4,$146.94,10,37,55,6,51,No,Yes
+CUST-0580,2026-01-08,41,"$87,385",At Risk,Ontario,Email,Discount Offer,1,No,No,5,5,$110.60,30,90,19,6,39,Yes,No
+CUST-0581,2026-03-09,36,"$82,845",At Risk,Ontario,Email,Brand Awareness,2,Yes,Yes,12,0,$69.68,20,110,35,3,25,No,No
+CUST-0582,2026-04-06,35,"$50,757",Loyal,British Columbia,Display Ads,Brand Awareness,5,No,No,4,8,$111.37,5,1,85,7,11,Yes,No
+CUST-0583,2026-04-05,48,"$86,338",Returning,Alberta,Display Ads,Retargeting,9,No,No,8,9,$93.11,30,47,34,5,43,No,Yes
+CUST-0584,2026-01-24,50,"$77,387",New,Quebec,Email,Retargeting,1,No,Yes,5,1,$55.00,10,1,41,7,41,No,No
+CUST-0585,2026-03-15,30,"$84,769",Loyal,Quebec,Display Ads,Discount Offer,3,No,Yes,7,7,$112.87,15,8,70,6,50,No,No
+CUST-0586,2026-01-30,52,"$40,335",Returning,Ontario,Email,Discount Offer,5,No,Yes,10,0,$55.44,30,66,49,7,54,No,No
+CUST-0587,2026-03-06,40,"$82,179",New,Quebec,Display Ads,Retargeting,2,No,No,7,0,$119.87,15,63,57,5,35,No,No
+CUST-0588,2026-04-20,37,"$50,935",Loyal,Quebec,Email,Brand Awareness,3,Yes,No,2,8,$49.92,10,1,80,9,44,Yes,Yes
+CUST-0589,2026-01-20,31,"$76,572",New,British Columbia,SMS,Discount Offer,3,No,No,0,6,$100.61,25,44,41,6,70,No,Yes
+CUST-0590,2026-02-21,34,"$63,169",Returning,British Columbia,Email,Discount Offer,1,Yes,Yes,7,7,$73.81,25,1,81,7,36,Yes,Yes
+CUST-0591,2026-01-15,45,"$52,652",Returning,Ontario,Display Ads,Retargeting,7,No,Yes,11,4,$26.19,5,37,60,7,36,No,No
+CUST-0592,2026-04-14,25,"$67,049",At Risk,Alberta,Social Media,Retargeting,6,No,Yes,9,0,$60.04,20,89,24,3,57,No,No
+CUST-0593,2026-04-05,35,"$63,394",New,Alberta,Social Media,Discount Offer,4,Yes,Yes,8,0,$65.55,30,24,31,9,55,No,No
+CUST-0594,2026-03-21,63,"$72,209",Returning,Ontario,Email,Discount Offer,4,No,Yes,9,6,$92.83,20,4,39,6,30,Yes,Yes
+CUST-0595,2026-01-30,19,"$75,416",Loyal,Ontario,Social Media,Retargeting,4,No,No,7,7,$95.44,30,2,96,9,55,Yes,No
+CUST-0596,2026-02-15,18,"$67,370",Loyal,Ontario,Email,New Product,3,Yes,No,12,6,$114.58,20,58,91,10,42,No,Yes
+CUST-0597,2026-03-20,40,"$67,292",Returning,Quebec,Email,New Product,1,No,No,5,5,$66.87,30,4,38,5,42,No,No
+CUST-0598,2026-01-08,31,"$64,061",At Risk,Quebec,Social Media,New Product,4,No,No,2,5,$82.36,25,104,18,5,80,No,No
+CUST-0599,2026-03-28,46,"$81,442",New,Other,SMS,Retargeting,3,No,No,6,1,$126.09,5,68,32,6,34,No,Yes
+CUST-0600,2026-01-06,21,,Loyal,Ontario,Email,Discount Offer,6,Yes,No,7,7,$107.61,25,46,100,8,6,No,Yes
+CUST-0021,2026-04-09,32,"$83,350",Loyal,Alberta,Social Media,Retargeting,3,Yes,No,0,7,$83.78,30,19,94,8,70,No,Yes
+CUST-0146,2026-03-14,37,"$23,927",Loyal,Other,Display Ads,New Product,3,No,No,13,5,$82.43,10,33,89,6,46,No,No
+CUST-0323,2026-02-26,34,"$44,103",At Risk,Alberta,Social Media,Discount Offer,3,No,No,0,5,$25.00,15,136,51,4,62,No,No
+CUST-0451,2026-01-07,29,"$69,998",New,Alberta,Social Media,Discount Offer,4,Yes,Yes,8,1,$58.92,15,66,30,7,96,No,Yes
+CUST-0511,2026-03-23,38,"$89,524",Returning,British Columbia,Social Media,New Product,2,No,No,0,6,$128.75,10,58,34,7,63,No,No
