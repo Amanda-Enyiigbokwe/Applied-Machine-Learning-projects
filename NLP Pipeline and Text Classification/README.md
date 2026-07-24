@@ -46,7 +46,7 @@ Preprocessing pipeline: lowercase normalization; removal of URLs, hashtags, digi
 
 All metrics are reported on the held-out test set for the final Logistic Regression model. The confusion matrix is diagonal: 8/8 Negative, 8/8 Neutral, and 8/8 Positive reviews were correctly classified.
 
-**Note:** The headline accuracy of 100% is not a realistic estimate of performance on live customer reviews. It reflects three properties of the supplied dataset rather than the strength of the model: the corpus is small (120 rows), it is synthetic and templated (several reviews are near-duplicates of one another — e.g. *"The website checkout was simple. I may buy again if the price is lower next time."* appears multiple times), and the classes are perfectly balanced and lexically separable. Cross-validation and a larger, more diverse corpus would be required before any deployment claim.
+**Note:** The headline accuracy of 100% is not a realistic estimate of performance on live customer reviews. It reflects three properties of the supplied dataset rather than the strength of the model: the corpus is small (120 rows), it is synthetic and templated (several reviews are near-duplicates of one another e.g. *"The website checkout was simple. I may buy again if the price is lower next time."* appears multiple times), and the classes are perfectly balanced and lexically separable. Cross-validation and a larger, more diverse corpus would be required before any deployment claim.
 
 ## Main Business Interpretation
 
