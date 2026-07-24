@@ -1,0 +1,265 @@
+﻿Lead_ID,Lead_Date,Lead_Source,Industry,Region,Company_Size,Employee_Count,Annual_Revenue_Estimate,Use_Case,Website_Visits_30D,Email_Open_Rate,Sales_Calls_Count,Demo_Requested,Proposal_Sent,Budget_Confirmed,Decision_Maker_Involved,Competitor_Considered,Discount_Offered_Percent,Days_In_Pipeline,Estimated_Deal_Value,Lead_Score,Sales_Rep,Deal_Won
+L0001,2026-04-08,Webinar,Retail,Ontario,Small,13,"$2,185,044",Marketing Automation,1,28%,1,No,No,Yes,No,No,0.4,29,"$1,500",40,Rep D,No
+L0002,2026-02-04,Google Search,Retail,Ontario,Large,873,"$17,882,397",Marketing Automation,11,21%,5,Yes,Yes,Yes,Yes,Yes,17.0,41,"$60,925",79,Rep C,Yes
+L0003,2026-02-01,Email Campaign,Technology,Ontario,Medium,235,"$9,671,758",Customer Analytics,14,35%,1,Yes,No,No,Yes,No,11.6,1,"$16,408",66,Rep C,Yes
+L0004,2026-04-09,Email Campaign,Manufacturing,Alberta,Medium,88,"$12,313,739",Customer Analytics,18,49%,0,No,No,Yes,No,No,5.2,20,"$8,580",43,Rep C,No
+L0005,2026-01-31,Email Campaign,Retail,Quebec,Medium,220,"$11,200,203",Workflow Automation,10,31%,1,No,No,No,No,No,10.1,31,"$22,890",32,Rep E,No
+L0006,2026-02-13,LinkedIn Ads,Hospitality,Prairies,Small,43,"$2,524,946",CRM Automation,12,20%,2,No,Yes,Yes,No,No,14.0,9,"$2,058",61,Rep C,Yes
+L0007,2026-03-28,LinkedIn Ads,Manufacturing,British Columbia,Small,23,"$466,003",CRM Automation,8,38%,4,No,Yes,No,Yes,Yes,13.4,21,"$1,618",53,Rep D,No
+L0008,2026-04-21,Email Campaign,Technology,Ontario,Large,713,"$43,145,646",CRM Automation,21,27%,5,Yes,Yes,Yes,Yes,Yes,6.8,49,"$52,355",84,Rep E,Yes
+L0009,2026-04-19,Referral,Retail,Quebec,Enterprise,6885,"$298,623,395",Marketing Automation,22,40%,4,Yes,Yes,Yes,Yes,Yes,22.7,61,"$305,855",90,Rep B,Yes
+L0010,2026-01-13,Google Search,Manufacturing,British Columbia,Small,34,"$1,368,365",Workflow Automation,0,26%,2,No,Yes,No,Yes,No,15.6,23,"$2,372",47,Rep A,No
+L0011,2026-03-29,LinkedIn Ads,Healthcare,Ontario,Enterprise,6357,"$208,522,356",Workflow Automation,17,27%,0,Yes,No,Yes,No,No,9.1,44,"$346,313",63,Rep E,Yes
+L0012,2026-04-26,Webinar,Healthcare,Quebec,Large,508,"$14,461,160",CRM Automation,19,21%,3,Yes,Yes,No,No,No,8.3,33,"$29,528",66,Rep E,Yes
+L0013,2026-01-14,Organic Website,Professional Services,Ontario,Small,55,"$2,064,248",Marketing Automation,18,2%,3,Yes,Yes,Yes,No,No,0.0,37,"$3,153",73,Rep D,Yes
+L0014,2026-02-25,Referral,Retail,Quebec,Small,29,"$1,105,339",Customer Analytics,12,37%,1,No,No,No,Yes,No,4.1,36,"$1,660",61,Rep E,Yes
+L0015,2026-03-31,Google Search,Technology,Quebec,Enterprise,6893,"$255,931,923",Workflow Automation,35,23%,4,No,No,No,No,Yes,26.0,60,"$579,518",27,Rep A,No
+L0016,2026-02-12,Google Search,Retail,Quebec,Enterprise,2721,"$181,274,557",Workflow Automation,18,39%,3,Yes,Yes,Yes,No,No,8.4,41,"$205,005",81,Rep D,Yes
+L0017,2026-03-01,LinkedIn Ads,Professional Services,Ontario,Small,12,"$509,258",CRM Automation,0,21%,0,Yes,No,No,No,No,11.4,24,"$1,500",33,Rep E,No
+L0018,2026-02-12,LinkedIn Ads,Healthcare,Atlantic Canada,Medium,189,"$13,294,743",Marketing Automation,10,34%,3,No,No,Yes,No,No,3.8,23,"$16,325",50,Rep E,Yes
+L0019,2026-04-05,Google Search,Manufacturing,Ontario,Small,34,"$540,126",Marketing Automation,0,46%,2,No,No,No,No,Yes,15.7,13,"$3,206",23,Rep D,No
+L0020,2026-04-23,Webinar,Manufacturing,Ontario,Small,61,"$1,831,560",CRM Automation,15,37%,3,No,Yes,Yes,No,Yes,12.3,32,"$4,242",59,Rep C,Yes
+L0021,2026-01-15,Referral,Technology,Alberta,Small,57,"$2,707,331",CRM Automation,11,36%,3,Yes,Yes,,Yes,No,8.4,23,"$4,529",79,Rep A,Yes
+L0022,2026-03-04,Email Campaign,Retail,Ontario,Medium,220,"$8,025,048",Sales Forecasting,12,20%,1,No,No,Yes,No,No,0.0,38,"$8,980",45,Rep E,No
+L0023,2026-03-04,LinkedIn Ads,Professional Services,British Columbia,Large,716,"$34,127,612",Sales Forecasting,23,14%,3,No,Yes,Yes,No,No,11.4,33,"$56,645",63,Rep D,Yes
+L0024,2026-02-12,Google Search,Technology,Quebec,Large,808,"$23,195,135",Customer Analytics,16,12%,1,Yes,Yes,No,Yes,No,8.5,24,"$59,667",76,Rep D,Yes
+L0025,2026-01-17,Referral,Education,Ontario,Small,38,"$2,312,092",Customer Analytics,15,36%,2,Yes,Yes,Yes,Yes,No,10.3,18,"$2,886",98,Rep D,Yes
+L0026,2026-03-08,Webinar,Technology,Ontario,Small,38,"$1,980,194",Sales Forecasting,6,42%,1,Yes,Yes,Yes,No,Yes,14.8,34,"$3,473",55,Rep B,Yes
+L0027,2026-04-29,Referral,Professional Services,Ontario,Medium,220,"$15,040,017",Sales Forecasting,12,32%,2,Yes,Yes,No,Yes,Yes,17.8,28,"$15,292",67,Rep C,Yes
+L0028,2026-03-19,Google Search,Technology,British Columbia,Large,409,"$25,063,361",CRM Automation,10,16%,5,No,Yes,Yes,Yes,No,5.4,24,"$45,005",76,Rep A,Yes
+L0029,2026-04-15,Google Search,Retail,Prairies,Large,1178,"$14,915,626",Workflow Automation,23,48%,2,Yes,Yes,Yes,No,No,3.6,30,"$74,188",88,Rep C,No
+L0030,2026-02-09,Email Campaign,Retail,Ontario,Small,11,"$2,436,531",Marketing Automation,2,20%,1,No,Yes,Yes,No,No,8.6,39,"$1,500",51,Rep A,No
+L0031,2026-04-30,Webinar,Manufacturing,Ontario,Enterprise,6778,"$108,929,133",Sales Forecasting,24,65%,5,Yes,Yes,No,No,No,12.5,45,"$624,173",68,Rep E,Yes
+L0032,2026-04-12,Email Campaign,Healthcare,Ontario,Large,1021,"$42,786,467",Sales Forecasting,10,54%,7,Yes,Yes,No,Yes,Yes,5.7,22,"$71,140",74,Rep E,No
+L0033,2026-04-24,Trade Show,Professional Services,Quebec,Small,8,"$784,119",Sales Forecasting,18,4%,4,Yes,Yes,Yes,Yes,No,12.0,16,"$1,500",88,Rep C,Yes
+L0034,2026-03-21,Email Campaign,Hospitality,Ontario,Small,53,"$1,343,982",Workflow Automation,3,3%,4,No,Yes,Yes,No,No,10.5,24,"$2,392",52,Rep D,No
+L0035,2026-01-03,Email Campaign,Manufacturing,British Columbia,Small,18,"$314,641",Sales Forecasting,13,30%,4,No,Yes,No,No,Yes,14.2,24,"$1,500",45,Rep D,No
+L0036,2026-03-16,Organic Website,Technology,Ontario,Medium,133,"$14,467,075",Marketing Automation,9,23%,0,No,No,No,No,No,2.7,37,"$7,990",22,Rep D,No
+L0037,2026-01-12,Referral,Retail,Atlantic Canada,Small,61,"$2,938,852",CRM Automation,12,37%,4,Yes,Yes,No,Yes,No,1.4,17,"$5,793",80,Rep C,Yes
+L0038,2026-03-05,Trade Show,Retail,British Columbia,Medium,232,"$10,485,221",Marketing Automation,26,36%,0,Yes,Yes,No,No,No,3.8,17,"$23,549",66,Rep D,Yes
+L0039,2026-02-05,LinkedIn Ads,Healthcare,British Columbia,Small,49,"$2,917,983",Workflow Automation,0,9%,1,Yes,Yes,Yes,No,No,15.5,5,"$4,013",72,Rep B,Yes
+L0040,2026-01-15,Google Search,Retail,Atlantic Canada,Medium,204,"$2,673,239",Marketing Automation,17,15%,0,Yes,No,No,No,Yes,11.3,68,"$15,323",34,Rep D,No
+L0041,2026-03-03,Email Campaign,Retail,Ontario,Large,1003,"$17,217,060",Customer Analytics,9,35%,3,No,No,Yes,No,No,7.8,25,"$107,969",43,Rep B,Yes
+L0042,2026-04-24,Trade Show,Education,Ontario,Large,839,"$19,631,003",Workflow Automation,18,18%,3,Yes,Yes,No,Yes,No,5.6,49,"$85,759",73,Rep C,Yes
+L0043,2026-04-03,Google Search,Finance,Quebec,Medium,83,"$10,299,015",Customer Analytics,16,34%,1,No,No,No,Yes,Yes,6.9,22,"$7,367",44,Rep A,No
+L0044,2026-02-09,LinkedIn Ads,Healthcare,Ontario,Small,43,"$2,210,046",CRM Automation,0,20%,4,No,Yes,No,Yes,No,0.0,27,"$2,224",49,Rep C,No
+L0045,2026-02-04,Organic Website,Finance,Ontario,Small,34,"$2,688,647",CRM Automation,1,47%,2,Yes,Yes,Yes,No,No,1.6,20,"$2,433",74,Rep D,Yes
+L0046,2026-01-10,Google Search,Manufacturing,Quebec,Small,46,"$2,280,978",Sales Forecasting,6,40%,2,No,Yes,No,Yes,No,10.9,18,"$4,331",48,Rep D,No
+L0047,2026-01-29,,Technology,Quebec,Medium,89,"$13,017,534",Customer Analytics,17,37%,3,No,Yes,Yes,Yes,No,6.2,19,"$8,595",85,Rep A,Yes
+L0048,2026-03-21,Google Search,Retail,Quebec,Small,23,"$1,947,414",Workflow Automation,,49%,2,Yes,Yes,Yes,No,No,0.7,1,"$1,763",77,Rep C,Yes
+L0049,2026-03-25,Google Search,Professional Services,Ontario,Medium,178,"$12,764,835",Marketing Automation,24,40%,5,No,Yes,Yes,No,No,12.6,29,"$12,323",59,Rep C,No
+L0050,2026-02-19,Google Search,Manufacturing,Quebec,Enterprise,4586,"$215,701,152",Workflow Automation,33,,3,No,Yes,No,No,Yes,18.0,41,"$286,717",42,Rep C,No
+L0051,2026-03-07,Google Search,Technology,British Columbia,Large,918,"$20,600,959",Customer Analytics,26,47%,5,Yes,Yes,Yes,No,No,11.2,65,"$47,296",81,Rep E,Yes
+L0052,2026-02-22,Referral,Finance,Ontario,Small,58,"$1,144,413",Sales Forecasting,14,14%,3,No,Yes,Yes,Yes,No,9.1,25,"$2,944",72,Rep E,Yes
+L0053,2026-04-22,Referral,Technology,Prairies,Medium,180,"$13,613,081",Marketing Automation,4,64%,3,Yes,Yes,Yes,No,No,7.5,25,"$10,125",76,Rep D,Yes
+L0054,2026-01-19,Referral,Professional Services,Alberta,Medium,83,"$6,380,134",CRM Automation,19,12%,3,Yes,Yes,Yes,Yes,Yes,13.8,30,"$7,175",96,Rep A,Yes
+L0055,2026-03-15,LinkedIn Ads,Healthcare,Alberta,Medium,98,"$10,985,551",Marketing Automation,9,22%,2,Yes,Yes,No,No,Yes,12.4,40,"$7,334",47,Rep A,No
+L0056,2026-02-12,Google Search,Retail,Quebec,Medium,189,"$13,355,130",Customer Analytics,8,26%,0,No,No,Yes,No,No,9.3,21,"$17,037",32,Rep B,No
+L0057,2026-03-25,LinkedIn Ads,Finance,Ontario,Medium,177,"$11,423,241",Marketing Automation,17,55%,3,Yes,Yes,No,No,Yes,13.1,27,"$16,998",56,Rep E,Yes
+L0058,2026-01-06,Google Search,Retail,Quebec,Large,513,"$26,799,998",Workflow Automation,19,25%,1,Yes,Yes,Yes,No,Yes,10.4,38,"$48,520",67,Rep D,Yes
+L0059,2026-04-08,Email Campaign,Professional Services,British Columbia,Medium,233,"$3,729,561",Marketing Automation,19,46%,2,Yes,Yes,Yes,No,No,6.7,8,"$23,689",75,Rep D,Yes
+L0060,2026-02-10,LinkedIn Ads,Retail,Quebec,Small,43,"$369,882",Workflow Automation,6,22%,0,No,No,Yes,Yes,Yes,11.0,23,"$3,985",25,Rep B,No
+L0061,2026-02-22,Email Campaign,Technology,British Columbia,Small,15,"$3,006,787",CRM Automation,8,47%,0,No,No,Yes,No,Yes,21.0,17,"$1,500",36,Rep B,No
+L0062,2026-03-12,Trade Show,Retail,Prairies,Medium,93,,Marketing Automation,15,28%,2,Yes,Yes,No,Yes,No,10.0,41,"$5,234",69,Rep C,Yes
+L0063,2026-02-08,Google Search,Manufacturing,British Columbia,Small,65,"$2,869,539",Sales Forecasting,19,38%,5,No,Yes,Yes,No,No,13.9,47,"$4,905",68,Rep D,No
+L0064,2026-04-21,Referral,Technology,British Columbia,Small,46,"$1,929,280",CRM Automation,0,77%,1,No,No,Yes,Yes,Yes,20.2,26,"$1,991",48,Rep A,No
+L0065,2026-01-14,Webinar,Healthcare,Atlantic Canada,Small,40,"$1,599,713",Sales Forecasting,5,39%,0,Yes,No,Yes,Yes,No,11.4,32,"$2,342",58,Rep B,Yes
+L0066,2026-03-06,Referral,Hospitality,Alberta,Large,756,"$26,156,549",Customer Analytics,20,28%,6,Yes,Yes,Yes,No,Yes,15.5,67,"$45,021",79,Rep B,Yes
+L0067,2026-03-22,LinkedIn Ads,Retail,Alberta,Large,997,"$32,699,559",CRM Automation,14,22%,2,No,Yes,Yes,Yes,Yes,15.6,40,"$103,124",66,Rep C,No
+L0068,2026-04-05,LinkedIn Ads,Education,Prairies,Large,1033,"$45,723,664",Sales Forecasting,25,,8,Yes,Yes,Yes,Yes,No,10.4,21,"$108,128",98,Rep D,Yes
+L0069,2026-04-01,Email Campaign,Technology,Quebec,Medium,199,"$9,077,883",Sales Forecasting,15,9%,0,No,Yes,Yes,No,Yes,10.0,42,"$11,698",49,Rep E,Yes
+L0070,2026-03-17,Referral,Education,British Columbia,Enterprise,2199,"$194,218,050",Customer Analytics,24,50%,3,Yes,Yes,Yes,Yes,No,8.5,55,"$112,581",96,Rep D,Yes
+L0071,2026-04-30,Google Search,Retail,Atlantic Canada,Small,16,"$1,779,944",CRM Automation,0,49%,3,Yes,No,No,No,No,4.1,36,"$1,500",44,Rep B,No
+L0072,2026-02-02,LinkedIn Ads,Professional Services,Quebec,Large,821,"$28,346,729",CRM Automation,33,56%,3,Yes,Yes,No,No,Yes,30.7,51,"$46,511",62,Rep E,No
+L0073,2026-03-30,Email Campaign,Retail,Ontario,Small,40,"$3,204,725",CRM Automation,6,23%,3,Yes,Yes,Yes,No,No,11.4,16,"$1,629",79,Rep D,Yes
+L0074,2026-04-22,Google Search,Technology,Quebec,Small,26,"$1,819,576",Workflow Automation,8,38%,3,No,Yes,No,No,No,14.8,18,"$1,500",41,Rep D,No
+L0075,2026-01-03,Email Campaign,Manufacturing,British Columbia,Small,18,"$2,643,362",CRM Automation,0,39%,1,No,No,Yes,Yes,No,2.3,8,"$1,507",44,Rep E,Yes
+L0076,2026-01-18,Referral,Technology,Alberta,Medium,68,"$13,838,877",Customer Analytics,15,46%,0,No,No,No,Yes,No,1.7,19,"$6,981",52,Rep A,No
+L0077,2026-01-31,Email Campaign,Finance,Ontario,Medium,232,"$3,050,667",Marketing Automation,8,37%,2,Yes,Yes,No,No,Yes,21.5,24,"$23,398",46,Rep C,No
+L0078,2026-03-13,Google Search,Retail,Ontario,Medium,74,"$9,608,821",CRM Automation,18,31%,4,No,Yes,No,Yes,No,4.7,37,"$4,949",64,Rep D,Yes
+L0079,2026-02-01,Organic Website,Hospitality,Prairies,Medium,238,,Sales Forecasting,17,42%,2,No,Yes,No,No,No,2.3,1,"$18,141",44,Rep C,Yes
+L0080,2026-03-03,Google Search,Finance,Ontario,Medium,70,"$3,653,277",Sales Forecasting,17,53%,1,Yes,No,No,No,Yes,9.7,61,"$3,333",34,Rep B,No
+L0081,2026-03-16,Organic Website,Technology,Alberta,Medium,126,"$9,571,166",Customer Analytics,18,20%,3,No,Yes,Yes,Yes,Yes,8.4,45,"$5,172",61,Rep B,Yes
+L0082,2026-04-15,Webinar,Education,Ontario,Small,56,"$2,269,552",Workflow Automation,7,23%,2,Yes,Yes,Yes,No,No,3.4,37,"$5,294",69,Rep B,Yes
+L0083,2026-01-23,Email Campaign,Technology,Quebec,Large,922,"$45,048,871",Marketing Automation,27,20%,6,Yes,Yes,No,No,Yes,16.6,30,"$67,684",67,Rep B,No
+L0084,2026-02-25,LinkedIn Ads,Retail,Ontario,Small,37,"$1,625,954",Workflow Automation,9,52%,3,No,No,Yes,No,No,2.1,24,"$1,892",44,Rep C,No
+L0085,2026-03-14,Email Campaign,Finance,Prairies,Enterprise,1609,"$291,129,637",Workflow Automation,24,21%,1,Yes,No,Yes,Yes,Yes,19.0,58,"$166,506",59,Rep E,Yes
+L0086,2026-01-24,Google Search,Hospitality,Quebec,Large,340,"$62,129,554",Marketing Automation,20,37%,2,No,No,Yes,No,No,3.8,30,"$30,822",51,Rep B,No
+L0087,2026-01-12,Email Campaign,Technology,Ontario,Medium,99,"$7,689,019",Marketing Automation,12,37%,3,Yes,Yes,Yes,Yes,No,8.1,11,"$4,128",86,Rep D,Yes
+L0088,2026-02-08,Webinar,Technology,Atlantic Canada,Small,32,"$2,361,470",Marketing Automation,5,54%,3,Yes,Yes,Yes,Yes,Yes,18.1,21,"$1,686",71,Rep C,Yes
+L0089,2026-03-17,LinkedIn Ads,Education,Atlantic Canada,Small,46,"$1,963,922",Sales Forecasting,1,64%,3,No,Yes,No,Yes,No,7.2,27,"$2,180",47,Rep E,No
+L0090,2026-01-05,Organic Website,Healthcare,Alberta,Small,12,"$1,288,506",Workflow Automation,11,40%,2,No,Yes,Yes,No,No,10.9,1,"$1,500",55,Rep D,Yes
+L0091,2026-04-09,Trade Show,Finance,Atlantic Canada,Medium,71,"$12,290,669",CRM Automation,11,18%,2,No,Yes,Yes,No,No,0.0,9,"$4,897",55,Rep D,Yes
+L0092,2026-04-05,Email Campaign,Technology,Ontario,Enterprise,2694,"$100,137,027",Customer Analytics,20,29%,6,Yes,Yes,Yes,No,Yes,25.6,45,"$252,856",80,Rep C,No
+L0093,2026-01-15,Google Search,Healthcare,Ontario,Medium,161,"$14,034,670",Customer Analytics,18,21%,2,Yes,Yes,No,No,No,8.2,27,"$10,268",60,Rep E,Yes
+L0094,2026-01-24,Google Search,Hospitality,British Columbia,Medium,104,"$5,061,000",Marketing Automation,12,20%,1,Yes,Yes,Yes,Yes,No,6.6,10,"$5,091",85,Rep C,Yes
+L0095,2026-01-29,Referral,Manufacturing,Prairies,Enterprise,3941,"$171,068,264",CRM Automation,32,34%,4,Yes,Yes,Yes,Yes,No,17.6,32,"$307,475",98,Rep A,Yes
+L0096,2026-01-12,Google Search,Healthcare,British Columbia,Small,25,"$2,444,915",Marketing Automation,,25%,2,Yes,Yes,No,No,Yes,10.6,35,"$1,500",45,Rep C,No
+L0097,2026-01-18,Referral,Professional Services,Alberta,Small,47,"$1,720,408",Sales Forecasting,12,16%,0,No,Yes,No,Yes,No,5.4,36,"$4,629",60,Rep E,No
+L0098,2026-03-16,Organic Website,Technology,Prairies,Enterprise,5009,"$246,424,821",CRM Automation,31,46%,3,Yes,Yes,No,No,No,9.5,30,"$353,402",60,Rep E,No
+L0099,2026-01-21,LinkedIn Ads,Technology,Alberta,Large,746,"$64,690,789",Marketing Automation,17,41%,3,No,No,No,No,Yes,15.2,32,"$35,629",23,Rep C,No
+L0100,2026-02-26,Referral,Retail,Prairies,Small,31,"$2,627,074",CRM Automation,3,22%,4,No,Yes,Yes,Yes,Yes,18.2,34,"$2,436",70,Rep D,Yes
+L0101,2026-01-20,LinkedIn Ads,Technology,Alberta,Enterprise,4011,"$98,390,752",CRM Automation,28,26%,4,Yes,Yes,Yes,No,Yes,12.7,41,"$353,788",72,Rep C,Yes
+L0102,2026-02-20,Organic Website,Manufacturing,Quebec,Small,35,"$745,889",CRM Automation,8,51%,2,No,Yes,No,Yes,No,14.8,28,"$2,780",52,Rep E,Yes
+L0103,2026-04-12,Google Search,Retail,Atlantic Canada,Enterprise,3592,"$86,995,930",CRM Automation,34,,2,Yes,Yes,No,No,Yes,19.0,57,"$157,978",59,Rep C,Yes
+L0104,2026-04-29,Referral,Healthcare,Alberta,Large,320,"$43,438,607",Customer Analytics,34,21%,4,Yes,Yes,No,No,Yes,19.7,21,"$22,763",77,Rep C,Yes
+L0105,2026-03-15,Referral,Education,British Columbia,Small,18,"$822,717",Marketing Automation,0,36%,2,No,No,No,Yes,No,12.8,16,"$1,500",48,Rep D,Yes
+L0106,2026-01-29,Webinar,Manufacturing,Quebec,Small,51,"$1,058,097",CRM Automation,7,38%,2,Yes,Yes,No,Yes,No,7.4,44,"$4,406",71,Rep E,Yes
+L0107,2026-03-05,Google Search,Education,Alberta,Small,59,"$2,150,224",Customer Analytics,14,38%,1,Yes,Yes,Yes,Yes,No,17.5,17,"$4,139",93,Rep A,Yes
+L0108,2026-04-28,Organic Website,Technology,Alberta,Medium,237,"$2,817,734",CRM Automation,14,31%,0,No,Yes,Yes,Yes,No,0.0,60,"$20,443",71,Rep D,Yes
+L0109,2026-04-09,Google Search,Hospitality,Quebec,Large,846,"$49,271,917",Marketing Automation,28,39%,5,No,Yes,Yes,No,Yes,19.0,40,"$90,726",63,Rep C,Yes
+L0110,2026-02-21,Webinar,Retail,Ontario,Medium,83,"$9,504,748",Sales Forecasting,10,60%,1,No,Yes,No,No,No,5.9,32,"$7,744",44,Rep C,Yes
+L0111,2026-01-06,Trade Show,Manufacturing,British Columbia,Small,60,"$680,242",Marketing Automation,2,16%,1,No,Yes,Yes,No,No,6.1,40,"$5,634",57,Rep A,Yes
+L0112,2026-03-22,Organic Website,Retail,Prairies,Medium,130,"$13,597,713",Sales Forecasting,15,29%,1,Yes,Yes,No,Yes,Yes,13.4,38,"$12,675",69,Rep D,Yes
+L0113,2026-04-15,Organic Website,Manufacturing,Ontario,Small,32,"$2,341,877",Sales Forecasting,6,40%,4,Yes,Yes,Yes,No,No,2.7,28,"$2,646",73,Rep D,Yes
+L0114,2026-01-08,Trade Show,Technology,Alberta,Enterprise,6714,"$101,766,256",Workflow Automation,20,46%,3,Yes,Yes,No,No,No,8.5,53,"$350,174",65,Rep C,Yes
+L0115,2026-04-04,Google Search,Healthcare,British Columbia,Small,62,"$934,109",CRM Automation,13,49%,2,No,Yes,Yes,No,No,9.9,13,"$3,780",57,Rep E,No
+L0116,2026-01-14,Organic Website,Technology,Prairies,Medium,156,"$8,962,910",Workflow Automation,12,39%,4,No,No,No,No,Yes,16.1,23,"$12,439",36,Rep A,No
+L0117,2026-04-17,Organic Website,Retail,Alberta,Small,29,"$687,623",CRM Automation,10,52%,0,No,Yes,Yes,No,Yes,23.1,11,"$1,822",52,Rep E,No
+L0118,2026-01-07,Referral,Hospitality,British Columbia,Medium,78,"$7,011,267",CRM Automation,16,34%,5,No,Yes,No,No,No,13.4,7,"$6,199",64,Rep A,No
+L0119,2026-02-09,LinkedIn Ads,Healthcare,Ontario,Medium,160,"$12,674,859",Marketing Automation,15,24%,1,Yes,No,No,Yes,Yes,20.1,37,"$7,252",56,Rep D,No
+L0120,2026-02-23,Email Campaign,Education,Atlantic Canada,Small,24,"$1,817,047",Customer Analytics,8,42%,4,No,Yes,Yes,No,No,11.2,10,"$2,271",55,Rep D,No
+L0121,2026-03-18,Organic Website,Technology,Prairies,Medium,206,"$15,207,206",Customer Analytics,22,58%,0,Yes,Yes,Yes,Yes,Yes,19.8,29,"$19,254",80,Rep B,Yes
+L0122,2026-02-22,Google Search,Professional Services,Prairies,Small,8,"$1,894,541",Customer Analytics,1,29%,1,No,No,No,No,No,9.5,30,"$1,500",25,Rep B,No
+L0123,2026-04-06,Google Search,Technology,British Columbia,Medium,144,"$12,592,076",Customer Analytics,20,36%,2,Yes,No,No,No,No,12.8,10,"$7,893",41,Rep A,No
+L0124,2026-04-28,Referral,Technology,Ontario,Medium,155,"$10,411,947",CRM Automation,10,38%,1,Yes,No,No,Yes,Yes,21.5,44,"$8,713",48,Rep D,No
+L0125,2026-02-04,Referral,Healthcare,Quebec,Medium,181,"$6,938,915",Workflow Automation,11,46%,4,No,Yes,Yes,Yes,No,2.9,46,"$14,856",77,Rep B,Yes
+L0126,2026-04-18,Email Campaign,Manufacturing,Atlantic Canada,Enterprise,3502,"$255,864,145",Sales Forecasting,23,10%,3,No,Yes,Yes,Yes,No,23.5,27,"$146,752",74,Rep D,No
+L0127,2026-02-23,Trade Show,Manufacturing,British Columbia,Small,24,"$1,912,073",Sales Forecasting,6,39%,2,No,No,No,No,No,0.0,19,"$2,516",20,Rep D,No
+L0128,2026-02-15,Referral,Technology,British Columbia,Enterprise,3459,"$265,821,646",Customer Analytics,32,17%,4,Yes,Yes,Yes,No,No,10.8,46,"$218,821",97,Rep E,Yes
+L0129,2026-01-19,Google Search,Hospitality,Quebec,Large,875,"$50,254,839",Sales Forecasting,16,33%,5,No,Yes,No,Yes,No,13.2,19,"$90,780",77,Rep B,No
+L0130,2026-04-17,Google Search,Technology,Alberta,Medium,103,"$3,284,826",CRM Automation,3,33%,4,No,Yes,No,Yes,Yes,19.6,36,"$4,214",52,Rep D,No
+L0131,2026-02-21,Webinar,Retail,Ontario,Large,306,"$19,387,010",Workflow Automation,18,50%,3,Yes,Yes,No,Yes,No,1.3,34,"$36,097",82,Rep B,No
+L0132,2026-01-02,LinkedIn Ads,Healthcare,Prairies,Small,32,"$864,120",Sales Forecasting,2,18%,2,No,Yes,Yes,No,Yes,16.7,32,"$1,707",52,Rep A,No
+L0133,2026-01-12,Google Search,Technology,British Columbia,Small,15,"$614,970",CRM Automation,0,16%,4,No,Yes,Yes,No,No,0.0,17,"$1,500",48,Rep C,Yes
+L0134,2026-02-15,Organic Website,Hospitality,British Columbia,Small,26,"$681,498",Sales Forecasting,11,36%,3,No,Yes,No,Yes,No,9.0,45,"$2,161",59,Rep A,Yes
+L0135,2026-02-18,Organic Website,Professional Services,Ontario,Large,1111,"$36,728,520",Customer Analytics,22,12%,4,No,Yes,No,Yes,Yes,13.7,30,"$98,430",55,Rep B,Yes
+L0136,2026-03-03,Email Campaign,Manufacturing,Atlantic Canada,Large,910,"$19,662,135",Workflow Automation,32,33%,1,Yes,Yes,No,No,No,6.7,32,"$67,002",60,Rep D,No
+L0137,2026-02-27,Google Search,Technology,Quebec,Large,1130,"$56,664,722",Workflow Automation,26,38%,4,Yes,Yes,No,Yes,Yes,29.2,28,"$83,112",78,Rep C,No
+L0138,2026-01-13,Google Search,,Alberta,Small,47,"$2,877,646",CRM Automation,0,23%,0,No,No,No,Yes,No,9.2,7,"$2,989",27,Rep C,No
+L0139,2026-03-28,Email Campaign,Healthcare,Quebec,Large,383,"$51,196,528",Customer Analytics,19,17%,4,Yes,Yes,Yes,No,Yes,19.3,38,"$21,477",82,Rep E,Yes
+L0140,2026-02-01,Webinar,Technology,Quebec,Medium,209,"$2,685,021",CRM Automation,16,9%,1,No,Yes,No,No,No,5.1,32,"$16,633",43,Rep E,No
+L0141,2026-02-15,Google Search,Professional Services,Prairies,Medium,242,"$7,828,543",Customer Analytics,11,24%,1,Yes,No,No,No,No,5.1,4,"$14,751",45,Rep A,Yes
+L0142,2026-01-14,Webinar,Manufacturing,Prairies,Large,265,"$80,307,788",Workflow Automation,25,56%,5,Yes,Yes,Yes,No,No,15.9,33,"$16,156",94,Rep D,Yes
+L0143,2026-03-19,Webinar,Technology,British Columbia,Small,32,"$2,590,556",Customer Analytics,5,55%,3,No,No,No,No,No,8.3,18,"$2,850",21,Rep D,No
+L0144,2026-03-15,Google Search,Technology,Ontario,Medium,131,"$14,565,887",CRM Automation,19,45%,2,No,Yes,Yes,Yes,Yes,20.5,48,"$10,875",64,Rep E,Yes
+L0145,2026-04-28,Webinar,Retail,Alberta,Medium,149,"$5,370,203",Sales Forecasting,11,28%,1,No,No,No,No,No,19.8,31,"$8,287",32,Rep E,No
+L0146,2026-04-21,Webinar,Professional Services,British Columbia,Small,41,,Workflow Automation,6,40%,3,No,No,Yes,No,No,6.0,27,"$3,426",42,Rep E,No
+L0147,2026-03-10,Email Campaign,Hospitality,Ontario,Large,710,"$74,255,039",Marketing Automation,18,36%,6,No,Yes,Yes,Yes,Yes,19.0,40,"$34,179",69,Rep E,Yes
+L0148,2026-04-28,LinkedIn Ads,Technology,Ontario,Large,328,"$21,520,846",Workflow Automation,20,16%,2,Yes,Yes,Yes,No,No,12.5,9,"$21,191",76,Rep A,Yes
+L0149,2026-04-20,Organic Website,Hospitality,British Columbia,Enterprise,1697,"$69,697,652",Workflow Automation,22,53%,5,Yes,Yes,Yes,Yes,Yes,18.4,53,"$92,884",85,Rep A,Yes
+L0150,2026-01-22,LinkedIn Ads,Technology,Prairies,Medium,144,"$7,402,953",CRM Automation,11,22%,2,Yes,Yes,Yes,No,No,9.9,31,"$13,320",79,Rep D,No
+L0151,2026-03-22,LinkedIn Ads,Healthcare,Ontario,Large,607,"$70,811,551",Workflow Automation,17,32%,3,Yes,Yes,No,Yes,No,6.4,25,"$64,478",73,Rep C,No
+L0152,2026-01-23,LinkedIn Ads,Manufacturing,Quebec,Medium,160,"$12,956,032",Sales Forecasting,13,19%,0,Yes,No,No,No,No,9.3,17,"$11,747",43,Rep E,No
+L0153,2026-03-16,Webinar,Manufacturing,Atlantic Canada,Small,24,,Workflow Automation,4,24%,2,No,No,Yes,No,Yes,11.2,49,"$1,500",28,Rep D,No
+L0154,2026-02-12,Webinar,Healthcare,British Columbia,Small,30,"$2,491,316",Workflow Automation,8,38%,3,Yes,Yes,Yes,Yes,Yes,12.4,15,"$2,489",73,Rep D,Yes
+L0155,2026-02-27,Email Campaign,Education,Quebec,Small,18,"$361,600",Workflow Automation,15,35%,3,Yes,No,No,No,Yes,17.3,29,"$1,500",37,Rep A,No
+L0156,2026-03-18,Webinar,Education,Quebec,Small,18,"$2,771,327",CRM Automation,15,30%,3,Yes,Yes,Yes,No,No,10.0,30,"$1,500",72,Rep C,No
+L0157,2026-01-18,LinkedIn Ads,Technology,Quebec,Small,57,"$3,237,096",CRM Automation,2,29%,4,Yes,Yes,No,Yes,No,9.7,21,"$4,861",61,Rep C,Yes
+L0158,2026-02-20,Google Search,Technology,Prairies,Small,8,"$1,478,123",Sales Forecasting,2,29%,2,No,Yes,Yes,No,Yes,24.7,17,"$1,500",43,Rep C,No
+L0159,2026-04-13,Email Campaign,Education,Alberta,Medium,248,,Sales Forecasting,17,38%,3,Yes,Yes,No,No,No,0.0,21,"$16,192",65,Rep B,No
+L0160,2026-03-31,LinkedIn Ads,Retail,Prairies,Medium,217,"$12,520,861",Customer Analytics,10,66%,4,Yes,Yes,Yes,No,No,11.0,15,"$19,737",76,Rep A,Yes
+L0161,2026-02-03,Google Search,Retail,Ontario,Small,45,"$1,390,896",CRM Automation,7,26%,3,No,No,No,No,Yes,18.2,26,"$4,519",20,Rep A,No
+L0162,2026-03-28,Google Search,Manufacturing,British Columbia,Medium,124,"$7,741,814",CRM Automation,21,27%,2,No,Yes,Yes,No,Yes,7.6,36,"$10,067",59,Rep B,No
+L0163,2026-01-26,Email Campaign,Technology,Quebec,Small,55,"$1,340,515",Marketing Automation,14,24%,0,Yes,No,No,No,No,16.4,29,"$5,320",54,Rep C,No
+L0164,2026-05-01,Trade Show,Hospitality,Quebec,Large,620,"$14,750,444",CRM Automation,14,58%,5,Yes,Yes,No,No,Yes,11.6,49,"$50,987",56,Rep A,No
+L0165,2026-02-21,Webinar,Manufacturing,Quebec,Medium,113,"$8,716,007",Workflow Automation,18,47%,2,Yes,Yes,No,Yes,Yes,13.5,21,"$10,044",73,Rep A,Yes
+L0166,2026-01-21,Google Search,Healthcare,Ontario,Medium,97,"$7,422,692",CRM Automation,13,31%,1,No,No,No,Yes,No,9.3,22,"$4,180",52,Rep B,Yes
+L0167,2026-02-18,LinkedIn Ads,Technology,Quebec,Medium,148,"$10,050,094",Customer Analytics,22,50%,3,Yes,Yes,Yes,No,No,7.2,16,"$13,005",77,Rep C,Yes
+L0168,2026-01-03,Webinar,Education,Prairies,Large,405,"$52,649,209",Workflow Automation,20,51%,3,Yes,Yes,Yes,No,Yes,19.8,22,"$32,098",68,Rep D,Yes
+L0169,2026-01-22,LinkedIn Ads,Healthcare,Ontario,Large,295,"$21,687,675",CRM Automation,20,14%,4,No,Yes,No,Yes,Yes,15.9,47,"$19,223",52,Rep D,No
+L0170,2026-02-08,LinkedIn Ads,Technology,Atlantic Canada,Small,52,"$2,258,815",Workflow Automation,1,20%,0,No,No,No,Yes,No,3.1,27,"$3,316",28,Rep C,No
+L0171,2026-04-13,LinkedIn Ads,Manufacturing,Alberta,Small,59,"$2,586,406",Sales Forecasting,10,14%,3,No,Yes,No,No,No,17.6,23,"$4,758",47,Rep B,No
+L0172,2026-01-20,Organic Website,Technology,British Columbia,Small,26,"$1,811,093",Marketing Automation,4,23%,1,Yes,Yes,No,Yes,Yes,13.8,30,"$2,268",67,Rep D,Yes
+L0173,2026-04-09,LinkedIn Ads,Healthcare,Quebec,Large,313,"$15,117,081",Customer Analytics,16,33%,5,No,Yes,No,Yes,No,0.3,20,"$18,201",68,Rep C,Yes
+L0174,2026-01-06,LinkedIn Ads,Technology,Ontario,Small,43,"$1,016,541",Workflow Automation,2,32%,1,No,No,Yes,No,Yes,17.3,37,"$2,826",22,Rep E,No
+L0175,2026-04-03,Webinar,Technology,British Columbia,Small,56,"$2,272,765",Customer Analytics,5,45%,1,No,Yes,,No,No,7.5,38,"$2,317",33,Rep D,No
+L0176,2026-04-10,LinkedIn Ads,Hospitality,Quebec,Medium,179,"$11,667,651",Marketing Automation,20,22%,3,Yes,Yes,Yes,Yes,No,9.2,17,"$7,377",96,Rep B,Yes
+L0177,2026-03-17,Webinar,Finance,Ontario,Enterprise,1904,"$217,875,683",CRM Automation,33,51%,7,Yes,Yes,Yes,Yes,Yes,24.2,41,"$141,791",88,Rep E,Yes
+L0178,2026-01-25,Google Search,Finance,British Columbia,Small,43,"$2,013,537",CRM Automation,12,9%,4,No,Yes,No,Yes,Yes,18.5,27,"$2,365",53,Rep E,No
+L0179,2026-02-25,Webinar,Healthcare,British Columbia,Small,52,"$752,168",Customer Analytics,9,47%,1,Yes,No,No,No,No,10.6,33,"$3,336",44,Rep D,No
+L0180,2026-04-29,Trade Show,Finance,Ontario,Medium,245,"$10,127,845",Sales Forecasting,8,21%,3,Yes,Yes,No,Yes,No,7.8,19,"$18,617",68,Rep B,Yes
+L0181,2026-01-08,Webinar,Retail,Quebec,Small,33,"$1,145,030",Workflow Automation,7,17%,2,No,No,No,No,No,5.0,16,"$2,556",36,Rep B,No
+L0182,2026-02-07,Organic Website,Finance,Atlantic Canada,Medium,221,"$15,806,269",CRM Automation,13,35%,1,No,Yes,Yes,No,No,7.3,7,"$16,090",60,Rep E,Yes
+L0183,2026-02-22,Email Campaign,Retail,Ontario,Medium,93,"$3,935,525",Sales Forecasting,10,32%,0,No,No,No,Yes,Yes,20.0,16,"$7,202",35,Rep D,No
+L0184,2026-02-27,Referral,Finance,Ontario,Medium,71,"$13,712,948",Customer Analytics,15,,2,Yes,Yes,No,No,No,0.0,23,"$6,041",71,Rep A,Yes
+L0185,2026-02-16,Referral,Finance,Alberta,Small,50,"$2,789,856",Marketing Automation,14,29%,2,Yes,Yes,Yes,Yes,No,9.8,39,"$4,154",98,Rep C,Yes
+L0186,2026-02-05,Trade Show,Retail,Atlantic Canada,Medium,110,"$8,073,361",Customer Analytics,5,23%,5,Yes,Yes,No,Yes,No,10.8,16,"$11,521",76,Rep B,No
+L0187,2026-03-16,Trade Show,Manufacturing,Atlantic Canada,Large,380,"$26,314,267",CRM Automation,19,14%,2,No,Yes,Yes,No,Yes,6.9,38,"$23,454",52,Rep E,No
+L0188,2026-04-30,Webinar,Technology,Atlantic Canada,Small,44,"$882,412",Sales Forecasting,0,27%,3,No,No,No,No,No,11.0,11,"$4,430",27,Rep D,No
+L0189,2026-01-02,,Retail,Ontario,Small,46,"$3,020,198",Workflow Automation,10,,2,No,Yes,No,Yes,No,5.4,15,"$2,516",56,Rep A,No
+L0190,2026-02-28,Organic Website,Professional Services,Ontario,Medium,177,"$10,081,989",CRM Automation,4,42%,0,No,No,No,No,No,2.1,11,"$7,523",17,Rep A,No
+L0191,2026-03-16,Trade Show,Retail,Prairies,Medium,134,"$10,681,521",Marketing Automation,21,15%,1,Yes,No,No,No,No,10.9,19,"$9,720",50,Rep B,Yes
+L0192,2026-03-12,Organic Website,Technology,Ontario,Medium,124,"$16,752,966",CRM Automation,8,13%,3,Yes,Yes,No,Yes,No,15.0,18,"$9,893",59,Rep C,Yes
+L0193,2026-03-26,Referral,Technology,Prairies,Medium,139,"$4,774,541",CRM Automation,13,48%,5,Yes,Yes,Yes,Yes,No,0.4,28,"$10,018",93,Rep D,Yes
+L0194,2026-04-11,Referral,Education,Ontario,Medium,74,"$11,313,120",Sales Forecasting,25,45%,0,Yes,No,Yes,Yes,Yes,7.7,25,"$6,286",71,Rep B,Yes
+L0195,2026-04-03,Webinar,Professional Services,Alberta,Small,56,"$1,823,910",Marketing Automation,14,45%,4,Yes,Yes,Yes,Yes,Yes,22.9,2,"$4,165",78,Rep A,Yes
+L0196,2026-02-23,Email Campaign,Professional Services,Prairies,Small,47,"$2,881,779",Customer Analytics,7,15%,3,Yes,Yes,Yes,Yes,No,0.0,28,"$2,513",77,Rep C,Yes
+L0197,2026-01-20,Referral,Finance,British Columbia,Medium,200,"$6,482,250",CRM Automation,18,47%,0,No,No,Yes,No,No,11.9,9,"$8,462",54,Rep A,Yes
+L0198,2026-03-18,Webinar,Hospitality,British Columbia,Small,28,"$535,283",Customer Analytics,10,60%,3,Yes,No,No,Yes,No,0.0,6,"$2,159",53,Rep D,Yes
+L0199,2026-04-10,LinkedIn Ads,,Ontario,Large,461,"$69,444,433",Customer Analytics,19,37%,4,No,Yes,Yes,No,No,0.0,48,"$45,387",75,Rep D,Yes
+L0200,2026-01-26,Google Search,Technology,Ontario,Enterprise,1033,"$185,609,614",Workflow Automation,25,35%,6,Yes,Yes,Yes,No,No,4.7,59,"$89,215",85,Rep C,Yes
+L0201,2026-02-19,Google Search,Healthcare,Ontario,Medium,112,"$4,623,082",CRM Automation,9,28%,4,No,Yes,Yes,No,No,4.9,25,"$11,055",60,Rep A,Yes
+L0202,2026-01-29,LinkedIn Ads,Education,Ontario,Medium,242,"$12,407,553",Workflow Automation,14,26%,4,No,Yes,No,No,Yes,12.0,26,"$21,736",49,Rep C,No
+L0203,2026-02-22,LinkedIn Ads,Hospitality,Ontario,Small,38,"$1,407,494",Workflow Automation,4,33%,2,Yes,Yes,No,No,No,1.2,10,"$2,835",49,Rep A,No
+L0204,2026-03-29,Google Search,Healthcare,Ontario,Medium,199,"$10,205,777",CRM Automation,18,49%,2,No,Yes,No,Yes,Yes,8.1,23,"$13,208",56,Rep A,No
+L0205,2026-01-12,Trade Show,Technology,Quebec,Medium,97,"$13,877,509",CRM Automation,9,34%,0,Yes,No,No,No,No,4.4,47,"$8,405",35,Rep D,No
+L0206,2026-04-18,Webinar,Manufacturing,Quebec,Large,1121,"$12,611,323",CRM Automation,22,31%,3,Yes,Yes,Yes,No,No,3.2,31,"$77,863",83,Rep E,Yes
+L0207,2026-03-05,Referral,Healthcare,Atlantic Canada,Small,16,"$922,513",Marketing Automation,12,13%,4,No,Yes,Yes,Yes,No,3.2,16,"$1,500",84,Rep A,Yes
+L0208,2026-03-23,Trade Show,Healthcare,Quebec,Medium,183,"$11,779,326",Customer Analytics,20,49%,6,No,Yes,Yes,No,Yes,14.5,13,"$18,744",64,Rep C,Yes
+L0209,2026-02-06,Webinar,Manufacturing,British Columbia,Large,601,"$76,509,183",CRM Automation,19,43%,6,No,Yes,Yes,No,Yes,12.1,83,"$60,639",60,Rep C,No
+L0210,2026-02-22,Referral,Retail,Ontario,Large,394,"$13,747,661",Marketing Automation,9,47%,4,Yes,Yes,No,Yes,Yes,23.7,66,"$24,707",80,Rep B,Yes
+L0211,2026-03-28,Email Campaign,Healthcare,Quebec,Medium,73,"$3,801,769",Marketing Automation,9,38%,2,No,Yes,No,No,Yes,7.6,34,"$7,319",36,Rep B,No
+L0212,2026-01-09,Google Search,Manufacturing,Prairies,Small,29,"$2,371,072",Customer Analytics,7,50%,0,Yes,No,No,No,No,9.8,33,"$1,500",41,Rep C,Yes
+L0213,2026-03-01,LinkedIn Ads,Retail,Ontario,Medium,228,"$2,709,284",Customer Analytics,22,25%,1,No,Yes,No,No,No,5.6,47,"$19,429",47,Rep B,No
+L0214,2026-01-14,Email Campaign,Retail,Quebec,Enterprise,3725,"$80,369,968",Marketing Automation,30,31%,4,Yes,Yes,Yes,Yes,No,10.1,50,"$258,417",98,Rep D,Yes
+L0215,2026-01-01,Organic Website,Technology,Ontario,Small,48,"$1,912,597",Customer Analytics,5,22%,1,No,No,No,No,No,0.0,34,"$4,370",18,Rep C,No
+L0216,2026-03-04,Referral,Technology,Alberta,Small,49,"$1,433,111",Workflow Automation,11,29%,3,Yes,Yes,No,No,No,0.9,19,"$2,300",75,Rep C,Yes
+L0217,2026-04-22,,Technology,Alberta,Small,42,"$2,386,787",Marketing Automation,0,25%,0,Yes,Yes,No,Yes,Yes,21.2,39,"$2,931",47,Rep A,No
+L0218,2026-02-24,Webinar,Technology,Ontario,Small,52,"$285,751",Sales Forecasting,8,43%,1,Yes,Yes,No,No,Yes,24.3,11,"$2,825",50,Rep D,No
+L0219,2026-03-04,Google Search,Hospitality,Alberta,Medium,104,"$5,368,378",Marketing Automation,,36%,0,No,No,No,Yes,Yes,19.9,42,"$9,416",30,Rep A,Yes
+L0220,2026-01-13,LinkedIn Ads,Retail,Prairies,Medium,193,"$12,705,400",Customer Analytics,14,40%,1,No,No,Yes,No,No,1.7,9,"$10,127",47,Rep C,No
+L0221,2026-01-21,Webinar,Hospitality,Prairies,Medium,235,"$6,348,510",Marketing Automation,10,39%,2,Yes,Yes,Yes,No,No,7.2,17,"$10,201",74,Rep C,Yes
+L0222,2026-04-03,Email Campaign,Education,Ontario,Large,573,,Sales Forecasting,28,44%,5,Yes,Yes,Yes,No,Yes,12.5,60,"$42,346",72,Rep D,Yes
+L0223,2026-02-05,Google Search,Finance,Ontario,Small,18,"$1,441,925",Sales Forecasting,,16%,0,Yes,No,No,Yes,No,2.8,1,"$1,500",49,Rep A,No
+L0224,2026-02-15,LinkedIn Ads,Education,Atlantic Canada,Small,34,"$3,181,189",Customer Analytics,7,15%,0,No,No,Yes,No,Yes,18.3,33,"$2,258",23,Rep C,No
+L0225,2026-04-12,Google Search,Technology,Ontario,Medium,240,"$12,443,584",Marketing Automation,15,18%,0,No,Yes,No,Yes,Yes,17.6,24,"$24,359",51,Rep B,No
+L0226,2026-04-06,Google Search,Technology,British Columbia,Small,47,"$1,737,522",Sales Forecasting,11,47%,4,Yes,Yes,Yes,Yes,No,11.2,37,"$4,810",86,Rep E,Yes
+L0227,2026-01-23,Email Campaign,Finance,Atlantic Canada,Medium,91,"$8,503,446",CRM Automation,3,26%,3,No,Yes,No,No,No,4.8,32,"$4,156",50,Rep C,No
+L0228,2026-03-04,Google Search,Professional Services,Ontario,Small,51,"$1,054,264",Sales Forecasting,1,33%,2,Yes,Yes,No,No,No,7.0,14,"$4,213",59,Rep D,No
+L0229,2026-02-10,Webinar,,Atlantic Canada,Medium,133,"$5,001,210",CRM Automation,16,48%,4,Yes,Yes,Yes,Yes,No,6.1,40,"$6,714",86,Rep B,Yes
+L0230,2026-05-01,Webinar,Education,Quebec,Small,18,"$1,758,114",Marketing Automation,13,32%,1,Yes,Yes,Yes,No,No,8.0,13,"$1,500",80,Rep D,Yes
+L0231,2026-02-27,Email Campaign,Professional Services,British Columbia,Large,804,"$22,762,232",Workflow Automation,17,44%,5,Yes,Yes,No,No,Yes,11.4,57,"$38,338",58,Rep D,No
+L0232,2026-04-25,Email Campaign,Professional Services,Prairies,Medium,243,"$3,359,036",Sales Forecasting,10,41%,1,No,No,Yes,No,No,12.5,44,"$14,278",40,Rep C,No
+L0233,2026-02-08,Referral,Hospitality,Ontario,Medium,156,"$13,311,020",CRM Automation,2,56%,0,No,No,Yes,Yes,No,11.3,19,"$14,618",54,Rep A,No
+L0234,2026-03-30,Referral,Technology,Ontario,Large,667,"$47,157,692",Customer Analytics,10,40%,4,Yes,Yes,Yes,No,No,10.5,16,"$58,906",80,Rep A,Yes
+L0235,2026-04-16,Trade Show,Finance,Alberta,Small,18,"$774,425",Sales Forecasting,0,46%,1,No,No,No,No,Yes,19.3,49,"$1,500",17,Rep B,No
+L0236,2026-02-23,Trade Show,Technology,Ontario,Medium,184,"$5,065,192",Sales Forecasting,17,27%,2,No,No,No,No,No,13.8,33,"$15,759",28,Rep B,No
+L0237,2026-01-03,Referral,Retail,Alberta,Enterprise,3802,"$213,270,752",Customer Analytics,28,50%,4,Yes,Yes,No,Yes,Yes,18.5,61,"$345,646",79,Rep C,Yes
+L0238,2026-04-04,Email Campaign,Technology,Ontario,Small,27,"$431,342",Sales Forecasting,10,2%,3,Yes,Yes,,No,No,18.3,33,"$1,500",73,Rep D,Yes
+L0239,2026-02-10,Webinar,Manufacturing,Ontario,Large,1186,"$20,034,039",Sales Forecasting,30,26%,1,Yes,No,Yes,No,No,9.2,26,"$83,860",68,Rep D,Yes
+L0240,2026-03-28,LinkedIn Ads,Retail,Ontario,Large,854,"$30,294,421",Sales Forecasting,15,6%,4,No,Yes,No,No,No,13.1,49,"$39,869",47,Rep D,No
+L0241,2026-02-21,LinkedIn Ads,Education,British Columbia,Small,20,"$2,379,691",Customer Analytics,11,19%,2,No,No,No,No,No,13.2,32,"$1,500",19,Rep A,No
+L0242,2026-03-06,Organic Website,Manufacturing,Ontario,Medium,77,"$11,540,639",Sales Forecasting,17,32%,1,Yes,Yes,No,No,No,5.3,9,"$4,549",64,Rep A,Yes
+L0243,2026-03-15,Google Search,Finance,Atlantic Canada,Medium,173,"$4,319,219",CRM Automation,21,35%,3,No,Yes,Yes,No,No,4.7,36,"$14,342",71,Rep E,Yes
+L0244,2026-01-31,Referral,,Ontario,Small,26,"$2,051,566",Sales Forecasting,5,35%,0,No,No,No,Yes,No,14.8,35,"$1,500",43,Rep B,No
+L0245,2026-04-08,Email Campaign,Manufacturing,Prairies,Small,63,"$336,443",Customer Analytics,11,25%,1,No,No,No,No,No,1.7,37,"$3,895",33,Rep B,No
+L0246,2026-02-08,Email Campaign,Retail,Ontario,Enterprise,2850,"$134,006,826",Marketing Automation,15,6%,3,No,Yes,Yes,No,Yes,14.6,46,"$271,597",55,Rep A,No
+L0247,2026-01-19,Referral,Manufacturing,Ontario,Medium,107,"$5,915,669",Sales Forecasting,17,74%,2,No,No,No,No,No,2.4,7,"$7,912",40,Rep D,No
+L0248,2026-01-04,Google Search,Technology,Alberta,Large,404,"$24,208,858",Workflow Automation,18,22%,4,Yes,Yes,Yes,No,No,10.8,15,"$26,464",87,Rep C,Yes
+L0249,2026-03-09,Google Search,Technology,British Columbia,Small,27,"$2,195,952",Workflow Automation,15,18%,3,No,No,Yes,No,No,4.7,35,"$2,098",53,Rep E,No
+L0250,2026-01-19,Google Search,Hospitality,Ontario,Small,21,"$3,180,037",Customer Analytics,9,42%,0,Yes,No,No,Yes,No,13.4,14,"$1,500",55,Rep E,No
+L0251,2026-01-31,Referral,Technology,Alberta,Small,43,"$447,623",Sales Forecasting,13,,2,No,No,No,No,No,5.6,32,"$1,972",40,Rep E,No
+L0252,2026-04-08,Google Search,Hospitality,Ontario,Medium,185,,Workflow Automation,18,25%,0,Yes,Yes,Yes,Yes,No,13.2,21,"$11,329",81,Rep B,Yes
+L0253,2026-01-26,LinkedIn Ads,Technology,British Columbia,Large,768,"$29,046,806",Customer Analytics,31,26%,4,Yes,Yes,Yes,No,No,0.0,37,"$76,992",91,Rep A,Yes
+L0254,2026-04-28,LinkedIn Ads,Finance,Quebec,Small,48,"$362,740",Sales Forecasting,11,29%,1,Yes,Yes,Yes,Yes,No,5.1,28,"$4,161",83,Rep E,Yes
+L0255,2026-01-02,Organic Website,Technology,Quebec,Small,35,"$1,344,295",Workflow Automation,12,31%,1,Yes,Yes,Yes,Yes,No,3.3,32,"$2,956",82,Rep A,Yes
+L0256,2026-01-17,Referral,Hospitality,Prairies,Medium,75,"$13,002,011",Customer Analytics,20,32%,0,Yes,No,No,No,Yes,21.4,21,"$7,765",51,Rep B,No
+L0257,2026-01-22,Organic Website,Manufacturing,British Columbia,Small,35,"$2,431,497",Workflow Automation,1,67%,0,No,No,No,No,Yes,16.1,46,"$2,576",5,Rep C,No
+L0258,2026-01-27,Google Search,Professional Services,Alberta,Small,19,"$1,821,152",Marketing Automation,11,44%,4,No,Yes,No,No,No,15.1,37,"$1,500",53,Rep E,No
+L0259,2026-04-01,Trade Show,Healthcare,Ontario,Medium,106,"$6,270,211",Workflow Automation,14,47%,3,Yes,No,Yes,No,No,10.5,31,"$4,438",66,Rep B,Yes
+L0260,2026-02-21,Email Campaign,Education,Prairies,Medium,72,"$9,043,749",Workflow Automation,11,56%,2,No,Yes,Yes,Yes,No,1.7,21,"$3,854",70,Rep A,Yes
+L0013,2026-01-14,Organic Website,Professional Services,Ontario,Small,55,"$2,064,248",Marketing Automation,18,2%,3,Yes,Yes,Yes,No,No,0.0,37,"$3,153",73,Rep D,Yes
+L0059,2026-04-08,Email Campaign,Professional Services,British Columbia,Medium,233,"$3,729,561",Marketing Automation,19,46%,2,Yes,Yes,Yes,No,No,6.7,8,"$23,689",75,Rep D,Yes
+L0144,2026-03-15,Google Search,Technology,Ontario,Medium,131,"$14,565,887",CRM Automation,19,45%,2,No,Yes,Yes,Yes,Yes,20.5,48,"$10,875",64,Rep E,Yes
+L0202,2026-01-29,LinkedIn Ads,Education,Ontario,Medium,242,"$12,407,553",Workflow Automation,14,26%,4,No,Yes,No,No,Yes,12.0,26,"$21,736",49,Rep C,No
