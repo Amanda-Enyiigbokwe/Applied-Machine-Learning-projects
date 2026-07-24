@@ -1,0 +1,75 @@
+Actual,Predicted,Probability_No_Subscription,Probability_Subscription,Actual_Label,Predicted_Label,Decision_Explanation
+1,1,0.002,0.998,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+0,0,0.735,0.265,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+1,1,0.013,0.987,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+0,0,0.977,0.023,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+1,1,0.087,0.913,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+0,0,0.87,0.13,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+1,1,0.111,0.889,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+1,1,0.086,0.914,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+1,1,0.45,0.55,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+0,1,0.445,0.555,No Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+0,1,0.446,0.554,No Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+0,0,0.963,0.037,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+1,1,0.005,0.995,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+0,0,0.964,0.036,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+0,1,0.07,0.93,No Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+1,1,0.004,0.996,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+0,1,0.19,0.81,No Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+1,0,0.798,0.202,Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+1,1,0.041,0.959,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+1,0,0.508,0.492,Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+0,0,0.562,0.438,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+1,1,0.131,0.869,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+1,1,0.067,0.933,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+1,1,0.45,0.55,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+1,1,0.047,0.953,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+1,1,0.081,0.919,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+1,1,0.234,0.766,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+1,1,0.346,0.654,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+0,0,0.756,0.244,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+1,1,0.064,0.936,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+0,1,0.152,0.848,No Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+0,0,0.902,0.098,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+0,0,0.771,0.229,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+0,0,0.871,0.129,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+1,1,0.039,0.961,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+0,0,0.962,0.038,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+1,0,0.69,0.31,Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+1,1,0.006,0.994,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+0,0,0.711,0.289,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+0,0,0.998,0.002,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+0,0,0.904,0.096,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+0,0,0.987,0.013,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+0,0,0.783,0.217,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+0,0,0.793,0.207,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+0,0,0.948,0.052,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+0,1,0.39,0.61,No Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+1,0,0.864,0.136,Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+1,1,0.047,0.953,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+0,0,0.883,0.117,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+1,1,0.032,0.968,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+1,1,0.158,0.842,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+0,1,0.413,0.587,No Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+0,0,0.78,0.22,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+1,1,0.038,0.962,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+0,1,0.147,0.853,No Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+0,0,0.86,0.14,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+0,0,0.92,0.08,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+1,1,0.037,0.963,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+0,0,0.998,0.002,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+1,1,0.008,0.992,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+1,1,0.333,0.667,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+1,0,0.546,0.454,Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+1,1,0.442,0.558,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+1,1,0.075,0.925,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+1,1,0.404,0.596,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+1,1,0.076,0.924,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+1,1,0.105,0.895,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+1,1,0.039,0.961,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+1,1,0.432,0.568,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+0,0,0.952,0.048,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+0,0,0.859,0.141,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+0,0,0.753,0.247,No Subscription,No Subscription,Predicted No Subscription because probability is below 0.50
+1,1,0.005,0.995,Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
+0,1,0.191,0.809,No Subscription,Subscription,Predicted Subscription because probability is 0.50 or higher
