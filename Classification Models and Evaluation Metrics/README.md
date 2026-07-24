@@ -72,10 +72,10 @@ Human judgment should be used before deploying this model in a real business set
 ## How to Run or Review
 
 **Option 1 – View on GitHub:**
-Open `week03_notebook.ipynb` directly in GitHub. GitHub renders Jupyter notebooks with code, outputs, and markdown cells visible without any setup required.
+Open `classificationmodels_notebook.ipynb` directly in GitHub. GitHub renders Jupyter notebooks with code, outputs, and markdown cells visible without any setup required.
 
 **Option 2 – Run in Google Colab:**
-1. Upload `week03_notebook.ipynb` and `investment_product_subscription_dataset.xls` to your Google Drive or Colab session.
+1. Upload `classificationmodels_notebook.ipynb` and `investment_product_subscription_dataset.xls` to your Google Drive or Colab session.
 2. Open the notebook in [Google Colab](https://colab.research.google.com/).
 3. Run all cells from top to bottom (`Runtime > Run all`).
 
